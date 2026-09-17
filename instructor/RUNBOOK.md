@@ -119,7 +119,7 @@ Let them run it. Circulate rather than narrate. Come together for bugs 3 and 5.
 | Bug | Query result |
 |---|---|
 | 1. Duplicates | 300,900 landed / 300,000 distinct / **900 duplicates** |
-| 2. Missing platform | **1,590** sessions with no platform |
+| 2. Missing platform | **1,590** rows with no platform (1,587 distinct sessions) |
 | 3. Text numbers | `MAX` = **94**, `MIN` = **115** as text; real answers **180** and **30** |
 | 4. Text money | highest CPM **$9.99** as text, **$67.74** as a number |
 | 5. String timestamp | 150,600 the easy way vs 155,752 real — **5,152 silently dropped** |
@@ -150,13 +150,21 @@ the SQL appear. Then say the timing out loud — twenty seconds against their fi
 minutes.
 
 Then the reference cell, so everyone is on identical tables. Verification should show
-**300,000 rows, 300,000 distinct, 0 null timestamps, 0 null platforms, 1,590 labelled
+**300,000 rows, 300,000 distinct, 0 null timestamps, 0 null platforms, 1,587 labelled
 `unknown`**, and real `timestamp` / `date` types.
+
+Two numbers shift between notebooks because dedupe and the other defects overlap, and both
+are worth having ready rather than explaining on the spot:
+
+- **1,587 labelled `unknown`, not the 1,590** from notebook 01 — three of the null-platform
+  rows were also duplicates.
+- **155,294 August sessions, not the 155,752** from notebook 01 — 458 of the 900 duplicates
+  were August rows.
 
 **Land this properly, without flinching:**
 
-- It got it right. Not approximately — correctly, including keeping the 1,590 rows instead
-  of dropping them.
+- It got it right. Not approximately — correctly, including keeping the null-platform rows
+  instead of dropping them.
 - It got it right *because the problems were mechanical*. The data itself determined the
   answer. No context, no judgment, nobody to go ask.
 - So be honest about what that means: if your value was knowing that CSVs need casting,

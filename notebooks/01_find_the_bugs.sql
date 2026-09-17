@@ -63,19 +63,19 @@ FROM workspace.media_lab.bronze_playback_events;
 
 SELECT
   COALESCE(platform, '** MISSING **') AS platform,
-  COUNT(*)                            AS sessions
+  COUNT(*)                            AS rows
 FROM workspace.media_lab.bronze_playback_events
 GROUP BY 1
-ORDER BY sessions DESC;
+ORDER BY rows DESC;
 
 -- COMMAND ----------
 
 -- MAGIC %md
--- MAGIC **1,590 sessions have no platform at all.**
+-- MAGIC **1,590 rows have no platform at all.**
 -- MAGIC
 -- MAGIC Here is the trap in how you fix it. The obvious move is
 -- MAGIC `WHERE platform IS NOT NULL`, which drops those rows — and now your total viewing
--- MAGIC is quietly 1,590 sessions short of the truth, in every report anyone builds on
+-- MAGIC is quietly 1,590 rows short of the truth, in every report anyone builds on
 -- MAGIC top of it, forever.
 -- MAGIC
 -- MAGIC Keeping the row and labelling the gap `'unknown'` is almost always the better

@@ -117,9 +117,12 @@ FROM workspace.media_lab.silver_viewing_sessions;
 
 -- MAGIC %md
 -- MAGIC Expected: **300,000 rows and 300,000 distinct sessions** (the 900 duplicates are
--- MAGIC gone), **zero null timestamps**, **zero null platforms** with **1,590 labelled
+-- MAGIC gone), **zero null timestamps**, **zero null platforms** with **1,587 labelled
 -- MAGIC `unknown`** (the rows kept, the gap still visible), and real `timestamp` and
 -- MAGIC `date` types.
+-- MAGIC
+-- MAGIC 1,587, not the 1,590 you counted in notebook 01, because three of those rows were
+-- MAGIC among the duplicates. Both fixes are correct and they overlap.
 -- MAGIC
 -- MAGIC And the two queries that were confidently wrong in notebook 01. Now that the
 -- MAGIC types are real, the plain, obvious way to write them is also the correct way —
@@ -127,7 +130,8 @@ FROM workspace.media_lab.silver_viewing_sessions;
 
 -- COMMAND ----------
 
--- 155,752 in notebook 01 needed an explicit CAST to get right. Now it just works.
+-- 155,752 in notebook 01 needed an explicit CAST to get right. Now it just works — and
+-- returns 155,294, because 458 of the 900 duplicates you removed were August rows.
 SELECT COUNT(*) AS august_sessions
 FROM workspace.media_lab.silver_viewing_sessions
 WHERE start_ts >= TIMESTAMP'2026-08-01'
