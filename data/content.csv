@@ -1,0 +1,89 @@
+content_id,title,series_title,network,content_type,genre,season_number,episode_number,runtime_minutes,premiere_date,is_original
+100001,Tenth Alibi S01E04,Tenth Alibi,Tidewater,series_episode,Drama,1,4,30,2026-01-21,false
+100002,Tenth Alibi S05E01,Tenth Alibi,Tidewater,series_episode,Drama,5,1,60,2022-12-27,false
+100003,Tenth Alibi S02E14,Tenth Alibi,Tidewater,series_episode,Procedural,2,14,45,2025-06-04,false
+100004,Tenth Alibi S04E18,Tenth Alibi,Tidewater,series_episode,Procedural,4,18,30,2024-07-04,true
+100005,Tenth Alibi S05E07,Tenth Alibi,Tidewater,series_episode,True Crime,5,7,60,2022-12-03,true
+100006,Tenth Alibi S03E06,Tenth Alibi,Tidewater,series_episode,Drama,3,6,45,2025-02-18,false
+100007,Tenth Alibi S05E08,Tenth Alibi,Tidewater,series_episode,Drama,5,8,30,2025-02-12,false
+100008,Tenth Alibi S03E13,Tenth Alibi,Tidewater,series_episode,Drama,3,13,45,2023-06-14,false
+100009,Tenth Alibi S02E09,Tenth Alibi,Tidewater,series_episode,True Crime,2,9,30,2023-06-26,false
+100010,Tenth Alibi S05E16,Tenth Alibi,Tidewater,series_episode,Procedural,5,16,30,2026-01-06,true
+100011,Tenth Alibi S04E13,Tenth Alibi,Tidewater,series_episode,True Crime,4,13,60,2023-08-31,true
+100012,Tenth Alibi S03E04,Tenth Alibi,Tidewater,series_episode,Drama,3,4,45,2024-02-01,true
+100013,Tenth Alibi S05E04,Tenth Alibi,Tidewater,series_episode,True Crime,5,4,60,2023-01-18,false
+100014,Quiet Corridor S01E08,Quiet Corridor,Tidewater,series_episode,True Crime,1,8,30,2024-08-05,false
+100015,Broken Precinct,Broken Precinct,Tidewater,movie,Procedural,,,94,2026-03-10,true
+100016,Silver Ledger,Silver Ledger,Tidewater,movie,Drama,,,115,2023-09-03,false
+100017,Tenth Circuit S01E12,Tenth Circuit,Tidewater,series_episode,Drama,1,12,45,2022-12-27,true
+100018,Tenth Circuit S05E08,Tenth Circuit,Tidewater,series_episode,Drama,5,8,60,2026-03-26,false
+100019,Night Harbor S01E09,Night Harbor,Tidewater,series_episode,Drama,1,9,30,2023-11-28,true
+100020,Night Harbor S04E07,Night Harbor,Tidewater,series_episode,Procedural,4,7,30,2024-03-19,true
+100021,Tenth Alibi S01E13,Tenth Alibi,Tidewater,series_episode,True Crime,1,13,60,2026-01-07,true
+100022,Tenth Alibi S04E18,Tenth Alibi,Tidewater,series_episode,Procedural,4,18,30,2023-08-07,false
+100023,Silver Territory,Silver Territory,Tidewater,live_event,Drama,,,180,2024-05-19,false
+100024,Night Harbor S02E07,Night Harbor,Tidewater,series_episode,Procedural,2,7,45,2026-04-21,false
+100025,Tenth Alibi S05E16,Tenth Alibi,Tidewater,series_episode,True Crime,5,16,60,2023-08-27,true
+100026,Quiet Corridor S04E04,Quiet Corridor,Tidewater,series_episode,True Crime,4,4,60,2023-04-19,true
+100027,Tenth Circuit S03E07,Tenth Circuit,Tidewater,series_episode,True Crime,3,7,60,2025-04-17,true
+100028,Tenth Alibi S01E18,Tenth Alibi,Tidewater,series_episode,Drama,1,18,30,2025-11-20,false
+100029,Night Alibi,Night Alibi,Tidewater,live_event,Drama,,,120,2023-08-02,false
+100030,Tenth Circuit S01E05,Tenth Circuit,Tidewater,series_episode,Drama,1,5,45,2026-01-11,false
+100031,Tenth Circuit S02E09,Tenth Circuit,Tidewater,series_episode,Procedural,2,9,60,2026-05-06,true
+100032,Tenth Circuit S02E15,Tenth Circuit,Tidewater,series_episode,Drama,2,15,60,2023-06-27,true
+100033,Steel Precinct S01E06,Steel Precinct,Tidewater,series_episode,True Crime,1,6,60,2024-03-21,true
+100034,Night Circuit,Night Circuit,Tidewater,movie,Drama,,,122,2026-01-20,true
+100035,Outer Descent S01E04,Outer Descent,Nova,series_episode,Fantasy,1,4,30,2025-08-21,false
+100036,Ash Colony S01E03,Ash Colony,Nova,series_episode,Fantasy,1,3,60,2026-05-31,false
+100037,Outer Descent S02E01,Outer Descent,Nova,series_episode,Fantasy,2,1,60,2024-10-15,true
+100038,Ash Colony S01E04,Ash Colony,Nova,series_episode,Horror,1,4,45,2025-02-21,true
+100039,Static Threshold S01E10,Static Threshold,Nova,series_episode,Fantasy,1,10,60,2023-05-26,true
+100040,Static Threshold S02E12,Static Threshold,Nova,series_episode,Horror,2,12,45,2022-11-27,false
+100041,Ember Drift S01E05,Ember Drift,Nova,series_episode,Horror,1,5,60,2024-05-16,false
+100042,Ash Colony S05E10,Ash Colony,Nova,series_episode,Fantasy,5,10,45,2026-08-18,true
+100043,Static Threshold S04E15,Static Threshold,Nova,series_episode,Horror,4,15,45,2023-10-07,false
+100044,Static Threshold S01E08,Static Threshold,Nova,series_episode,Sci-Fi,1,8,60,2025-07-07,true
+100045,Outer Descent S04E14,Outer Descent,Nova,series_episode,Fantasy,4,14,60,2024-06-23,false
+100046,Ash Descent S01E12,Ash Descent,Nova,series_episode,Sci-Fi,1,12,60,2023-07-04,true
+100047,Orbit Anomaly,Orbit Anomaly,Nova,movie,Fantasy,,,122,2023-07-01,false
+100048,Fracture Drift S01E08,Fracture Drift,Nova,series_episode,Horror,1,8,30,2023-12-20,false
+100049,Ash Descent S04E08,Ash Descent,Nova,series_episode,Horror,4,8,45,2025-01-10,true
+100050,Fracture Drift S02E07,Fracture Drift,Nova,series_episode,Sci-Fi,2,7,30,2024-10-10,false
+100051,Fracture Gate S01E12,Fracture Gate,Nova,series_episode,Sci-Fi,1,12,30,2023-05-27,false
+100052,Fracture Drift S05E08,Fracture Drift,Nova,series_episode,Fantasy,5,8,45,2024-03-09,false
+100053,Ember Drift S02E15,Ember Drift,Nova,series_episode,Horror,2,15,30,2023-08-21,true
+100054,Fracture Gate S04E06,Fracture Gate,Nova,series_episode,Horror,4,6,30,2024-10-17,true
+100055,Fracture Gate S04E09,Fracture Gate,Nova,series_episode,Fantasy,4,9,30,2023-08-10,true
+100056,Outer Descent S02E07,Outer Descent,Nova,series_episode,Horror,2,7,30,2025-04-17,true
+100057,Nebula Colony S01E06,Nebula Colony,Nova,series_episode,Horror,1,6,30,2025-12-27,false
+100058,Fracture Gate S04E07,Fracture Gate,Nova,series_episode,Fantasy,4,7,30,2023-02-11,true
+100059,Outer Expanse S01E10,Outer Expanse,Nova,series_episode,Fantasy,1,10,30,2024-03-24,false
+100060,Quantum Threshold S01E06,Quantum Threshold,Nova,series_episode,Fantasy,1,6,60,2024-01-20,false
+100061,Ash Descent S05E18,Ash Descent,Nova,series_episode,Horror,5,18,45,2023-04-23,true
+100062,Nebula Colony S05E13,Nebula Colony,Nova,series_episode,Fantasy,5,13,45,2024-10-22,true
+100063,Morning Report,Morning Report,Meridian News,news_program,Politics,,,60,2023-09-25,false
+100064,Daily Hour,Daily Hour,Meridian News,news_program,Business News,,,60,2026-02-09,true
+100065,Balance Watch,Balance Watch,Meridian News,news_program,Business News,,,60,2024-09-13,false
+100066,Balance Report,Balance Report,Meridian News,live_block,Politics,,,60,2025-07-20,true
+100067,Opening Desk,Opening Desk,Meridian News,live_block,Personal Finance,,,60,2025-01-29,false
+100068,Capital Report,Capital Report,Meridian News,news_program,Business News,,,30,2024-12-07,true
+100069,Market Signal,Market Signal,Meridian News,news_program,Politics,,,60,2025-12-03,false
+100070,Daily Watch,Daily Watch,Meridian News,news_program,Politics,,,30,2025-03-19,false
+100071,Evening Hour,Evening Hour,Meridian News,news_program,Business News,,,30,2026-05-01,true
+100072,Closing Roundtable,Closing Roundtable,Meridian News,news_program,Business News,,,60,2023-03-01,true
+100073,Daily Report,Daily Report,Meridian News,news_program,Politics,,,60,2023-02-24,true
+100074,Closing Brief,Closing Brief,Meridian News,live_block,Personal Finance,,,60,2026-03-18,true
+100075,Market Desk,Market Desk,Meridian News,news_program,Personal Finance,,,60,2024-02-01,true
+100076,Capital Exchange,Capital Exchange,Meridian News,live_block,Personal Finance,,,60,2022-12-31,true
+100077,Closing Signal,Closing Signal,Meridian News,news_program,Business News,,,30,2023-04-18,false
+100078,Balance Exchange,Balance Exchange,Meridian News,news_program,Personal Finance,,,60,2023-11-11,false
+100079,Market Bell,Market Bell,Meridian News,live_block,Politics,,,60,2023-05-28,false
+100080,Market Brief,Market Brief,Meridian News,live_block,Personal Finance,,,120,2024-02-25,false
+100081,Closing Hour,Closing Hour,Meridian News,news_program,Personal Finance,,,60,2024-10-30,false
+100082,Evening Roundtable,Evening Roundtable,Meridian News,live_block,Politics,,,60,2024-11-12,true
+100083,Market Roundtable,Market Roundtable,Meridian News,news_program,Politics,,,60,2025-07-30,false
+100084,Opening Report,Opening Report,Meridian News,news_program,Business News,,,60,2023-11-30,true
+100085,Capital Brief,Capital Brief,Meridian News,live_block,Personal Finance,,,120,2023-07-14,false
+100086,Opening Hour,Opening Hour,Meridian News,news_program,Business News,,,60,2025-02-05,false
+100087,Capital Hour,Capital Hour,Meridian News,news_program,Politics,,,30,2023-04-09,false
+100088,Morning Roundtable,Morning Roundtable,Meridian News,news_program,Politics,,,60,2025-01-16,false

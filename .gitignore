@@ -1,0 +1,10 @@
+# Local dev helpers for building and testing this workshop. Not student-facing.
+.dev/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/

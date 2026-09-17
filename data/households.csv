@@ -1,0 +1,3001 @@
+household_id,dma,subscription_tier,primary_device,signup_date,is_active
+1,Boston MA,Standard,Samsung TV,2024-06-17,true
+2,Portland OR,Premium Ad-Free,Roku,2024-09-08,true
+3,Detroit MI,Standard,Android phone,2026-05-06,true
+4,Dallas-Ft Worth TX,Standard,Samsung TV,2026-02-22,true
+5,Dallas-Ft Worth TX,Premium,iPad,2024-01-31,true
+6,Baltimore MD,Standard,iPhone,2024-03-12,true
+7,Boston MA,Premium,iPad,2024-04-04,true
+8,Detroit MI,Standard,Samsung TV,2025-12-24,true
+9,Philadelphia PA,Basic,Roku,2024-06-14,true
+10,Boston MA,Premium,Fire TV Stick,2026-05-24,true
+11,Denver CO,Basic,Samsung TV,2026-01-13,true
+12,Columbus OH,Basic,Samsung TV,2024-07-02,true
+13,Minneapolis MN,Standard,iPad,2023-12-28,false
+14,Portland OR,Premium,Samsung TV,2023-10-28,true
+15,Minneapolis MN,Premium,iPad,2022-05-30,true
+16,Portland OR,Basic,Fire TV Stick,2022-12-18,true
+17,Denver CO,Basic,Samsung TV,2025-01-05,true
+18,New York NY,Premium Ad-Free,iPad,2023-04-10,true
+19,Nashville TN,Basic,Roku,2026-03-30,true
+20,Seattle WA,Basic,Apple TV,2022-12-13,false
+21,Denver CO,Basic,iPad,2024-12-26,false
+22,Atlanta GA,Standard,iPhone,2023-05-16,true
+23,Hartford CT,Premium,iPad,2022-06-17,true
+24,St Louis MO,Premium,iPhone,2023-08-13,true
+25,Portland OR,Standard,iPad,2022-09-05,true
+26,Miami FL,Basic,Web browser,2026-08-12,true
+27,Dallas-Ft Worth TX,Standard,Web browser,2025-12-02,true
+28,Nashville TN,Standard,Roku,2023-12-13,true
+29,Denver CO,Basic,iPhone,2024-04-26,true
+30,Dallas-Ft Worth TX,Basic,Roku,2026-02-19,true
+31,Seattle WA,Basic,Fire TV Stick,2023-07-20,true
+32,Philadelphia PA,Basic,Apple TV,2026-05-28,true
+33,Boston MA,Standard,Android phone,2022-05-16,true
+34,Phoenix AZ,Standard,Samsung TV,2025-12-24,false
+35,Baltimore MD,Basic,iPad,2024-09-24,true
+36,Boston MA,Standard,Apple TV,2023-02-05,true
+37,Baltimore MD,Premium,iPhone,2024-06-07,true
+38,Nashville TN,Premium,iPad,2023-06-10,true
+39,Chicago IL,Premium,Web browser,2023-08-13,true
+40,Miami FL,Standard,Fire TV Stick,2022-07-21,true
+41,Hartford CT,Premium,Android phone,2024-08-25,true
+42,Portland OR,Basic,Roku,2022-06-04,true
+43,Minneapolis MN,Standard,iPhone,2024-06-03,true
+44,Atlanta GA,Basic,Samsung TV,2022-10-17,true
+45,Boston MA,Standard,Web browser,2023-06-28,true
+46,Columbus OH,Standard,iPad,2026-01-30,true
+47,Dallas-Ft Worth TX,Basic,Web browser,2023-11-16,true
+48,Baltimore MD,Premium,iPad,2022-11-10,false
+49,Detroit MI,Basic,Samsung TV,2026-02-07,true
+50,Portland OR,Basic,Android phone,2023-01-11,false
+51,Portland OR,Basic,Roku,2026-03-15,true
+52,Hartford CT,Standard,iPhone,2022-11-21,true
+53,Atlanta GA,Basic,Roku,2023-03-31,true
+54,Seattle WA,Standard,Android phone,2026-01-01,true
+55,Seattle WA,Basic,Web browser,2023-07-08,true
+56,Providence RI,Premium,Android phone,2026-02-25,true
+57,Denver CO,Premium Ad-Free,iPad,2024-03-14,true
+58,Hartford CT,Standard,Fire TV Stick,2022-08-30,true
+59,Minneapolis MN,Standard,Web browser,2025-10-07,true
+60,Detroit MI,Premium,iPhone,2025-11-27,true
+61,St Louis MO,Premium Ad-Free,Android phone,2024-10-29,true
+62,Minneapolis MN,Standard,iPad,2025-01-23,true
+63,Atlanta GA,Premium,Android phone,2026-06-13,true
+64,Columbus OH,Premium,Apple TV,2024-09-07,true
+65,Dallas-Ft Worth TX,Premium,iPhone,2025-07-14,true
+66,Los Angeles CA,Standard,Android phone,2026-02-13,true
+67,St Louis MO,Basic,iPad,2025-06-18,false
+68,Atlanta GA,Basic,Samsung TV,2026-07-27,true
+69,Boston MA,Standard,iPhone,2022-09-13,true
+70,Seattle WA,Standard,iPhone,2022-05-11,true
+71,Portland OR,Standard,Roku,2025-01-25,true
+72,Hartford CT,Standard,Roku,2022-11-12,true
+73,Seattle WA,Standard,Roku,2024-08-30,true
+74,New York NY,Premium,Android phone,2022-09-17,true
+75,Detroit MI,Basic,Samsung TV,2025-11-28,false
+76,Seattle WA,Basic,iPad,2025-06-05,true
+77,Los Angeles CA,Premium,Android phone,2023-06-17,true
+78,Philadelphia PA,Premium,Fire TV Stick,2025-09-15,false
+79,Phoenix AZ,Premium Ad-Free,Roku,2023-02-04,false
+80,Detroit MI,Premium,Apple TV,2024-10-25,true
+81,St Louis MO,Premium,Web browser,2024-11-28,true
+82,Dallas-Ft Worth TX,Basic,Roku,2024-09-11,true
+83,Hartford CT,Standard,Fire TV Stick,2023-03-17,true
+84,Nashville TN,Basic,Roku,2026-08-20,true
+85,Miami FL,Standard,Samsung TV,2023-05-30,true
+86,Minneapolis MN,Premium Ad-Free,Web browser,2023-04-15,true
+87,Boston MA,Standard,Android phone,2023-02-08,true
+88,Los Angeles CA,Standard,Samsung TV,2022-05-07,true
+89,Portland OR,Basic,Fire TV Stick,2023-04-11,true
+90,Nashville TN,Basic,Apple TV,2024-05-15,true
+91,Dallas-Ft Worth TX,Basic,iPhone,2024-08-22,true
+92,Nashville TN,Basic,Apple TV,2024-12-23,true
+93,Nashville TN,Premium Ad-Free,Android phone,2023-01-30,true
+94,Atlanta GA,Standard,Web browser,2024-12-16,true
+95,Baltimore MD,Premium,Fire TV Stick,2024-03-07,true
+96,Chicago IL,Standard,Apple TV,2026-03-30,true
+97,Philadelphia PA,Basic,Fire TV Stick,2025-04-14,true
+98,Detroit MI,Basic,Android phone,2025-07-04,true
+99,Miami FL,Premium,Samsung TV,2024-10-10,true
+100,New York NY,Basic,Apple TV,2024-06-26,true
+101,Nashville TN,Premium,Fire TV Stick,2023-07-23,true
+102,Hartford CT,Basic,Roku,2024-10-15,true
+103,Nashville TN,Standard,Samsung TV,2026-01-03,true
+104,Providence RI,Premium,Android phone,2024-04-19,true
+105,Portland OR,Basic,Fire TV Stick,2026-06-03,true
+106,Portland OR,Basic,Roku,2022-12-26,true
+107,Portland OR,Premium Ad-Free,Samsung TV,2023-04-29,true
+108,Detroit MI,Basic,Android phone,2025-09-07,true
+109,Seattle WA,Standard,Apple TV,2025-07-09,true
+110,Minneapolis MN,Standard,Apple TV,2026-07-16,true
+111,Chicago IL,Basic,Fire TV Stick,2025-01-30,true
+112,Portland OR,Premium,Android phone,2026-06-29,true
+113,Phoenix AZ,Premium,iPad,2022-08-10,true
+114,Seattle WA,Standard,iPad,2026-01-29,true
+115,Denver CO,Premium,iPhone,2023-10-22,true
+116,Phoenix AZ,Basic,Android phone,2024-03-10,true
+117,Providence RI,Basic,Samsung TV,2025-08-19,true
+118,New York NY,Standard,Roku,2023-03-01,true
+119,Philadelphia PA,Premium Ad-Free,Apple TV,2026-03-09,true
+120,New York NY,Basic,Android phone,2022-10-27,true
+121,Dallas-Ft Worth TX,Basic,Android phone,2023-06-16,true
+122,Detroit MI,Standard,Web browser,2023-11-29,true
+123,Detroit MI,Premium,Web browser,2022-11-08,true
+124,Seattle WA,Basic,Fire TV Stick,2024-11-30,true
+125,Baltimore MD,Standard,Roku,2025-06-10,true
+126,Phoenix AZ,Premium,Apple TV,2025-12-27,false
+127,Boston MA,Standard,Web browser,2022-08-29,true
+128,Portland OR,Basic,iPad,2024-12-02,true
+129,Phoenix AZ,Basic,Roku,2023-01-26,false
+130,Miami FL,Standard,Fire TV Stick,2025-03-21,true
+131,Phoenix AZ,Standard,iPhone,2022-07-12,true
+132,Phoenix AZ,Premium,Android phone,2022-11-23,true
+133,Boston MA,Standard,Web browser,2025-04-29,true
+134,Phoenix AZ,Standard,iPad,2024-07-20,true
+135,Portland OR,Premium Ad-Free,Fire TV Stick,2023-03-23,true
+136,Los Angeles CA,Standard,Roku,2025-09-05,false
+137,Miami FL,Standard,Android phone,2026-07-22,true
+138,Providence RI,Premium,iPhone,2025-05-29,true
+139,Los Angeles CA,Basic,Web browser,2024-02-07,true
+140,Dallas-Ft Worth TX,Premium,iPhone,2026-01-25,true
+141,Columbus OH,Premium,iPhone,2025-03-20,false
+142,Philadelphia PA,Basic,Apple TV,2022-09-07,true
+143,Chicago IL,Standard,Roku,2026-05-02,true
+144,Dallas-Ft Worth TX,Basic,Web browser,2026-06-10,true
+145,Columbus OH,Basic,iPad,2024-10-28,true
+146,Baltimore MD,Standard,Fire TV Stick,2026-08-08,true
+147,Providence RI,Basic,Android phone,2026-07-16,true
+148,Philadelphia PA,Premium,Apple TV,2025-11-12,true
+149,Nashville TN,Premium,Samsung TV,2026-03-20,true
+150,Boston MA,Premium,iPad,2023-02-24,true
+151,Baltimore MD,Basic,iPad,2026-02-16,true
+152,Chicago IL,Basic,Fire TV Stick,2024-05-23,true
+153,St Louis MO,Basic,Apple TV,2023-08-10,true
+154,Chicago IL,Basic,iPad,2023-12-14,false
+155,Dallas-Ft Worth TX,Premium Ad-Free,Web browser,2023-10-30,true
+156,Detroit MI,Standard,Roku,2025-02-09,true
+157,New York NY,Basic,iPad,2022-10-24,true
+158,Phoenix AZ,Premium,Samsung TV,2026-05-12,true
+159,Denver CO,Standard,iPhone,2026-03-12,true
+160,Portland OR,Basic,Roku,2022-12-15,true
+161,Columbus OH,Basic,Android phone,2026-05-13,true
+162,Detroit MI,Standard,Android phone,2025-10-29,true
+163,Dallas-Ft Worth TX,Premium,Android phone,2025-11-28,true
+164,Dallas-Ft Worth TX,Basic,iPad,2026-07-07,true
+165,Dallas-Ft Worth TX,Premium,Web browser,2026-02-25,true
+166,Nashville TN,Premium,iPad,2024-03-07,true
+167,Los Angeles CA,Premium,Android phone,2023-10-19,true
+168,Hartford CT,Basic,Web browser,2026-04-19,true
+169,Los Angeles CA,Basic,Android phone,2022-08-01,true
+170,Providence RI,Premium,Android phone,2026-03-30,true
+171,New York NY,Basic,iPhone,2023-09-08,true
+172,Boston MA,Standard,iPad,2023-03-13,true
+173,Portland OR,Premium,Roku,2024-05-28,true
+174,Minneapolis MN,Basic,iPhone,2024-07-13,true
+175,Detroit MI,Premium,Samsung TV,2026-03-09,true
+176,Seattle WA,Premium Ad-Free,Web browser,2025-08-12,true
+177,Minneapolis MN,Premium,Roku,2022-12-24,true
+178,Hartford CT,Standard,Android phone,2025-02-24,true
+179,St Louis MO,Premium,Fire TV Stick,2026-07-05,true
+180,Denver CO,Standard,Web browser,2023-07-03,true
+181,St Louis MO,Premium,iPad,2023-09-13,true
+182,Hartford CT,Premium,Fire TV Stick,2026-05-16,true
+183,Seattle WA,Premium,iPad,2026-06-09,true
+184,Detroit MI,Basic,Samsung TV,2026-02-25,true
+185,Seattle WA,Basic,Web browser,2026-06-09,false
+186,Dallas-Ft Worth TX,Basic,Android phone,2023-12-29,true
+187,Hartford CT,Standard,Roku,2026-01-31,true
+188,Atlanta GA,Standard,Fire TV Stick,2024-01-12,true
+189,Philadelphia PA,Standard,Samsung TV,2025-11-23,true
+190,Los Angeles CA,Standard,Fire TV Stick,2022-06-14,true
+191,Detroit MI,Premium,Fire TV Stick,2023-07-09,false
+192,Miami FL,Premium,Web browser,2025-01-14,true
+193,Miami FL,Basic,iPad,2024-10-20,true
+194,Atlanta GA,Premium,Samsung TV,2026-05-18,true
+195,Columbus OH,Standard,Fire TV Stick,2026-06-03,true
+196,Boston MA,Standard,Fire TV Stick,2024-05-01,true
+197,Los Angeles CA,Basic,Web browser,2026-07-24,true
+198,New York NY,Premium,Apple TV,2023-11-24,true
+199,Los Angeles CA,Premium Ad-Free,Roku,2025-01-01,true
+200,Columbus OH,Premium,Samsung TV,2026-01-20,true
+201,Atlanta GA,Premium,Samsung TV,2024-05-04,true
+202,St Louis MO,Premium Ad-Free,iPhone,2024-04-07,true
+203,Seattle WA,Standard,Apple TV,2023-06-06,true
+204,Detroit MI,Standard,Web browser,2025-10-20,true
+205,Seattle WA,Standard,Android phone,2024-04-16,true
+206,Chicago IL,Premium Ad-Free,Web browser,2023-01-02,true
+207,Portland OR,Basic,Apple TV,2025-06-28,true
+208,Columbus OH,Standard,Android phone,2023-01-17,true
+209,Chicago IL,Premium,Apple TV,2023-07-13,true
+210,Portland OR,Basic,Android phone,2024-10-19,true
+211,Chicago IL,Premium,Android phone,2022-11-02,true
+212,Minneapolis MN,Standard,Apple TV,2022-06-23,true
+213,Portland OR,Premium Ad-Free,Web browser,2025-08-19,true
+214,Dallas-Ft Worth TX,Premium,iPad,2022-06-02,true
+215,Minneapolis MN,Basic,Web browser,2026-08-25,true
+216,Chicago IL,Premium,Fire TV Stick,2026-02-05,false
+217,Boston MA,Basic,Android phone,2026-06-21,true
+218,Boston MA,Standard,Roku,2025-01-25,true
+219,Dallas-Ft Worth TX,Standard,Roku,2022-08-09,true
+220,St Louis MO,Premium,Web browser,2024-01-23,true
+221,New York NY,Basic,Fire TV Stick,2023-12-28,true
+222,Seattle WA,Basic,iPad,2026-04-16,true
+223,Minneapolis MN,Standard,Samsung TV,2024-06-04,false
+224,Philadelphia PA,Standard,Apple TV,2025-01-01,true
+225,Minneapolis MN,Standard,Roku,2024-08-01,true
+226,Los Angeles CA,Basic,Android phone,2025-07-12,true
+227,Nashville TN,Standard,Android phone,2025-10-14,true
+228,Phoenix AZ,Premium,Samsung TV,2022-07-16,true
+229,Denver CO,Basic,iPad,2024-03-29,true
+230,Hartford CT,Standard,Apple TV,2024-11-16,true
+231,Seattle WA,Premium Ad-Free,iPhone,2026-05-04,true
+232,Baltimore MD,Basic,Apple TV,2023-05-11,true
+233,Providence RI,Premium,iPhone,2024-08-12,true
+234,Portland OR,Basic,Fire TV Stick,2024-12-26,true
+235,Seattle WA,Premium,Samsung TV,2023-10-10,true
+236,Minneapolis MN,Premium,iPhone,2026-02-01,true
+237,Detroit MI,Premium,iPhone,2024-05-08,true
+238,Dallas-Ft Worth TX,Basic,Samsung TV,2022-12-04,true
+239,Los Angeles CA,Standard,Android phone,2024-08-25,true
+240,Miami FL,Premium,iPhone,2026-08-28,true
+241,New York NY,Basic,Apple TV,2025-08-30,true
+242,Phoenix AZ,Basic,Fire TV Stick,2026-06-01,true
+243,Boston MA,Basic,Android phone,2024-06-29,true
+244,Miami FL,Premium Ad-Free,Web browser,2025-01-30,true
+245,Miami FL,Standard,iPad,2026-01-31,true
+246,Boston MA,Standard,Android phone,2023-09-08,true
+247,Portland OR,Premium,Web browser,2025-11-22,true
+248,Dallas-Ft Worth TX,Standard,Web browser,2025-03-07,true
+249,Portland OR,Standard,iPhone,2022-05-21,true
+250,Providence RI,Standard,Roku,2026-05-16,true
+251,Hartford CT,Standard,Android phone,2025-08-02,true
+252,Seattle WA,Basic,iPhone,2025-04-13,true
+253,Hartford CT,Premium,Apple TV,2024-06-16,true
+254,Los Angeles CA,Premium,iPad,2025-08-06,true
+255,Detroit MI,Standard,iPad,2022-06-18,true
+256,New York NY,Standard,Apple TV,2026-08-20,true
+257,Detroit MI,Basic,Samsung TV,2022-07-23,true
+258,New York NY,Premium Ad-Free,Fire TV Stick,2024-05-06,false
+259,Hartford CT,Premium,Fire TV Stick,2026-06-29,true
+260,Phoenix AZ,Premium,Apple TV,2026-02-25,true
+261,Portland OR,Basic,Apple TV,2026-03-19,true
+262,Hartford CT,Basic,Apple TV,2025-05-31,true
+263,Chicago IL,Basic,Fire TV Stick,2025-03-20,true
+264,St Louis MO,Basic,Samsung TV,2023-11-19,true
+265,Columbus OH,Basic,iPhone,2025-04-24,true
+266,Phoenix AZ,Basic,Apple TV,2023-07-10,false
+267,Dallas-Ft Worth TX,Premium Ad-Free,iPhone,2025-05-21,true
+268,Los Angeles CA,Basic,Apple TV,2025-07-08,true
+269,Miami FL,Basic,Android phone,2025-06-19,true
+270,Phoenix AZ,Premium,Android phone,2025-03-26,true
+271,Chicago IL,Standard,Web browser,2023-01-13,false
+272,Providence RI,Premium,Roku,2025-08-03,true
+273,Hartford CT,Standard,iPad,2025-06-23,true
+274,Columbus OH,Premium,Apple TV,2022-07-09,true
+275,Dallas-Ft Worth TX,Standard,Roku,2023-10-31,true
+276,Seattle WA,Standard,Android phone,2025-10-31,true
+277,Seattle WA,Standard,Fire TV Stick,2022-11-26,true
+278,Portland OR,Standard,Fire TV Stick,2025-11-12,true
+279,Boston MA,Standard,Web browser,2025-12-15,true
+280,Boston MA,Standard,Fire TV Stick,2024-09-24,true
+281,Chicago IL,Basic,iPhone,2023-09-01,true
+282,Seattle WA,Premium,Fire TV Stick,2025-11-02,true
+283,Detroit MI,Basic,Roku,2023-05-26,true
+284,Seattle WA,Basic,Roku,2025-12-24,true
+285,Dallas-Ft Worth TX,Basic,Roku,2023-04-11,true
+286,St Louis MO,Premium,Samsung TV,2026-03-30,true
+287,Hartford CT,Basic,Samsung TV,2024-08-25,true
+288,Phoenix AZ,Standard,Roku,2023-11-21,true
+289,Denver CO,Premium,Apple TV,2025-07-05,true
+290,Seattle WA,Basic,Apple TV,2024-01-04,true
+291,Nashville TN,Premium,iPhone,2023-09-05,true
+292,Chicago IL,Basic,Web browser,2023-11-05,true
+293,Columbus OH,Basic,Android phone,2024-12-09,true
+294,Los Angeles CA,Standard,Web browser,2023-04-25,true
+295,Denver CO,Premium,Fire TV Stick,2023-06-29,true
+296,Denver CO,Basic,Fire TV Stick,2025-03-31,true
+297,Nashville TN,Standard,iPad,2023-06-27,true
+298,Dallas-Ft Worth TX,Basic,Apple TV,2022-09-07,true
+299,Chicago IL,Standard,iPad,2023-02-15,true
+300,Providence RI,Standard,Samsung TV,2023-06-27,true
+301,Atlanta GA,Standard,Fire TV Stick,2023-05-05,true
+302,Nashville TN,Standard,iPad,2023-03-06,true
+303,Providence RI,Basic,iPhone,2025-05-29,true
+304,Baltimore MD,Standard,iPad,2023-07-16,true
+305,Denver CO,Standard,Samsung TV,2025-10-17,true
+306,New York NY,Standard,Fire TV Stick,2025-02-08,true
+307,Los Angeles CA,Basic,Android phone,2022-08-13,true
+308,Phoenix AZ,Standard,Roku,2025-06-07,true
+309,Los Angeles CA,Standard,Android phone,2023-01-04,true
+310,New York NY,Basic,Samsung TV,2024-10-30,false
+311,Detroit MI,Basic,iPad,2025-10-01,true
+312,Detroit MI,Standard,iPad,2026-03-28,true
+313,New York NY,Premium,Samsung TV,2024-04-14,true
+314,Chicago IL,Basic,Web browser,2024-09-14,true
+315,Philadelphia PA,Premium,Roku,2024-06-12,true
+316,Detroit MI,Standard,Roku,2026-06-21,true
+317,Minneapolis MN,Premium,Web browser,2025-07-01,true
+318,Minneapolis MN,Standard,iPhone,2026-08-22,true
+319,St Louis MO,Standard,Samsung TV,2025-05-08,true
+320,Portland OR,Standard,Fire TV Stick,2022-08-18,true
+321,Los Angeles CA,Premium,Apple TV,2025-12-31,true
+322,New York NY,Standard,Android phone,2023-09-04,true
+323,Miami FL,Standard,iPad,2026-08-19,true
+324,St Louis MO,Standard,Web browser,2024-03-24,true
+325,Columbus OH,Premium,Samsung TV,2022-09-03,true
+326,Philadelphia PA,Basic,Samsung TV,2025-03-08,true
+327,Philadelphia PA,Standard,Fire TV Stick,2025-10-21,true
+328,Providence RI,Standard,Roku,2024-03-10,true
+329,New York NY,Premium,Samsung TV,2025-06-14,true
+330,Phoenix AZ,Standard,iPhone,2022-10-20,true
+331,Denver CO,Standard,Roku,2022-12-26,true
+332,Atlanta GA,Premium Ad-Free,Samsung TV,2023-11-02,true
+333,Los Angeles CA,Standard,Android phone,2023-11-23,true
+334,Nashville TN,Basic,iPad,2024-01-20,true
+335,Seattle WA,Basic,Web browser,2023-06-24,true
+336,Nashville TN,Basic,Apple TV,2024-08-31,true
+337,Columbus OH,Basic,Samsung TV,2022-06-18,true
+338,Los Angeles CA,Standard,iPad,2025-02-28,true
+339,Philadelphia PA,Premium,Android phone,2026-08-14,true
+340,Columbus OH,Premium,Apple TV,2023-08-21,true
+341,Miami FL,Basic,Android phone,2023-10-17,true
+342,Chicago IL,Standard,Fire TV Stick,2022-06-01,true
+343,Miami FL,Basic,Samsung TV,2024-12-12,true
+344,Denver CO,Premium Ad-Free,Apple TV,2024-10-26,true
+345,St Louis MO,Basic,Web browser,2024-03-24,true
+346,Chicago IL,Standard,Roku,2024-12-17,true
+347,Columbus OH,Basic,iPad,2023-04-06,true
+348,St Louis MO,Standard,Apple TV,2024-10-21,true
+349,Hartford CT,Standard,Roku,2023-04-08,true
+350,Hartford CT,Premium,Android phone,2024-10-25,true
+351,Denver CO,Basic,Android phone,2025-09-07,true
+352,Providence RI,Premium,Fire TV Stick,2022-05-16,true
+353,Chicago IL,Standard,Roku,2024-05-19,true
+354,Dallas-Ft Worth TX,Premium,Roku,2023-08-08,true
+355,Columbus OH,Premium,Samsung TV,2024-02-06,true
+356,Columbus OH,Premium Ad-Free,Fire TV Stick,2025-02-07,true
+357,Hartford CT,Basic,Android phone,2022-06-15,true
+358,Baltimore MD,Basic,Roku,2025-01-19,true
+359,Boston MA,Basic,iPad,2022-05-12,true
+360,Minneapolis MN,Basic,iPad,2024-10-17,true
+361,Nashville TN,Standard,Android phone,2026-07-24,true
+362,Baltimore MD,Premium Ad-Free,Web browser,2026-07-01,false
+363,Philadelphia PA,Premium Ad-Free,Web browser,2022-06-12,true
+364,Baltimore MD,Standard,Roku,2024-05-17,true
+365,New York NY,Standard,Apple TV,2024-12-24,true
+366,Denver CO,Premium,iPad,2023-02-24,true
+367,Seattle WA,Premium Ad-Free,Apple TV,2023-12-27,false
+368,Los Angeles CA,Basic,Android phone,2023-10-20,true
+369,Providence RI,Standard,iPad,2023-09-10,true
+370,Portland OR,Premium,Web browser,2025-10-19,true
+371,Los Angeles CA,Basic,Apple TV,2026-04-11,false
+372,Detroit MI,Standard,Apple TV,2023-07-05,false
+373,Dallas-Ft Worth TX,Premium Ad-Free,Roku,2026-07-25,true
+374,Atlanta GA,Premium Ad-Free,Apple TV,2023-07-19,true
+375,Baltimore MD,Premium,Apple TV,2026-02-04,true
+376,Boston MA,Premium,Samsung TV,2025-07-10,true
+377,Minneapolis MN,Basic,Samsung TV,2023-08-06,true
+378,Minneapolis MN,Basic,iPad,2023-12-18,true
+379,Atlanta GA,Standard,iPad,2023-04-12,true
+380,Chicago IL,Standard,Android phone,2024-01-06,true
+381,Providence RI,Standard,Roku,2026-06-14,true
+382,St Louis MO,Standard,Samsung TV,2023-01-10,false
+383,St Louis MO,Standard,Android phone,2025-09-22,true
+384,Philadelphia PA,Premium,Fire TV Stick,2026-01-26,true
+385,Providence RI,Basic,Samsung TV,2022-11-09,false
+386,New York NY,Basic,Android phone,2025-10-25,true
+387,Boston MA,Basic,iPad,2024-05-04,true
+388,Nashville TN,Basic,iPad,2024-07-22,true
+389,Baltimore MD,Premium,Samsung TV,2023-05-01,true
+390,Hartford CT,Standard,Samsung TV,2026-06-20,true
+391,Minneapolis MN,Basic,Samsung TV,2026-03-13,true
+392,Hartford CT,Premium,Android phone,2024-11-10,true
+393,Atlanta GA,Standard,Samsung TV,2024-08-11,true
+394,Phoenix AZ,Basic,Samsung TV,2023-04-01,true
+395,Minneapolis MN,Basic,Fire TV Stick,2024-01-14,true
+396,Baltimore MD,Basic,Samsung TV,2026-01-06,true
+397,Providence RI,Standard,Fire TV Stick,2022-06-04,true
+398,Hartford CT,Basic,iPhone,2024-09-01,true
+399,Chicago IL,Basic,Web browser,2022-06-26,true
+400,Los Angeles CA,Basic,iPad,2022-05-18,true
+401,Columbus OH,Standard,Samsung TV,2026-06-08,true
+402,Portland OR,Basic,Web browser,2024-06-20,true
+403,Los Angeles CA,Premium,Web browser,2024-10-31,true
+404,Columbus OH,Basic,Samsung TV,2024-07-02,true
+405,Seattle WA,Standard,iPad,2025-04-26,true
+406,Denver CO,Standard,Apple TV,2024-03-29,true
+407,Dallas-Ft Worth TX,Standard,Web browser,2024-07-12,true
+408,New York NY,Basic,Apple TV,2025-11-08,true
+409,St Louis MO,Premium,Apple TV,2025-05-30,true
+410,Providence RI,Premium,Fire TV Stick,2026-01-08,true
+411,Hartford CT,Basic,iPad,2023-01-04,true
+412,Philadelphia PA,Basic,Apple TV,2023-09-23,true
+413,Chicago IL,Premium,iPad,2024-12-24,true
+414,New York NY,Standard,Roku,2024-12-11,true
+415,Providence RI,Basic,iPhone,2026-04-26,true
+416,Detroit MI,Basic,Samsung TV,2025-05-27,true
+417,Columbus OH,Standard,Samsung TV,2022-08-29,true
+418,New York NY,Premium,Fire TV Stick,2026-07-10,false
+419,Chicago IL,Standard,Roku,2026-01-10,true
+420,Denver CO,Premium Ad-Free,Apple TV,2022-12-31,true
+421,St Louis MO,Standard,Samsung TV,2024-05-28,true
+422,Detroit MI,Basic,iPad,2026-07-08,true
+423,Portland OR,Standard,Samsung TV,2024-07-16,true
+424,Phoenix AZ,Standard,Fire TV Stick,2023-06-01,true
+425,Dallas-Ft Worth TX,Basic,Apple TV,2025-03-01,true
+426,Hartford CT,Basic,iPhone,2025-01-02,true
+427,Baltimore MD,Standard,Samsung TV,2023-12-05,true
+428,Nashville TN,Standard,Web browser,2024-01-26,true
+429,Providence RI,Basic,Samsung TV,2022-10-02,false
+430,Minneapolis MN,Standard,iPhone,2025-08-02,true
+431,Boston MA,Standard,Roku,2025-06-18,true
+432,Minneapolis MN,Standard,Fire TV Stick,2025-12-26,true
+433,Nashville TN,Premium,iPad,2023-10-13,true
+434,New York NY,Premium,Apple TV,2024-05-08,true
+435,Dallas-Ft Worth TX,Standard,Samsung TV,2025-02-26,true
+436,New York NY,Basic,iPhone,2023-08-25,true
+437,Phoenix AZ,Standard,Roku,2025-01-10,true
+438,St Louis MO,Standard,iPhone,2025-10-24,true
+439,Boston MA,Basic,Apple TV,2024-04-28,true
+440,Atlanta GA,Basic,Fire TV Stick,2024-10-08,true
+441,Columbus OH,Basic,Samsung TV,2024-11-26,true
+442,Los Angeles CA,Standard,Samsung TV,2024-09-25,true
+443,New York NY,Standard,Fire TV Stick,2022-09-14,true
+444,Seattle WA,Basic,iPhone,2025-09-21,true
+445,Denver CO,Premium,Android phone,2025-06-19,true
+446,Detroit MI,Premium,Apple TV,2024-03-19,true
+447,Los Angeles CA,Basic,Web browser,2026-06-16,true
+448,Columbus OH,Premium,iPhone,2026-01-10,true
+449,Denver CO,Basic,iPad,2024-03-17,true
+450,Chicago IL,Premium,Roku,2024-06-14,true
+451,Columbus OH,Premium Ad-Free,iPad,2023-11-01,true
+452,St Louis MO,Basic,Apple TV,2026-03-02,true
+453,Seattle WA,Premium,Android phone,2022-12-18,true
+454,Providence RI,Premium Ad-Free,iPad,2024-07-22,false
+455,Phoenix AZ,Premium,Apple TV,2025-12-27,true
+456,Phoenix AZ,Premium Ad-Free,Apple TV,2025-04-23,true
+457,New York NY,Standard,Roku,2025-09-03,true
+458,Miami FL,Basic,iPhone,2024-09-13,true
+459,Nashville TN,Premium,iPad,2024-08-17,true
+460,New York NY,Standard,Samsung TV,2024-10-12,true
+461,Minneapolis MN,Standard,Fire TV Stick,2024-08-30,true
+462,New York NY,Standard,Apple TV,2022-09-24,true
+463,Minneapolis MN,Standard,Samsung TV,2022-07-05,true
+464,Dallas-Ft Worth TX,Basic,Web browser,2024-07-15,true
+465,Providence RI,Premium,Roku,2022-06-29,true
+466,Columbus OH,Basic,Apple TV,2023-02-12,true
+467,Hartford CT,Premium,Android phone,2023-02-10,true
+468,Phoenix AZ,Premium,Fire TV Stick,2025-09-06,true
+469,Hartford CT,Standard,Web browser,2024-10-05,true
+470,St Louis MO,Standard,Web browser,2025-02-18,false
+471,Minneapolis MN,Basic,Samsung TV,2026-03-29,true
+472,Nashville TN,Premium Ad-Free,Android phone,2026-05-02,true
+473,Dallas-Ft Worth TX,Premium,iPad,2023-12-19,true
+474,Seattle WA,Standard,Android phone,2024-11-02,false
+475,Miami FL,Basic,Fire TV Stick,2023-02-01,true
+476,Portland OR,Basic,Roku,2023-10-07,true
+477,Nashville TN,Standard,Apple TV,2026-04-16,true
+478,Providence RI,Premium Ad-Free,Fire TV Stick,2023-01-12,true
+479,Detroit MI,Premium,Apple TV,2024-07-06,true
+480,New York NY,Basic,Android phone,2024-03-17,true
+481,Chicago IL,Premium,iPhone,2022-06-25,true
+482,Nashville TN,Standard,Fire TV Stick,2023-11-21,true
+483,Chicago IL,Premium,Roku,2026-07-24,true
+484,Portland OR,Basic,Fire TV Stick,2025-11-21,true
+485,Seattle WA,Standard,Samsung TV,2024-10-24,true
+486,Philadelphia PA,Premium,iPad,2026-07-01,true
+487,Los Angeles CA,Basic,Apple TV,2025-12-07,true
+488,Denver CO,Standard,Apple TV,2023-03-27,true
+489,Portland OR,Premium Ad-Free,iPhone,2026-01-15,true
+490,Miami FL,Basic,Roku,2025-12-08,true
+491,St Louis MO,Basic,Fire TV Stick,2024-06-22,true
+492,Baltimore MD,Standard,Roku,2026-04-06,true
+493,Portland OR,Basic,iPhone,2025-07-21,true
+494,Miami FL,Basic,Samsung TV,2022-08-08,true
+495,Chicago IL,Standard,iPhone,2023-12-05,false
+496,Dallas-Ft Worth TX,Premium,iPhone,2022-06-28,true
+497,New York NY,Basic,Samsung TV,2025-02-15,true
+498,Atlanta GA,Basic,iPad,2023-12-29,true
+499,St Louis MO,Premium,Web browser,2025-08-17,true
+500,Dallas-Ft Worth TX,Standard,Roku,2025-01-07,true
+501,New York NY,Premium,Web browser,2025-11-26,true
+502,Detroit MI,Standard,Fire TV Stick,2023-01-20,true
+503,Columbus OH,Premium Ad-Free,Fire TV Stick,2025-11-11,true
+504,Baltimore MD,Standard,iPhone,2025-10-09,false
+505,Chicago IL,Basic,Roku,2024-08-26,true
+506,Seattle WA,Premium,Apple TV,2024-10-19,true
+507,Denver CO,Standard,Fire TV Stick,2025-04-20,true
+508,Philadelphia PA,Basic,Samsung TV,2025-02-10,true
+509,Chicago IL,Basic,iPad,2025-05-19,true
+510,Philadelphia PA,Standard,Web browser,2022-09-16,true
+511,Columbus OH,Basic,Fire TV Stick,2024-02-24,true
+512,Minneapolis MN,Basic,iPhone,2022-09-05,true
+513,Nashville TN,Basic,Samsung TV,2022-05-22,true
+514,Nashville TN,Standard,Samsung TV,2023-11-04,true
+515,Columbus OH,Standard,Android phone,2023-02-01,false
+516,New York NY,Standard,Web browser,2026-03-07,true
+517,Baltimore MD,Basic,Samsung TV,2022-07-20,true
+518,Boston MA,Basic,Roku,2024-07-28,true
+519,Seattle WA,Standard,Web browser,2023-07-28,true
+520,Phoenix AZ,Standard,Web browser,2025-08-06,true
+521,Atlanta GA,Standard,Apple TV,2026-03-31,true
+522,New York NY,Basic,iPhone,2022-10-30,true
+523,Hartford CT,Basic,iPad,2024-09-17,true
+524,Nashville TN,Basic,iPhone,2026-01-22,true
+525,Los Angeles CA,Standard,Samsung TV,2023-10-23,true
+526,Los Angeles CA,Standard,Web browser,2026-06-04,true
+527,St Louis MO,Premium,iPad,2024-09-16,true
+528,New York NY,Standard,iPhone,2023-08-12,true
+529,St Louis MO,Standard,Fire TV Stick,2023-07-17,true
+530,St Louis MO,Standard,Samsung TV,2024-09-11,true
+531,Phoenix AZ,Basic,Android phone,2025-01-21,true
+532,Hartford CT,Standard,Apple TV,2023-01-12,true
+533,Hartford CT,Standard,iPhone,2025-11-10,true
+534,Chicago IL,Standard,Android phone,2026-05-03,true
+535,Phoenix AZ,Basic,Roku,2025-12-24,false
+536,Hartford CT,Premium,iPhone,2023-03-12,true
+537,Seattle WA,Premium Ad-Free,Android phone,2024-08-16,true
+538,New York NY,Basic,Fire TV Stick,2026-07-01,true
+539,Denver CO,Standard,iPhone,2025-12-05,true
+540,Providence RI,Premium,Android phone,2026-07-15,true
+541,Minneapolis MN,Basic,Roku,2023-02-19,true
+542,Boston MA,Premium,Android phone,2024-08-30,true
+543,Hartford CT,Standard,Apple TV,2026-05-13,true
+544,Hartford CT,Premium,Samsung TV,2025-09-13,true
+545,Nashville TN,Premium Ad-Free,Android phone,2023-12-29,true
+546,Boston MA,Basic,Roku,2024-02-02,true
+547,Dallas-Ft Worth TX,Standard,Roku,2023-02-11,true
+548,Phoenix AZ,Standard,Samsung TV,2026-07-19,true
+549,Denver CO,Basic,Web browser,2026-05-11,true
+550,Detroit MI,Basic,Roku,2026-07-04,true
+551,Nashville TN,Premium Ad-Free,iPad,2024-12-14,true
+552,Atlanta GA,Basic,Roku,2023-07-07,true
+553,Nashville TN,Standard,Samsung TV,2023-10-16,true
+554,Los Angeles CA,Premium,Samsung TV,2025-09-30,true
+555,Columbus OH,Basic,Samsung TV,2023-10-25,true
+556,Denver CO,Standard,Roku,2023-10-26,true
+557,Minneapolis MN,Premium Ad-Free,iPad,2025-10-30,true
+558,Baltimore MD,Standard,Apple TV,2023-06-01,true
+559,Portland OR,Basic,iPad,2024-10-30,true
+560,Baltimore MD,Basic,Android phone,2026-05-27,true
+561,Denver CO,Premium Ad-Free,iPhone,2024-12-19,true
+562,Providence RI,Basic,Apple TV,2023-04-30,true
+563,Seattle WA,Standard,Android phone,2023-08-24,true
+564,Hartford CT,Basic,Web browser,2025-06-30,true
+565,Baltimore MD,Standard,Web browser,2023-05-21,true
+566,Philadelphia PA,Premium Ad-Free,Web browser,2024-12-21,true
+567,Philadelphia PA,Standard,Fire TV Stick,2024-08-31,true
+568,Philadelphia PA,Premium Ad-Free,iPhone,2026-04-14,true
+569,Miami FL,Basic,Samsung TV,2022-05-06,true
+570,Phoenix AZ,Standard,Web browser,2023-01-11,true
+571,St Louis MO,Premium,Web browser,2025-10-25,true
+572,Dallas-Ft Worth TX,Standard,iPad,2024-03-26,true
+573,Chicago IL,Basic,Fire TV Stick,2023-04-14,true
+574,Providence RI,Premium,Apple TV,2024-06-22,true
+575,Providence RI,Standard,Android phone,2025-09-29,true
+576,Atlanta GA,Standard,Android phone,2022-06-20,true
+577,St Louis MO,Premium Ad-Free,Apple TV,2025-06-30,false
+578,Denver CO,Basic,Fire TV Stick,2025-03-18,true
+579,Baltimore MD,Basic,Fire TV Stick,2025-01-18,true
+580,New York NY,Basic,Android phone,2022-10-21,true
+581,Boston MA,Standard,Samsung TV,2024-06-29,true
+582,Nashville TN,Basic,Samsung TV,2023-07-18,true
+583,New York NY,Standard,iPad,2022-10-05,true
+584,Boston MA,Basic,Roku,2022-08-22,true
+585,Dallas-Ft Worth TX,Standard,iPad,2022-12-14,true
+586,St Louis MO,Basic,Apple TV,2022-09-24,true
+587,Detroit MI,Standard,Web browser,2022-07-22,true
+588,Boston MA,Standard,Web browser,2022-05-16,true
+589,Nashville TN,Standard,iPhone,2023-11-16,true
+590,Nashville TN,Standard,Apple TV,2026-02-01,true
+591,Nashville TN,Standard,Fire TV Stick,2026-03-02,true
+592,St Louis MO,Premium,Fire TV Stick,2023-03-20,true
+593,Philadelphia PA,Standard,Web browser,2025-04-16,true
+594,Columbus OH,Basic,Fire TV Stick,2023-03-06,true
+595,Los Angeles CA,Premium,Samsung TV,2022-08-13,false
+596,Nashville TN,Standard,Samsung TV,2023-11-14,true
+597,Phoenix AZ,Basic,Android phone,2023-05-09,true
+598,Portland OR,Standard,iPad,2025-06-14,true
+599,Miami FL,Basic,iPhone,2024-10-11,true
+600,Miami FL,Basic,iPad,2022-06-26,true
+601,Miami FL,Premium,iPhone,2023-02-15,true
+602,Portland OR,Basic,Samsung TV,2025-10-10,true
+603,Minneapolis MN,Premium,Fire TV Stick,2022-08-10,true
+604,New York NY,Premium Ad-Free,Fire TV Stick,2024-06-30,true
+605,Nashville TN,Standard,Samsung TV,2023-01-03,true
+606,Denver CO,Standard,Roku,2024-05-27,false
+607,Los Angeles CA,Standard,Apple TV,2024-01-17,true
+608,Denver CO,Premium Ad-Free,Samsung TV,2025-12-16,true
+609,Columbus OH,Standard,Samsung TV,2025-03-11,true
+610,Baltimore MD,Basic,iPad,2023-07-14,true
+611,Nashville TN,Standard,Web browser,2023-01-06,true
+612,Seattle WA,Standard,Android phone,2026-04-10,true
+613,Portland OR,Basic,Roku,2026-04-29,true
+614,Atlanta GA,Standard,Samsung TV,2023-08-29,true
+615,Detroit MI,Basic,Android phone,2024-09-21,true
+616,Miami FL,Premium,iPhone,2022-12-27,true
+617,Philadelphia PA,Basic,Samsung TV,2026-05-13,true
+618,Chicago IL,Basic,Samsung TV,2025-02-22,true
+619,Boston MA,Basic,Samsung TV,2026-07-04,true
+620,New York NY,Basic,iPhone,2023-08-04,true
+621,Dallas-Ft Worth TX,Basic,Fire TV Stick,2022-12-12,true
+622,Seattle WA,Basic,iPhone,2025-12-24,true
+623,Hartford CT,Basic,Fire TV Stick,2025-04-04,true
+624,Dallas-Ft Worth TX,Basic,Android phone,2022-12-31,true
+625,Miami FL,Standard,iPad,2026-06-24,true
+626,Philadelphia PA,Standard,iPhone,2022-07-16,true
+627,Los Angeles CA,Basic,Samsung TV,2022-10-27,true
+628,Atlanta GA,Basic,Web browser,2025-12-30,true
+629,Denver CO,Basic,Android phone,2026-01-21,true
+630,Atlanta GA,Basic,Samsung TV,2023-08-31,true
+631,Minneapolis MN,Basic,Roku,2026-08-13,true
+632,Los Angeles CA,Premium,Roku,2024-06-20,true
+633,Dallas-Ft Worth TX,Premium Ad-Free,Fire TV Stick,2026-05-16,true
+634,Atlanta GA,Premium,Fire TV Stick,2024-05-11,true
+635,Hartford CT,Standard,Android phone,2025-02-21,true
+636,Detroit MI,Standard,iPhone,2023-08-08,true
+637,Philadelphia PA,Basic,Web browser,2022-11-06,true
+638,Chicago IL,Premium,iPhone,2024-07-17,false
+639,Portland OR,Premium,Web browser,2023-11-19,true
+640,St Louis MO,Premium,iPhone,2024-01-23,true
+641,Detroit MI,Premium,Apple TV,2022-05-25,true
+642,St Louis MO,Standard,Android phone,2025-08-29,true
+643,Baltimore MD,Premium,Samsung TV,2025-08-16,true
+644,Seattle WA,Premium,Apple TV,2025-01-07,true
+645,Portland OR,Basic,Samsung TV,2023-06-22,true
+646,Los Angeles CA,Premium,Android phone,2022-11-30,true
+647,Seattle WA,Basic,Samsung TV,2025-06-15,true
+648,Denver CO,Premium Ad-Free,Android phone,2026-03-08,true
+649,Columbus OH,Premium,Web browser,2024-01-10,true
+650,Nashville TN,Basic,Samsung TV,2024-01-27,true
+651,Seattle WA,Standard,Apple TV,2025-01-13,true
+652,Detroit MI,Basic,Samsung TV,2025-11-10,true
+653,Philadelphia PA,Premium,iPad,2022-12-25,true
+654,Nashville TN,Premium,Fire TV Stick,2022-12-30,true
+655,Phoenix AZ,Standard,Web browser,2023-06-04,true
+656,Denver CO,Premium,Samsung TV,2024-02-26,true
+657,Portland OR,Basic,iPad,2025-07-11,true
+658,Miami FL,Basic,iPad,2024-11-30,true
+659,Boston MA,Standard,iPad,2026-05-12,true
+660,Chicago IL,Basic,Web browser,2025-07-30,true
+661,Hartford CT,Standard,Fire TV Stick,2024-09-16,true
+662,Minneapolis MN,Basic,iPhone,2024-10-07,true
+663,Providence RI,Standard,Roku,2026-04-24,true
+664,Philadelphia PA,Standard,Apple TV,2022-07-07,true
+665,Phoenix AZ,Premium,Roku,2025-07-01,true
+666,Detroit MI,Basic,Android phone,2024-06-15,true
+667,Denver CO,Premium,iPhone,2024-08-23,true
+668,Baltimore MD,Standard,Android phone,2024-08-17,true
+669,St Louis MO,Basic,Fire TV Stick,2023-01-01,true
+670,New York NY,Standard,Apple TV,2023-06-06,true
+671,Columbus OH,Standard,Android phone,2022-11-27,true
+672,Miami FL,Basic,iPad,2025-01-07,true
+673,Miami FL,Standard,Web browser,2025-07-06,true
+674,Boston MA,Basic,Roku,2024-10-22,true
+675,Miami FL,Standard,Samsung TV,2024-03-24,true
+676,Minneapolis MN,Standard,Roku,2025-03-14,true
+677,Phoenix AZ,Standard,iPad,2024-09-01,true
+678,Boston MA,Premium,Roku,2026-01-02,true
+679,Denver CO,Basic,iPad,2024-02-18,true
+680,St Louis MO,Premium Ad-Free,Fire TV Stick,2023-07-28,true
+681,Minneapolis MN,Premium,Roku,2024-05-18,true
+682,New York NY,Premium Ad-Free,Web browser,2022-11-18,true
+683,Columbus OH,Premium,Samsung TV,2022-05-08,true
+684,Columbus OH,Basic,Samsung TV,2022-09-28,false
+685,Hartford CT,Standard,Android phone,2026-04-04,true
+686,Nashville TN,Basic,Apple TV,2022-11-06,true
+687,Dallas-Ft Worth TX,Premium,Android phone,2025-03-19,true
+688,Phoenix AZ,Standard,Samsung TV,2024-09-14,true
+689,Dallas-Ft Worth TX,Basic,Apple TV,2024-11-16,true
+690,Portland OR,Premium,Samsung TV,2025-06-06,true
+691,Columbus OH,Basic,Roku,2022-11-11,true
+692,Portland OR,Standard,Apple TV,2023-11-25,true
+693,St Louis MO,Premium,iPhone,2022-06-23,true
+694,St Louis MO,Basic,Fire TV Stick,2022-07-12,true
+695,Boston MA,Standard,Roku,2024-11-03,true
+696,Chicago IL,Premium,Android phone,2023-07-07,true
+697,Minneapolis MN,Basic,Samsung TV,2024-06-26,true
+698,Phoenix AZ,Standard,Fire TV Stick,2024-07-08,true
+699,Boston MA,Basic,Android phone,2023-06-17,true
+700,Boston MA,Standard,iPad,2023-09-05,true
+701,Denver CO,Basic,Roku,2022-09-18,false
+702,Miami FL,Premium Ad-Free,Fire TV Stick,2023-04-26,true
+703,Hartford CT,Premium,Apple TV,2023-12-20,true
+704,Hartford CT,Basic,Android phone,2022-09-06,true
+705,New York NY,Basic,Roku,2026-03-20,true
+706,Phoenix AZ,Standard,iPad,2023-05-11,true
+707,Providence RI,Standard,Apple TV,2024-12-17,true
+708,Phoenix AZ,Standard,Fire TV Stick,2024-10-13,true
+709,Seattle WA,Basic,iPad,2023-04-11,true
+710,Seattle WA,Basic,Roku,2025-06-22,true
+711,Detroit MI,Premium Ad-Free,Fire TV Stick,2022-11-01,true
+712,Denver CO,Standard,Web browser,2024-06-30,true
+713,Minneapolis MN,Premium,iPhone,2025-02-23,true
+714,Portland OR,Standard,Samsung TV,2025-03-28,true
+715,St Louis MO,Premium,Android phone,2024-11-01,true
+716,Portland OR,Basic,Android phone,2022-07-31,true
+717,Denver CO,Basic,iPhone,2026-03-19,true
+718,Seattle WA,Premium,Roku,2024-06-17,true
+719,Philadelphia PA,Premium Ad-Free,iPhone,2023-01-17,true
+720,Phoenix AZ,Basic,Apple TV,2024-08-13,true
+721,New York NY,Standard,iPad,2024-03-17,true
+722,St Louis MO,Standard,iPhone,2025-02-24,true
+723,Nashville TN,Standard,Roku,2026-01-25,true
+724,New York NY,Basic,Web browser,2023-11-22,true
+725,Portland OR,Premium,Apple TV,2022-09-05,true
+726,New York NY,Basic,Apple TV,2024-05-29,true
+727,Minneapolis MN,Standard,Web browser,2024-10-15,true
+728,Boston MA,Basic,iPad,2026-02-06,true
+729,Seattle WA,Basic,iPad,2022-07-28,true
+730,Detroit MI,Standard,Android phone,2022-11-24,true
+731,Minneapolis MN,Basic,Web browser,2022-10-03,true
+732,Dallas-Ft Worth TX,Standard,Roku,2025-02-07,true
+733,St Louis MO,Basic,iPhone,2023-12-15,true
+734,Portland OR,Premium Ad-Free,Apple TV,2024-10-14,true
+735,Philadelphia PA,Premium,Samsung TV,2025-08-23,true
+736,Detroit MI,Premium,Fire TV Stick,2025-10-08,true
+737,Minneapolis MN,Basic,Fire TV Stick,2024-12-30,true
+738,Los Angeles CA,Basic,Samsung TV,2024-04-06,true
+739,Minneapolis MN,Standard,Web browser,2026-02-17,true
+740,Baltimore MD,Standard,Android phone,2023-08-15,true
+741,Nashville TN,Basic,Apple TV,2024-09-04,false
+742,Portland OR,Basic,Samsung TV,2022-11-05,true
+743,Miami FL,Standard,iPhone,2025-06-14,true
+744,Chicago IL,Basic,Fire TV Stick,2026-06-08,true
+745,Portland OR,Standard,iPhone,2025-04-22,true
+746,Atlanta GA,Basic,Android phone,2022-06-13,true
+747,Denver CO,Basic,Fire TV Stick,2025-04-07,true
+748,Los Angeles CA,Standard,iPhone,2023-08-12,true
+749,Los Angeles CA,Standard,Android phone,2023-01-04,true
+750,Hartford CT,Standard,iPhone,2025-06-05,false
+751,Columbus OH,Standard,Apple TV,2023-11-17,true
+752,New York NY,Premium,iPhone,2025-10-09,true
+753,Boston MA,Standard,iPad,2025-02-02,true
+754,St Louis MO,Standard,Fire TV Stick,2025-05-18,true
+755,Phoenix AZ,Premium Ad-Free,iPhone,2023-10-01,true
+756,Dallas-Ft Worth TX,Standard,Android phone,2022-11-14,true
+757,Minneapolis MN,Premium,Apple TV,2025-07-26,true
+758,Atlanta GA,Premium,Samsung TV,2025-05-25,true
+759,New York NY,Basic,Web browser,2023-02-08,true
+760,Minneapolis MN,Standard,Apple TV,2024-08-27,true
+761,Hartford CT,Standard,iPhone,2024-06-09,true
+762,Phoenix AZ,Premium Ad-Free,Fire TV Stick,2023-08-09,true
+763,St Louis MO,Standard,Web browser,2026-01-23,true
+764,St Louis MO,Basic,iPhone,2022-11-20,true
+765,Atlanta GA,Standard,iPad,2025-01-28,true
+766,Portland OR,Basic,iPhone,2023-10-23,true
+767,Miami FL,Premium,Apple TV,2024-10-15,true
+768,Seattle WA,Standard,Apple TV,2023-05-27,true
+769,New York NY,Premium,Android phone,2024-01-05,true
+770,Atlanta GA,Premium,iPad,2025-11-28,true
+771,Detroit MI,Standard,Fire TV Stick,2025-11-05,true
+772,Columbus OH,Standard,iPad,2022-11-11,true
+773,Providence RI,Premium,iPad,2024-05-30,true
+774,Minneapolis MN,Premium,Roku,2025-06-19,true
+775,Nashville TN,Premium,Roku,2026-01-14,true
+776,Columbus OH,Basic,Android phone,2026-02-07,true
+777,Dallas-Ft Worth TX,Standard,iPad,2022-09-05,true
+778,New York NY,Basic,Samsung TV,2022-06-08,true
+779,Chicago IL,Premium,Android phone,2024-12-15,true
+780,Baltimore MD,Standard,Web browser,2025-10-14,true
+781,Baltimore MD,Standard,Apple TV,2024-11-05,true
+782,Miami FL,Basic,Fire TV Stick,2026-01-25,true
+783,New York NY,Basic,Web browser,2024-04-12,true
+784,New York NY,Standard,Apple TV,2023-12-13,true
+785,Seattle WA,Basic,Samsung TV,2022-05-25,true
+786,Phoenix AZ,Basic,Samsung TV,2025-04-12,true
+787,Providence RI,Premium,iPhone,2025-10-20,true
+788,Detroit MI,Premium,Apple TV,2026-01-30,true
+789,Denver CO,Basic,Android phone,2025-01-10,true
+790,Providence RI,Basic,Android phone,2024-01-22,true
+791,Boston MA,Premium Ad-Free,Fire TV Stick,2026-05-15,true
+792,Seattle WA,Standard,Samsung TV,2023-05-17,true
+793,Minneapolis MN,Standard,Roku,2024-09-01,true
+794,Nashville TN,Basic,Fire TV Stick,2023-03-24,false
+795,Dallas-Ft Worth TX,Basic,Web browser,2024-08-26,true
+796,Chicago IL,Basic,iPhone,2025-12-26,true
+797,Columbus OH,Premium,iPhone,2026-07-26,true
+798,Seattle WA,Basic,Web browser,2024-04-01,true
+799,Los Angeles CA,Basic,Android phone,2024-04-28,false
+800,Dallas-Ft Worth TX,Premium,iPad,2023-02-20,true
+801,Providence RI,Premium Ad-Free,Android phone,2022-11-11,true
+802,Los Angeles CA,Premium,Samsung TV,2025-12-17,true
+803,Denver CO,Standard,Android phone,2025-04-18,true
+804,St Louis MO,Standard,Apple TV,2025-10-04,true
+805,Minneapolis MN,Standard,Web browser,2026-03-13,true
+806,Portland OR,Basic,Fire TV Stick,2026-08-25,true
+807,Denver CO,Standard,Web browser,2026-04-20,true
+808,New York NY,Standard,Web browser,2024-05-22,true
+809,Atlanta GA,Standard,Fire TV Stick,2026-01-01,true
+810,Columbus OH,Premium,Android phone,2025-10-25,true
+811,Providence RI,Premium Ad-Free,Web browser,2026-02-23,true
+812,Baltimore MD,Basic,iPhone,2023-07-11,true
+813,Detroit MI,Standard,Apple TV,2023-11-28,false
+814,Chicago IL,Basic,Web browser,2022-06-30,true
+815,Portland OR,Standard,iPhone,2026-03-05,true
+816,Nashville TN,Basic,Roku,2025-10-03,true
+817,Providence RI,Basic,Fire TV Stick,2024-09-07,true
+818,New York NY,Premium,Android phone,2023-11-07,true
+819,Detroit MI,Standard,Samsung TV,2026-02-04,true
+820,Columbus OH,Premium,Fire TV Stick,2025-09-28,true
+821,Providence RI,Basic,iPad,2024-11-01,false
+822,Detroit MI,Basic,Roku,2026-07-31,true
+823,New York NY,Standard,Fire TV Stick,2024-12-12,true
+824,Detroit MI,Basic,Samsung TV,2023-05-18,true
+825,Miami FL,Basic,Roku,2024-05-18,true
+826,Boston MA,Premium Ad-Free,Samsung TV,2024-10-12,true
+827,Detroit MI,Basic,Web browser,2024-07-19,true
+828,Baltimore MD,Basic,Web browser,2022-07-25,true
+829,Baltimore MD,Standard,iPad,2024-05-28,true
+830,Providence RI,Standard,Apple TV,2024-05-06,true
+831,Philadelphia PA,Standard,Roku,2022-08-19,true
+832,Philadelphia PA,Standard,iPad,2025-12-23,true
+833,Seattle WA,Premium,Apple TV,2026-03-30,true
+834,New York NY,Basic,Android phone,2024-09-17,true
+835,Baltimore MD,Standard,Roku,2025-04-12,true
+836,Portland OR,Standard,Android phone,2025-10-12,true
+837,Nashville TN,Premium,iPhone,2026-02-21,true
+838,Hartford CT,Standard,Web browser,2022-11-10,true
+839,Providence RI,Standard,Roku,2024-01-01,true
+840,St Louis MO,Basic,Samsung TV,2023-09-02,true
+841,Chicago IL,Basic,Web browser,2026-02-23,true
+842,Detroit MI,Basic,Samsung TV,2025-03-07,true
+843,St Louis MO,Premium,Android phone,2023-12-22,true
+844,Providence RI,Basic,Fire TV Stick,2024-05-17,true
+845,Providence RI,Premium,Android phone,2023-08-27,true
+846,Providence RI,Basic,Apple TV,2023-10-06,true
+847,Hartford CT,Premium,iPhone,2024-11-13,true
+848,Boston MA,Premium,Web browser,2023-04-10,true
+849,Nashville TN,Basic,Android phone,2025-07-14,false
+850,Miami FL,Basic,Samsung TV,2026-04-24,false
+851,Columbus OH,Basic,Fire TV Stick,2022-09-15,true
+852,Nashville TN,Premium,Apple TV,2026-07-24,true
+853,Columbus OH,Basic,iPad,2025-06-06,true
+854,Philadelphia PA,Standard,Fire TV Stick,2026-03-01,true
+855,Chicago IL,Standard,Android phone,2025-08-27,true
+856,Nashville TN,Premium,Samsung TV,2024-12-12,true
+857,Philadelphia PA,Standard,Apple TV,2026-02-05,true
+858,Boston MA,Standard,Android phone,2024-08-21,true
+859,Detroit MI,Premium Ad-Free,Apple TV,2022-08-24,true
+860,Nashville TN,Basic,Apple TV,2026-01-25,true
+861,Columbus OH,Premium,iPhone,2022-08-25,true
+862,St Louis MO,Basic,iPad,2024-11-17,true
+863,New York NY,Standard,iPad,2024-02-04,true
+864,Portland OR,Premium,Android phone,2024-09-30,true
+865,Nashville TN,Standard,Android phone,2025-04-15,true
+866,Detroit MI,Standard,iPad,2026-03-09,true
+867,Nashville TN,Basic,Apple TV,2024-02-03,true
+868,Nashville TN,Standard,Apple TV,2022-09-10,true
+869,Dallas-Ft Worth TX,Standard,Samsung TV,2024-05-28,true
+870,Providence RI,Standard,Android phone,2024-01-25,true
+871,Seattle WA,Standard,Android phone,2023-11-15,true
+872,Philadelphia PA,Basic,Fire TV Stick,2024-12-23,true
+873,New York NY,Basic,iPad,2026-02-19,true
+874,New York NY,Basic,Apple TV,2024-06-19,true
+875,Detroit MI,Standard,Web browser,2022-11-25,true
+876,Denver CO,Basic,Android phone,2025-04-19,true
+877,Denver CO,Premium,Web browser,2022-11-21,true
+878,Minneapolis MN,Standard,Android phone,2022-12-18,true
+879,Denver CO,Basic,iPhone,2025-08-07,true
+880,Miami FL,Standard,Fire TV Stick,2024-03-03,true
+881,Boston MA,Premium,Samsung TV,2023-06-04,true
+882,Baltimore MD,Basic,iPad,2024-07-08,true
+883,Dallas-Ft Worth TX,Basic,Samsung TV,2023-08-19,true
+884,Hartford CT,Basic,Roku,2022-09-19,true
+885,Nashville TN,Basic,Fire TV Stick,2023-12-11,true
+886,Minneapolis MN,Premium,iPhone,2023-01-12,true
+887,Boston MA,Premium Ad-Free,Android phone,2023-03-12,true
+888,Hartford CT,Basic,Web browser,2023-02-21,true
+889,Providence RI,Premium,Web browser,2022-12-21,true
+890,Chicago IL,Basic,iPhone,2025-09-06,true
+891,Boston MA,Standard,iPhone,2026-07-30,true
+892,Minneapolis MN,Premium,iPad,2025-12-30,true
+893,Denver CO,Standard,Roku,2025-07-30,true
+894,Columbus OH,Basic,iPhone,2023-09-03,true
+895,Minneapolis MN,Standard,Samsung TV,2024-06-14,true
+896,Miami FL,Premium Ad-Free,iPad,2024-08-18,true
+897,Denver CO,Basic,iPad,2026-08-14,true
+898,Boston MA,Basic,Android phone,2023-09-13,true
+899,Boston MA,Basic,Android phone,2025-01-30,true
+900,Miami FL,Standard,Android phone,2023-05-15,true
+901,Providence RI,Standard,iPhone,2026-03-03,true
+902,Providence RI,Premium,Fire TV Stick,2025-05-19,true
+903,Philadelphia PA,Premium,Apple TV,2026-06-03,true
+904,Baltimore MD,Premium,Android phone,2025-06-05,true
+905,Seattle WA,Premium,iPhone,2022-08-31,true
+906,Minneapolis MN,Basic,Fire TV Stick,2024-07-14,true
+907,Dallas-Ft Worth TX,Standard,Web browser,2024-10-03,true
+908,Hartford CT,Basic,Web browser,2025-06-22,true
+909,Atlanta GA,Basic,Android phone,2025-07-06,true
+910,Boston MA,Premium Ad-Free,Fire TV Stick,2023-10-09,true
+911,Portland OR,Standard,Web browser,2022-05-25,true
+912,Hartford CT,Premium Ad-Free,Fire TV Stick,2023-06-06,true
+913,Atlanta GA,Standard,Samsung TV,2023-06-21,true
+914,Columbus OH,Standard,iPad,2024-08-13,true
+915,Phoenix AZ,Standard,iPhone,2026-03-26,true
+916,Seattle WA,Basic,Fire TV Stick,2023-07-12,true
+917,Denver CO,Basic,Roku,2023-02-28,true
+918,Portland OR,Standard,Apple TV,2024-06-13,true
+919,Chicago IL,Basic,Android phone,2026-04-06,true
+920,Miami FL,Premium Ad-Free,Android phone,2023-07-29,true
+921,Baltimore MD,Basic,Fire TV Stick,2022-09-03,true
+922,Phoenix AZ,Basic,Fire TV Stick,2025-09-07,true
+923,Dallas-Ft Worth TX,Premium,Android phone,2025-12-20,true
+924,New York NY,Basic,Fire TV Stick,2023-06-18,true
+925,Philadelphia PA,Premium,Roku,2025-03-22,true
+926,St Louis MO,Premium,Samsung TV,2023-07-26,true
+927,Denver CO,Basic,iPhone,2023-08-13,true
+928,Los Angeles CA,Standard,Fire TV Stick,2025-07-03,true
+929,Dallas-Ft Worth TX,Standard,Fire TV Stick,2026-06-23,true
+930,Phoenix AZ,Premium,Fire TV Stick,2024-04-02,true
+931,Denver CO,Premium,Apple TV,2024-11-22,false
+932,Detroit MI,Standard,Roku,2022-12-16,false
+933,Chicago IL,Standard,Roku,2025-02-09,true
+934,Miami FL,Basic,Apple TV,2025-07-30,true
+935,Dallas-Ft Worth TX,Standard,Roku,2022-12-08,true
+936,St Louis MO,Premium Ad-Free,Apple TV,2023-06-23,true
+937,Hartford CT,Standard,iPhone,2023-12-25,true
+938,New York NY,Standard,Roku,2022-07-13,true
+939,Seattle WA,Standard,iPhone,2023-04-09,true
+940,Denver CO,Premium,iPhone,2022-11-29,true
+941,Detroit MI,Premium Ad-Free,iPhone,2023-03-15,true
+942,Dallas-Ft Worth TX,Basic,Android phone,2024-12-02,true
+943,St Louis MO,Basic,iPad,2026-05-22,true
+944,Seattle WA,Standard,Roku,2024-01-12,true
+945,New York NY,Standard,Fire TV Stick,2023-05-08,true
+946,New York NY,Standard,Apple TV,2022-05-15,false
+947,Columbus OH,Basic,Android phone,2023-09-17,true
+948,New York NY,Standard,iPad,2024-03-13,true
+949,St Louis MO,Standard,Web browser,2024-03-02,true
+950,Chicago IL,Standard,iPhone,2026-02-28,true
+951,Boston MA,Standard,Samsung TV,2026-08-17,true
+952,Los Angeles CA,Premium,Samsung TV,2026-06-18,true
+953,Miami FL,Standard,Roku,2022-09-29,true
+954,Dallas-Ft Worth TX,Premium,Samsung TV,2023-03-29,true
+955,Portland OR,Standard,iPhone,2025-07-13,true
+956,Miami FL,Standard,Fire TV Stick,2024-10-28,true
+957,Dallas-Ft Worth TX,Standard,iPad,2024-07-25,true
+958,Miami FL,Basic,iPad,2025-08-04,true
+959,Columbus OH,Basic,Apple TV,2024-10-30,true
+960,Dallas-Ft Worth TX,Standard,Web browser,2025-02-25,true
+961,Hartford CT,Premium,Roku,2023-08-27,true
+962,Dallas-Ft Worth TX,Standard,Web browser,2023-05-20,true
+963,Nashville TN,Basic,iPad,2026-03-26,true
+964,Philadelphia PA,Standard,Fire TV Stick,2024-08-23,true
+965,St Louis MO,Basic,Android phone,2022-05-15,true
+966,Phoenix AZ,Premium,Apple TV,2022-11-25,true
+967,Miami FL,Premium,iPad,2023-03-23,true
+968,Los Angeles CA,Standard,Fire TV Stick,2023-06-24,true
+969,St Louis MO,Standard,Fire TV Stick,2026-08-22,true
+970,Providence RI,Basic,Apple TV,2022-06-12,true
+971,Chicago IL,Standard,Fire TV Stick,2023-06-24,true
+972,Dallas-Ft Worth TX,Premium,Apple TV,2022-10-25,true
+973,Seattle WA,Premium,iPhone,2022-09-22,true
+974,Seattle WA,Standard,Android phone,2025-07-22,false
+975,New York NY,Standard,iPhone,2026-08-07,true
+976,Philadelphia PA,Basic,Fire TV Stick,2023-10-22,true
+977,Boston MA,Basic,Fire TV Stick,2024-09-02,true
+978,Phoenix AZ,Basic,Web browser,2026-07-27,true
+979,Atlanta GA,Standard,Apple TV,2025-06-27,true
+980,Phoenix AZ,Premium Ad-Free,Roku,2022-05-16,true
+981,Phoenix AZ,Standard,Samsung TV,2025-01-31,false
+982,Minneapolis MN,Basic,Roku,2025-07-12,true
+983,Denver CO,Basic,Apple TV,2023-10-29,true
+984,Miami FL,Basic,iPad,2023-10-13,true
+985,Phoenix AZ,Premium,Apple TV,2025-03-22,true
+986,Detroit MI,Standard,Android phone,2022-12-26,true
+987,Miami FL,Premium,Samsung TV,2024-02-24,true
+988,Los Angeles CA,Premium,Apple TV,2025-12-18,true
+989,Philadelphia PA,Basic,Android phone,2025-04-02,true
+990,Portland OR,Standard,iPhone,2022-12-28,true
+991,Los Angeles CA,Premium Ad-Free,Apple TV,2026-04-09,true
+992,Denver CO,Standard,Fire TV Stick,2026-08-09,true
+993,Hartford CT,Basic,Web browser,2023-10-26,true
+994,Dallas-Ft Worth TX,Premium,Fire TV Stick,2024-09-29,true
+995,Denver CO,Premium,Web browser,2025-07-25,true
+996,Miami FL,Standard,Samsung TV,2024-08-13,true
+997,Denver CO,Standard,Web browser,2025-11-11,true
+998,Atlanta GA,Basic,Apple TV,2025-01-14,true
+999,Columbus OH,Premium,iPhone,2025-08-24,true
+1000,Denver CO,Standard,iPhone,2024-02-14,false
+1001,Nashville TN,Basic,Apple TV,2023-09-29,false
+1002,Minneapolis MN,Standard,Fire TV Stick,2022-09-13,true
+1003,Phoenix AZ,Premium Ad-Free,iPhone,2026-05-13,true
+1004,Baltimore MD,Premium,Android phone,2025-03-30,true
+1005,New York NY,Basic,Apple TV,2025-07-07,true
+1006,St Louis MO,Basic,iPad,2024-02-25,true
+1007,Baltimore MD,Premium Ad-Free,Android phone,2024-05-08,true
+1008,Denver CO,Premium Ad-Free,Fire TV Stick,2022-11-11,true
+1009,Minneapolis MN,Standard,Web browser,2022-09-06,true
+1010,Denver CO,Standard,Roku,2023-04-25,true
+1011,Chicago IL,Standard,Android phone,2025-10-18,true
+1012,Portland OR,Standard,Samsung TV,2026-06-25,true
+1013,Philadelphia PA,Basic,Android phone,2022-10-08,true
+1014,Los Angeles CA,Basic,iPad,2022-07-31,true
+1015,Denver CO,Basic,Android phone,2025-07-29,true
+1016,Nashville TN,Premium,Android phone,2026-06-16,true
+1017,Atlanta GA,Basic,iPad,2023-09-18,true
+1018,Seattle WA,Basic,Android phone,2024-02-10,true
+1019,Providence RI,Standard,iPad,2022-10-24,true
+1020,New York NY,Basic,Samsung TV,2024-03-02,true
+1021,Boston MA,Basic,Fire TV Stick,2023-05-15,true
+1022,Boston MA,Standard,Fire TV Stick,2023-04-04,true
+1023,Baltimore MD,Standard,iPhone,2026-08-13,true
+1024,Nashville TN,Standard,iPhone,2026-01-06,true
+1025,Nashville TN,Premium,Roku,2023-04-14,true
+1026,Boston MA,Basic,Fire TV Stick,2025-11-18,true
+1027,Boston MA,Premium,Web browser,2025-10-07,true
+1028,Chicago IL,Premium,Android phone,2023-05-28,true
+1029,Phoenix AZ,Premium,iPad,2025-10-09,true
+1030,Los Angeles CA,Standard,Fire TV Stick,2026-01-04,true
+1031,Seattle WA,Standard,Roku,2026-08-07,true
+1032,Hartford CT,Standard,Apple TV,2024-08-17,false
+1033,Minneapolis MN,Standard,iPad,2023-11-26,true
+1034,Los Angeles CA,Basic,iPhone,2023-06-29,true
+1035,Boston MA,Premium Ad-Free,iPad,2022-09-28,true
+1036,Minneapolis MN,Standard,Samsung TV,2023-11-04,true
+1037,St Louis MO,Premium,Samsung TV,2023-05-21,true
+1038,Providence RI,Standard,iPhone,2025-09-30,true
+1039,Dallas-Ft Worth TX,Basic,Web browser,2025-03-09,true
+1040,Nashville TN,Standard,Samsung TV,2025-05-05,true
+1041,Minneapolis MN,Standard,iPhone,2026-05-18,true
+1042,Baltimore MD,Standard,Web browser,2022-06-20,false
+1043,Dallas-Ft Worth TX,Basic,Apple TV,2025-08-12,true
+1044,Atlanta GA,Basic,iPad,2024-09-19,true
+1045,Minneapolis MN,Standard,iPhone,2025-02-11,true
+1046,Hartford CT,Standard,Web browser,2026-06-19,true
+1047,Philadelphia PA,Premium Ad-Free,Samsung TV,2022-10-01,true
+1048,Miami FL,Basic,Android phone,2025-09-16,true
+1049,Detroit MI,Basic,Apple TV,2026-03-23,true
+1050,New York NY,Basic,Android phone,2025-03-05,true
+1051,Denver CO,Standard,Apple TV,2026-01-13,true
+1052,Atlanta GA,Standard,iPhone,2022-05-02,true
+1053,Denver CO,Standard,iPad,2025-11-03,true
+1054,Columbus OH,Premium Ad-Free,Samsung TV,2025-05-07,true
+1055,Boston MA,Basic,Samsung TV,2025-06-26,true
+1056,Columbus OH,Standard,Apple TV,2026-07-18,true
+1057,Dallas-Ft Worth TX,Basic,Android phone,2026-08-08,true
+1058,Portland OR,Basic,iPhone,2024-06-09,true
+1059,Dallas-Ft Worth TX,Standard,iPhone,2025-08-26,true
+1060,Los Angeles CA,Basic,Roku,2026-04-18,true
+1061,Portland OR,Standard,Roku,2025-05-25,true
+1062,Detroit MI,Standard,Roku,2025-06-21,true
+1063,New York NY,Premium,iPad,2024-10-27,true
+1064,Minneapolis MN,Standard,iPad,2022-05-14,true
+1065,Portland OR,Standard,Roku,2025-05-01,true
+1066,Atlanta GA,Standard,Roku,2023-08-11,true
+1067,St Louis MO,Basic,iPad,2023-05-02,true
+1068,Miami FL,Basic,iPhone,2026-06-09,true
+1069,Los Angeles CA,Standard,Apple TV,2024-06-27,true
+1070,Providence RI,Premium Ad-Free,iPhone,2024-09-19,true
+1071,Detroit MI,Basic,Fire TV Stick,2024-06-17,true
+1072,Philadelphia PA,Standard,Fire TV Stick,2025-11-30,true
+1073,Portland OR,Premium,Apple TV,2024-08-24,true
+1074,Denver CO,Premium,Web browser,2026-02-15,true
+1075,Seattle WA,Standard,iPad,2022-07-26,true
+1076,Hartford CT,Standard,Fire TV Stick,2024-02-13,true
+1077,Minneapolis MN,Standard,iPhone,2026-07-05,false
+1078,Hartford CT,Premium,Web browser,2024-06-21,true
+1079,Dallas-Ft Worth TX,Basic,Web browser,2022-08-26,true
+1080,Nashville TN,Premium,iPad,2023-06-12,true
+1081,St Louis MO,Basic,Fire TV Stick,2025-06-23,true
+1082,Columbus OH,Premium,Fire TV Stick,2022-10-19,true
+1083,Columbus OH,Basic,Fire TV Stick,2025-11-08,true
+1084,Phoenix AZ,Basic,Fire TV Stick,2025-08-04,false
+1085,Philadelphia PA,Basic,Fire TV Stick,2025-12-27,true
+1086,Nashville TN,Standard,Apple TV,2022-08-31,true
+1087,Nashville TN,Basic,iPhone,2023-07-23,true
+1088,Columbus OH,Basic,Samsung TV,2024-06-01,true
+1089,Detroit MI,Standard,Samsung TV,2023-10-08,true
+1090,New York NY,Standard,Fire TV Stick,2025-07-16,true
+1091,Denver CO,Premium,Fire TV Stick,2026-05-09,true
+1092,Dallas-Ft Worth TX,Premium,Web browser,2022-12-31,false
+1093,Nashville TN,Standard,iPhone,2022-06-27,true
+1094,Atlanta GA,Basic,Fire TV Stick,2026-07-03,true
+1095,Los Angeles CA,Basic,iPad,2026-06-08,true
+1096,Boston MA,Premium,iPad,2024-03-27,true
+1097,Nashville TN,Basic,Web browser,2026-06-22,true
+1098,Portland OR,Standard,Fire TV Stick,2023-07-15,true
+1099,Providence RI,Premium Ad-Free,Android phone,2022-07-27,true
+1100,Dallas-Ft Worth TX,Premium Ad-Free,Web browser,2025-06-12,true
+1101,Seattle WA,Standard,iPad,2025-05-20,true
+1102,Seattle WA,Standard,Fire TV Stick,2022-12-03,false
+1103,St Louis MO,Standard,Web browser,2025-02-12,true
+1104,Hartford CT,Premium,Samsung TV,2025-08-14,true
+1105,Los Angeles CA,Basic,Samsung TV,2026-04-17,true
+1106,Hartford CT,Basic,iPhone,2023-01-09,true
+1107,Philadelphia PA,Standard,iPad,2022-08-27,true
+1108,St Louis MO,Basic,Roku,2026-04-26,true
+1109,St Louis MO,Standard,iPhone,2023-03-09,true
+1110,Providence RI,Standard,iPad,2025-12-19,true
+1111,Miami FL,Premium,iPhone,2026-01-21,true
+1112,Philadelphia PA,Premium,Apple TV,2025-01-04,true
+1113,Hartford CT,Standard,Roku,2024-10-08,true
+1114,Chicago IL,Premium,iPhone,2022-12-18,true
+1115,Hartford CT,Basic,Android phone,2023-08-19,true
+1116,Seattle WA,Standard,iPhone,2026-01-12,true
+1117,Columbus OH,Basic,Web browser,2024-02-18,true
+1118,Phoenix AZ,Premium,iPhone,2022-11-14,true
+1119,Minneapolis MN,Premium,iPhone,2023-10-17,true
+1120,Seattle WA,Premium,Roku,2025-08-31,true
+1121,Providence RI,Premium,iPhone,2026-02-06,true
+1122,Boston MA,Premium Ad-Free,Fire TV Stick,2024-09-13,true
+1123,Chicago IL,Basic,Android phone,2024-08-12,true
+1124,Philadelphia PA,Premium Ad-Free,Fire TV Stick,2025-02-17,true
+1125,Nashville TN,Standard,Web browser,2026-03-09,true
+1126,Nashville TN,Standard,Apple TV,2026-02-23,false
+1127,Baltimore MD,Standard,Samsung TV,2024-05-15,true
+1128,Miami FL,Standard,Fire TV Stick,2022-07-28,true
+1129,Phoenix AZ,Basic,Fire TV Stick,2024-01-27,true
+1130,Miami FL,Basic,Web browser,2024-10-05,true
+1131,Dallas-Ft Worth TX,Basic,Apple TV,2022-08-18,true
+1132,Detroit MI,Standard,iPhone,2023-09-03,true
+1133,Portland OR,Premium,Web browser,2023-07-21,false
+1134,Portland OR,Standard,iPhone,2024-03-03,true
+1135,Miami FL,Standard,Roku,2023-05-11,true
+1136,Boston MA,Standard,Apple TV,2024-06-27,true
+1137,Minneapolis MN,Standard,Samsung TV,2023-12-20,true
+1138,Atlanta GA,Basic,Apple TV,2023-12-28,true
+1139,Minneapolis MN,Premium,Fire TV Stick,2023-05-27,true
+1140,Denver CO,Basic,iPhone,2022-10-09,false
+1141,Baltimore MD,Standard,Samsung TV,2025-05-21,true
+1142,Los Angeles CA,Premium,Apple TV,2023-08-20,true
+1143,St Louis MO,Standard,Samsung TV,2026-07-09,false
+1144,Nashville TN,Premium,Apple TV,2024-05-09,true
+1145,Los Angeles CA,Basic,Fire TV Stick,2022-10-09,true
+1146,Seattle WA,Premium,Samsung TV,2023-11-13,true
+1147,Denver CO,Premium,Web browser,2025-07-02,true
+1148,Portland OR,Premium,iPhone,2024-01-13,true
+1149,Detroit MI,Standard,iPhone,2025-02-09,true
+1150,Baltimore MD,Premium,Web browser,2024-10-13,true
+1151,Atlanta GA,Premium Ad-Free,iPhone,2025-09-02,true
+1152,Denver CO,Standard,Fire TV Stick,2023-12-15,true
+1153,Dallas-Ft Worth TX,Premium,Samsung TV,2025-10-19,true
+1154,St Louis MO,Premium,Samsung TV,2024-09-27,true
+1155,Los Angeles CA,Standard,Samsung TV,2022-08-05,true
+1156,Phoenix AZ,Premium,Fire TV Stick,2023-05-19,true
+1157,New York NY,Standard,Roku,2024-11-12,true
+1158,Baltimore MD,Standard,Apple TV,2022-06-20,true
+1159,Atlanta GA,Basic,Web browser,2026-08-06,true
+1160,Los Angeles CA,Basic,Android phone,2022-07-04,true
+1161,Phoenix AZ,Premium,iPad,2025-02-18,true
+1162,Seattle WA,Standard,Fire TV Stick,2023-02-09,true
+1163,Nashville TN,Standard,Samsung TV,2022-07-23,true
+1164,Denver CO,Basic,iPhone,2024-01-21,true
+1165,Denver CO,Standard,Samsung TV,2024-01-07,true
+1166,New York NY,Premium,Samsung TV,2023-06-02,true
+1167,Providence RI,Premium,Apple TV,2025-08-15,true
+1168,Atlanta GA,Basic,Roku,2025-11-20,true
+1169,Columbus OH,Standard,iPad,2025-03-04,true
+1170,St Louis MO,Standard,Web browser,2024-08-02,true
+1171,Miami FL,Standard,Roku,2023-06-12,true
+1172,Miami FL,Standard,Samsung TV,2025-07-18,true
+1173,Atlanta GA,Standard,iPhone,2024-03-19,true
+1174,Hartford CT,Standard,iPad,2026-08-23,true
+1175,Providence RI,Standard,Web browser,2026-07-11,true
+1176,Los Angeles CA,Standard,Samsung TV,2022-06-23,true
+1177,Los Angeles CA,Standard,Android phone,2022-12-24,true
+1178,Hartford CT,Premium,Web browser,2022-12-03,true
+1179,Chicago IL,Premium,iPad,2025-03-27,true
+1180,Providence RI,Standard,Apple TV,2024-06-08,true
+1181,Miami FL,Premium,iPad,2023-09-27,true
+1182,St Louis MO,Premium,Samsung TV,2025-07-23,true
+1183,Detroit MI,Basic,Roku,2023-06-09,true
+1184,Dallas-Ft Worth TX,Standard,iPad,2023-08-30,true
+1185,Dallas-Ft Worth TX,Basic,iPad,2024-11-23,true
+1186,Los Angeles CA,Premium,Apple TV,2024-10-11,true
+1187,New York NY,Basic,Samsung TV,2025-04-30,true
+1188,Phoenix AZ,Standard,Apple TV,2023-03-08,true
+1189,Phoenix AZ,Basic,Roku,2022-05-22,false
+1190,Providence RI,Standard,Web browser,2022-05-02,true
+1191,Dallas-Ft Worth TX,Premium Ad-Free,Roku,2023-04-28,true
+1192,Chicago IL,Standard,iPhone,2025-02-23,true
+1193,Hartford CT,Premium,Roku,2023-04-12,false
+1194,Minneapolis MN,Premium Ad-Free,Android phone,2025-08-07,false
+1195,Denver CO,Premium,Web browser,2022-10-12,true
+1196,Miami FL,Basic,Android phone,2025-07-02,true
+1197,Minneapolis MN,Premium,iPhone,2024-11-30,true
+1198,Columbus OH,Basic,iPad,2026-04-03,true
+1199,Nashville TN,Standard,Web browser,2026-04-22,true
+1200,Miami FL,Premium,iPad,2024-12-14,true
+1201,Baltimore MD,Standard,Fire TV Stick,2024-04-11,true
+1202,Seattle WA,Standard,iPhone,2026-08-01,true
+1203,Columbus OH,Standard,iPad,2022-12-31,true
+1204,Portland OR,Premium,Apple TV,2026-03-01,true
+1205,Detroit MI,Standard,Android phone,2022-05-04,true
+1206,St Louis MO,Standard,Roku,2025-06-25,true
+1207,Denver CO,Premium,Web browser,2025-01-07,true
+1208,Minneapolis MN,Basic,iPhone,2025-12-19,false
+1209,Chicago IL,Basic,Android phone,2023-02-03,false
+1210,Columbus OH,Standard,iPad,2023-06-29,true
+1211,Miami FL,Premium Ad-Free,Fire TV Stick,2026-04-26,true
+1212,Portland OR,Basic,Samsung TV,2026-03-15,true
+1213,Seattle WA,Basic,iPad,2024-01-09,true
+1214,Baltimore MD,Basic,Fire TV Stick,2022-11-29,true
+1215,Boston MA,Premium,iPad,2026-03-08,false
+1216,New York NY,Basic,Apple TV,2025-09-13,false
+1217,Denver CO,Standard,iPhone,2024-04-19,true
+1218,Minneapolis MN,Premium Ad-Free,iPhone,2026-03-10,false
+1219,Nashville TN,Basic,Android phone,2025-05-04,true
+1220,Dallas-Ft Worth TX,Standard,iPad,2026-08-13,false
+1221,Miami FL,Standard,Apple TV,2024-07-01,true
+1222,Phoenix AZ,Premium,Fire TV Stick,2023-07-25,true
+1223,Columbus OH,Standard,Samsung TV,2024-11-16,true
+1224,Detroit MI,Standard,iPhone,2025-07-19,true
+1225,Dallas-Ft Worth TX,Basic,iPad,2024-10-27,true
+1226,Columbus OH,Premium,iPad,2024-06-14,true
+1227,New York NY,Premium,Apple TV,2025-12-10,true
+1228,Columbus OH,Basic,Web browser,2026-03-05,true
+1229,Hartford CT,Standard,Roku,2025-11-14,true
+1230,Chicago IL,Premium,Roku,2022-05-25,true
+1231,Nashville TN,Basic,Roku,2023-07-13,true
+1232,Minneapolis MN,Basic,Web browser,2026-02-11,true
+1233,Columbus OH,Standard,Fire TV Stick,2025-05-09,true
+1234,Minneapolis MN,Basic,iPhone,2024-11-16,true
+1235,Miami FL,Basic,iPad,2025-11-15,true
+1236,Los Angeles CA,Standard,iPad,2022-12-22,true
+1237,Providence RI,Basic,Web browser,2022-08-03,true
+1238,New York NY,Standard,Roku,2025-08-07,true
+1239,Chicago IL,Standard,Samsung TV,2026-08-02,true
+1240,Providence RI,Standard,iPhone,2025-07-03,true
+1241,Denver CO,Basic,Android phone,2024-02-20,false
+1242,Portland OR,Premium,iPhone,2023-02-28,true
+1243,Columbus OH,Basic,iPhone,2025-03-10,true
+1244,Seattle WA,Premium,Apple TV,2025-06-23,true
+1245,Baltimore MD,Standard,Roku,2025-07-31,true
+1246,Columbus OH,Premium,Samsung TV,2026-08-24,true
+1247,Baltimore MD,Basic,Apple TV,2026-08-06,true
+1248,Seattle WA,Basic,iPhone,2024-10-21,true
+1249,Los Angeles CA,Standard,iPad,2023-12-27,true
+1250,Columbus OH,Basic,iPhone,2026-08-09,true
+1251,Philadelphia PA,Basic,iPhone,2025-10-16,true
+1252,Dallas-Ft Worth TX,Premium,Roku,2022-09-21,true
+1253,Boston MA,Premium,Android phone,2022-05-17,true
+1254,Portland OR,Basic,Samsung TV,2023-11-18,true
+1255,Miami FL,Premium,Roku,2024-05-26,true
+1256,Boston MA,Premium,Fire TV Stick,2024-02-19,true
+1257,Philadelphia PA,Premium,iPad,2025-01-20,true
+1258,Phoenix AZ,Standard,Web browser,2025-10-14,true
+1259,Denver CO,Standard,iPhone,2025-01-12,true
+1260,Nashville TN,Standard,Web browser,2023-08-19,true
+1261,Chicago IL,Standard,Fire TV Stick,2023-10-17,true
+1262,St Louis MO,Premium,Apple TV,2023-09-23,true
+1263,Dallas-Ft Worth TX,Basic,Web browser,2024-01-10,true
+1264,Nashville TN,Basic,Fire TV Stick,2026-05-25,true
+1265,Philadelphia PA,Basic,Android phone,2023-12-13,true
+1266,Providence RI,Premium Ad-Free,Fire TV Stick,2022-11-06,true
+1267,Boston MA,Standard,Apple TV,2023-11-07,true
+1268,Atlanta GA,Standard,Samsung TV,2024-02-25,true
+1269,Columbus OH,Premium,Apple TV,2025-09-09,true
+1270,Providence RI,Premium Ad-Free,iPad,2023-03-25,true
+1271,Atlanta GA,Basic,Web browser,2024-09-14,true
+1272,New York NY,Premium,iPhone,2025-07-09,true
+1273,St Louis MO,Premium,iPhone,2024-07-16,true
+1274,Detroit MI,Basic,Roku,2026-02-17,true
+1275,Portland OR,Premium,Fire TV Stick,2022-08-26,true
+1276,Minneapolis MN,Standard,Roku,2023-08-15,true
+1277,Detroit MI,Standard,iPad,2025-03-31,true
+1278,Portland OR,Standard,Fire TV Stick,2023-03-23,true
+1279,Providence RI,Basic,Apple TV,2026-06-04,true
+1280,Baltimore MD,Basic,iPad,2024-12-27,true
+1281,Minneapolis MN,Basic,Android phone,2023-11-03,true
+1282,Minneapolis MN,Basic,iPhone,2026-07-22,true
+1283,Atlanta GA,Standard,Roku,2023-08-05,true
+1284,Nashville TN,Standard,iPhone,2023-02-13,true
+1285,Atlanta GA,Basic,iPhone,2024-02-02,true
+1286,Providence RI,Standard,Apple TV,2025-10-07,true
+1287,St Louis MO,Standard,Android phone,2023-06-02,true
+1288,Philadelphia PA,Standard,Web browser,2025-03-11,true
+1289,New York NY,Premium Ad-Free,Apple TV,2023-06-23,true
+1290,Miami FL,Standard,Apple TV,2023-12-10,true
+1291,Philadelphia PA,Premium,Apple TV,2026-04-03,true
+1292,Baltimore MD,Basic,iPad,2026-03-24,true
+1293,Dallas-Ft Worth TX,Premium,Roku,2026-08-05,true
+1294,Providence RI,Premium Ad-Free,Web browser,2026-05-07,true
+1295,Columbus OH,Premium,iPad,2025-05-12,true
+1296,Denver CO,Standard,Samsung TV,2026-07-19,true
+1297,Chicago IL,Standard,iPhone,2022-08-07,true
+1298,Detroit MI,Standard,Web browser,2022-09-10,true
+1299,Denver CO,Standard,iPad,2025-11-29,true
+1300,Providence RI,Premium,Apple TV,2025-04-24,true
+1301,Portland OR,Premium Ad-Free,Roku,2023-06-13,true
+1302,Dallas-Ft Worth TX,Standard,Android phone,2023-10-20,true
+1303,Detroit MI,Basic,Fire TV Stick,2024-02-22,true
+1304,Baltimore MD,Standard,Roku,2022-05-19,true
+1305,Miami FL,Basic,Web browser,2023-12-07,true
+1306,Detroit MI,Basic,Samsung TV,2023-10-06,true
+1307,Chicago IL,Basic,Android phone,2024-06-26,false
+1308,Philadelphia PA,Premium,Fire TV Stick,2024-05-21,true
+1309,Dallas-Ft Worth TX,Basic,Roku,2025-05-26,true
+1310,Baltimore MD,Basic,Roku,2024-05-27,true
+1311,Denver CO,Basic,Apple TV,2022-09-08,true
+1312,Los Angeles CA,Premium,Roku,2025-01-10,true
+1313,Portland OR,Standard,Samsung TV,2026-01-30,true
+1314,Baltimore MD,Basic,Apple TV,2024-01-24,true
+1315,St Louis MO,Basic,iPhone,2023-04-06,true
+1316,Chicago IL,Standard,iPhone,2022-07-06,true
+1317,Minneapolis MN,Basic,Apple TV,2024-04-24,true
+1318,Phoenix AZ,Standard,Samsung TV,2023-04-01,true
+1319,Dallas-Ft Worth TX,Standard,Roku,2025-07-29,true
+1320,Atlanta GA,Premium,Apple TV,2024-10-27,true
+1321,New York NY,Basic,Web browser,2024-11-04,true
+1322,Chicago IL,Standard,Web browser,2025-03-21,true
+1323,Denver CO,Basic,Samsung TV,2023-07-24,true
+1324,Baltimore MD,Premium Ad-Free,Web browser,2022-11-02,true
+1325,Baltimore MD,Premium Ad-Free,iPhone,2025-03-31,true
+1326,Hartford CT,Premium,Fire TV Stick,2026-01-26,true
+1327,Detroit MI,Standard,iPad,2023-02-01,true
+1328,Boston MA,Basic,Samsung TV,2022-12-25,true
+1329,Detroit MI,Premium,iPhone,2022-08-12,true
+1330,Los Angeles CA,Premium,Android phone,2025-07-21,true
+1331,Dallas-Ft Worth TX,Basic,Apple TV,2023-07-19,true
+1332,Minneapolis MN,Standard,Android phone,2023-07-25,true
+1333,Dallas-Ft Worth TX,Standard,iPhone,2023-03-29,true
+1334,Nashville TN,Premium,Apple TV,2023-03-04,true
+1335,Denver CO,Standard,Apple TV,2022-07-16,true
+1336,Columbus OH,Standard,Android phone,2024-08-05,true
+1337,Miami FL,Standard,Fire TV Stick,2026-05-01,true
+1338,Chicago IL,Basic,Roku,2025-10-29,true
+1339,Portland OR,Standard,Web browser,2022-10-28,true
+1340,Dallas-Ft Worth TX,Basic,Apple TV,2023-01-02,true
+1341,Denver CO,Premium,Android phone,2026-08-11,true
+1342,New York NY,Standard,Android phone,2025-01-25,true
+1343,New York NY,Standard,iPad,2025-08-06,true
+1344,Phoenix AZ,Basic,Android phone,2025-04-09,true
+1345,Hartford CT,Basic,Android phone,2023-11-23,true
+1346,Columbus OH,Standard,iPad,2024-06-14,true
+1347,Baltimore MD,Basic,Web browser,2024-07-30,true
+1348,Minneapolis MN,Basic,Roku,2024-10-10,true
+1349,Minneapolis MN,Premium,Android phone,2023-11-19,true
+1350,Phoenix AZ,Standard,Fire TV Stick,2023-09-14,true
+1351,Boston MA,Standard,Web browser,2026-06-21,true
+1352,Atlanta GA,Standard,Roku,2026-01-24,true
+1353,Seattle WA,Premium,Fire TV Stick,2025-03-07,true
+1354,St Louis MO,Basic,Fire TV Stick,2024-10-09,true
+1355,Philadelphia PA,Premium,iPhone,2022-05-07,true
+1356,Seattle WA,Premium Ad-Free,Roku,2022-10-20,true
+1357,Los Angeles CA,Standard,Roku,2023-11-07,true
+1358,New York NY,Standard,iPhone,2026-07-03,true
+1359,New York NY,Premium,Web browser,2026-03-22,true
+1360,Atlanta GA,Standard,iPhone,2024-09-05,true
+1361,Boston MA,Standard,Samsung TV,2024-02-13,true
+1362,Boston MA,Standard,Android phone,2023-10-20,true
+1363,Atlanta GA,Basic,iPhone,2026-01-16,true
+1364,Philadelphia PA,Basic,Samsung TV,2022-10-26,true
+1365,Phoenix AZ,Standard,iPhone,2024-07-10,true
+1366,Providence RI,Basic,Roku,2024-02-02,true
+1367,Los Angeles CA,Standard,Fire TV Stick,2026-06-27,true
+1368,Seattle WA,Standard,Android phone,2023-02-03,true
+1369,Columbus OH,Premium Ad-Free,Apple TV,2024-04-22,true
+1370,Miami FL,Basic,Roku,2025-09-11,true
+1371,Baltimore MD,Standard,Roku,2025-04-12,true
+1372,Los Angeles CA,Standard,iPad,2025-02-17,true
+1373,Dallas-Ft Worth TX,Basic,Apple TV,2026-07-17,false
+1374,Dallas-Ft Worth TX,Basic,Roku,2022-08-01,true
+1375,Baltimore MD,Basic,Android phone,2023-03-09,false
+1376,Columbus OH,Basic,iPhone,2022-10-29,true
+1377,Columbus OH,Basic,Samsung TV,2025-02-16,true
+1378,Portland OR,Standard,Web browser,2024-03-30,true
+1379,Denver CO,Standard,Apple TV,2024-09-03,true
+1380,Denver CO,Basic,iPhone,2024-08-07,true
+1381,Columbus OH,Basic,Android phone,2024-02-10,true
+1382,Chicago IL,Basic,iPhone,2024-09-15,true
+1383,Los Angeles CA,Standard,Fire TV Stick,2023-04-25,true
+1384,Baltimore MD,Basic,Android phone,2026-05-28,false
+1385,Atlanta GA,Standard,Android phone,2025-10-28,true
+1386,Philadelphia PA,Basic,Roku,2022-10-19,true
+1387,Phoenix AZ,Basic,Fire TV Stick,2022-11-03,false
+1388,Los Angeles CA,Premium Ad-Free,Android phone,2023-02-13,true
+1389,Baltimore MD,Basic,Roku,2025-01-23,true
+1390,St Louis MO,Basic,Web browser,2024-09-07,false
+1391,Los Angeles CA,Basic,Roku,2026-07-20,true
+1392,Denver CO,Premium Ad-Free,Web browser,2025-06-13,true
+1393,Columbus OH,Standard,Android phone,2023-07-08,true
+1394,Minneapolis MN,Standard,Samsung TV,2025-03-05,true
+1395,Philadelphia PA,Premium Ad-Free,Apple TV,2024-07-31,true
+1396,Phoenix AZ,Basic,Apple TV,2026-02-15,true
+1397,Miami FL,Premium Ad-Free,Android phone,2024-07-05,true
+1398,Detroit MI,Basic,iPad,2023-07-15,true
+1399,Providence RI,Standard,Fire TV Stick,2024-03-08,true
+1400,Chicago IL,Standard,iPhone,2024-04-01,true
+1401,Baltimore MD,Standard,Web browser,2022-09-13,true
+1402,Philadelphia PA,Premium Ad-Free,Apple TV,2025-08-24,true
+1403,Chicago IL,Basic,Android phone,2025-05-12,true
+1404,Los Angeles CA,Premium Ad-Free,Fire TV Stick,2023-12-18,true
+1405,Hartford CT,Standard,iPad,2024-07-31,true
+1406,Hartford CT,Standard,Fire TV Stick,2022-06-03,true
+1407,Los Angeles CA,Premium Ad-Free,Apple TV,2026-05-26,true
+1408,Baltimore MD,Basic,Samsung TV,2026-02-16,true
+1409,Providence RI,Premium,Apple TV,2025-03-06,true
+1410,Chicago IL,Standard,Fire TV Stick,2024-09-03,true
+1411,Boston MA,Standard,Android phone,2022-10-22,true
+1412,Phoenix AZ,Basic,Roku,2024-07-09,true
+1413,Chicago IL,Standard,Web browser,2024-10-07,true
+1414,Portland OR,Standard,Roku,2025-12-08,true
+1415,Phoenix AZ,Standard,Apple TV,2024-10-11,true
+1416,Portland OR,Basic,Web browser,2024-05-11,true
+1417,Miami FL,Basic,Fire TV Stick,2024-02-18,true
+1418,Dallas-Ft Worth TX,Premium,Roku,2024-01-14,true
+1419,Baltimore MD,Basic,Android phone,2024-10-19,true
+1420,Seattle WA,Standard,Roku,2025-12-23,true
+1421,St Louis MO,Premium Ad-Free,Web browser,2025-12-30,true
+1422,Columbus OH,Basic,Samsung TV,2025-12-27,true
+1423,Phoenix AZ,Basic,iPad,2023-12-25,false
+1424,Detroit MI,Standard,Fire TV Stick,2022-12-14,true
+1425,Chicago IL,Basic,Fire TV Stick,2022-11-02,true
+1426,Nashville TN,Standard,Web browser,2025-04-24,true
+1427,Detroit MI,Standard,iPad,2026-04-25,true
+1428,St Louis MO,Standard,Web browser,2023-12-07,true
+1429,Chicago IL,Standard,Apple TV,2026-06-29,true
+1430,Portland OR,Standard,Samsung TV,2023-12-12,true
+1431,Seattle WA,Standard,iPhone,2024-12-31,true
+1432,Hartford CT,Basic,Samsung TV,2023-01-11,true
+1433,Hartford CT,Standard,Fire TV Stick,2023-12-14,true
+1434,Phoenix AZ,Premium,Samsung TV,2023-06-16,true
+1435,Los Angeles CA,Standard,iPhone,2024-11-25,true
+1436,New York NY,Standard,Roku,2023-01-08,true
+1437,Dallas-Ft Worth TX,Basic,Apple TV,2024-05-21,true
+1438,Detroit MI,Basic,Apple TV,2023-12-15,false
+1439,Los Angeles CA,Basic,Roku,2025-02-05,true
+1440,Columbus OH,Basic,Roku,2024-09-17,true
+1441,Portland OR,Premium Ad-Free,Samsung TV,2023-01-09,true
+1442,Denver CO,Basic,Roku,2024-12-15,true
+1443,St Louis MO,Premium,Apple TV,2026-07-26,true
+1444,Dallas-Ft Worth TX,Basic,iPhone,2025-01-07,true
+1445,New York NY,Basic,iPad,2024-12-17,true
+1446,Providence RI,Standard,Roku,2024-11-05,true
+1447,St Louis MO,Basic,Samsung TV,2026-05-09,false
+1448,Columbus OH,Premium,Roku,2026-02-05,true
+1449,Minneapolis MN,Premium Ad-Free,Samsung TV,2025-04-04,true
+1450,New York NY,Premium,Samsung TV,2024-10-28,true
+1451,Chicago IL,Basic,iPad,2026-07-14,true
+1452,Providence RI,Premium,Samsung TV,2024-12-21,true
+1453,Boston MA,Basic,Web browser,2025-04-10,true
+1454,Philadelphia PA,Premium,Fire TV Stick,2026-07-05,true
+1455,Phoenix AZ,Standard,Roku,2025-07-29,true
+1456,Boston MA,Basic,Roku,2025-06-20,true
+1457,Columbus OH,Basic,Apple TV,2026-01-14,true
+1458,Seattle WA,Basic,Fire TV Stick,2023-05-28,true
+1459,Chicago IL,Basic,Roku,2026-05-06,false
+1460,Denver CO,Premium,Fire TV Stick,2024-02-27,true
+1461,Portland OR,Premium,Web browser,2023-10-12,true
+1462,Los Angeles CA,Premium Ad-Free,iPad,2023-03-04,true
+1463,Providence RI,Basic,Roku,2024-04-18,true
+1464,Boston MA,Standard,Web browser,2024-04-23,true
+1465,Baltimore MD,Basic,Fire TV Stick,2023-05-14,true
+1466,New York NY,Standard,Samsung TV,2022-12-18,true
+1467,Miami FL,Basic,Apple TV,2025-09-29,true
+1468,Atlanta GA,Basic,Samsung TV,2023-03-20,true
+1469,Portland OR,Standard,iPad,2024-08-28,true
+1470,Boston MA,Basic,Android phone,2026-03-26,true
+1471,Baltimore MD,Standard,iPhone,2024-01-04,true
+1472,Detroit MI,Standard,Android phone,2022-06-07,true
+1473,Dallas-Ft Worth TX,Basic,Android phone,2026-01-18,true
+1474,Philadelphia PA,Premium Ad-Free,Fire TV Stick,2026-08-05,false
+1475,Columbus OH,Standard,Samsung TV,2022-09-10,true
+1476,Los Angeles CA,Premium,Roku,2024-01-28,true
+1477,Seattle WA,Standard,Android phone,2025-09-16,false
+1478,Atlanta GA,Standard,Samsung TV,2023-03-25,true
+1479,Philadelphia PA,Standard,Android phone,2024-12-14,true
+1480,Dallas-Ft Worth TX,Premium,iPhone,2025-03-22,true
+1481,Hartford CT,Standard,Apple TV,2025-05-28,true
+1482,Providence RI,Basic,Fire TV Stick,2024-01-26,true
+1483,Chicago IL,Basic,Web browser,2026-01-28,true
+1484,New York NY,Standard,Apple TV,2025-02-02,true
+1485,Dallas-Ft Worth TX,Basic,Roku,2025-05-03,true
+1486,Baltimore MD,Basic,Apple TV,2026-05-25,true
+1487,Hartford CT,Basic,Web browser,2023-05-11,true
+1488,Providence RI,Standard,Apple TV,2026-08-15,true
+1489,New York NY,Basic,Web browser,2022-07-04,false
+1490,Denver CO,Standard,Samsung TV,2026-04-01,true
+1491,Chicago IL,Premium,iPad,2025-02-08,true
+1492,Seattle WA,Premium,Android phone,2026-03-26,true
+1493,Providence RI,Basic,Roku,2025-01-26,true
+1494,Los Angeles CA,Standard,iPhone,2024-01-06,true
+1495,Dallas-Ft Worth TX,Standard,Samsung TV,2026-04-12,true
+1496,Dallas-Ft Worth TX,Standard,Fire TV Stick,2024-05-20,true
+1497,Phoenix AZ,Standard,iPhone,2023-04-27,true
+1498,Portland OR,Basic,Roku,2024-09-08,true
+1499,Seattle WA,Premium Ad-Free,Android phone,2026-03-04,true
+1500,Nashville TN,Basic,iPad,2023-08-31,true
+1501,Denver CO,Premium,Roku,2025-11-07,true
+1502,Chicago IL,Standard,Samsung TV,2026-08-02,true
+1503,Philadelphia PA,Basic,Android phone,2024-10-07,true
+1504,Los Angeles CA,Premium,Roku,2025-06-26,false
+1505,Phoenix AZ,Basic,Samsung TV,2026-07-15,false
+1506,Philadelphia PA,Premium,Apple TV,2023-04-18,true
+1507,St Louis MO,Standard,Roku,2024-01-24,true
+1508,Seattle WA,Basic,iPad,2022-09-21,true
+1509,Baltimore MD,Basic,Samsung TV,2024-07-31,true
+1510,Detroit MI,Premium,iPad,2024-10-05,false
+1511,Los Angeles CA,Basic,iPhone,2023-01-05,true
+1512,Philadelphia PA,Premium,Web browser,2026-04-22,true
+1513,Minneapolis MN,Premium,Web browser,2025-02-03,true
+1514,Los Angeles CA,Standard,iPhone,2023-03-16,true
+1515,Philadelphia PA,Basic,Apple TV,2025-05-23,true
+1516,St Louis MO,Standard,Samsung TV,2022-10-30,true
+1517,Seattle WA,Premium Ad-Free,iPad,2025-06-06,true
+1518,Providence RI,Basic,Samsung TV,2024-11-13,true
+1519,Seattle WA,Basic,iPhone,2022-10-11,true
+1520,Seattle WA,Basic,Fire TV Stick,2025-08-09,true
+1521,Baltimore MD,Standard,Web browser,2022-06-21,true
+1522,Minneapolis MN,Premium,Android phone,2026-06-20,true
+1523,Hartford CT,Standard,Apple TV,2025-07-05,true
+1524,Hartford CT,Standard,iPhone,2024-02-07,true
+1525,Miami FL,Basic,Samsung TV,2024-02-02,true
+1526,Providence RI,Basic,Fire TV Stick,2022-09-21,true
+1527,Los Angeles CA,Basic,iPad,2022-07-04,true
+1528,New York NY,Premium,Web browser,2023-09-22,true
+1529,Providence RI,Standard,iPad,2023-10-21,false
+1530,St Louis MO,Standard,Apple TV,2025-04-14,true
+1531,Boston MA,Premium,Apple TV,2023-03-05,true
+1532,Providence RI,Basic,Roku,2023-11-17,true
+1533,St Louis MO,Basic,Android phone,2026-07-21,true
+1534,Hartford CT,Basic,Apple TV,2023-01-22,true
+1535,Nashville TN,Premium Ad-Free,Web browser,2025-02-06,true
+1536,Providence RI,Standard,iPad,2024-08-07,true
+1537,Hartford CT,Standard,Fire TV Stick,2024-07-21,true
+1538,New York NY,Basic,Web browser,2023-02-10,true
+1539,Minneapolis MN,Basic,Fire TV Stick,2025-07-01,true
+1540,Miami FL,Standard,Samsung TV,2024-12-17,false
+1541,Seattle WA,Standard,Samsung TV,2026-06-28,true
+1542,Philadelphia PA,Premium,Web browser,2025-02-24,true
+1543,Boston MA,Premium,Android phone,2026-04-11,true
+1544,Phoenix AZ,Standard,Web browser,2024-02-19,true
+1545,Philadelphia PA,Premium,iPhone,2022-10-17,true
+1546,Phoenix AZ,Premium Ad-Free,iPad,2024-08-24,true
+1547,Detroit MI,Standard,iPad,2022-09-17,true
+1548,Nashville TN,Standard,iPad,2022-06-07,true
+1549,Seattle WA,Premium,Samsung TV,2026-06-04,true
+1550,Providence RI,Basic,Samsung TV,2024-06-04,true
+1551,Chicago IL,Premium,Web browser,2024-05-16,true
+1552,Baltimore MD,Basic,iPad,2024-12-28,true
+1553,Denver CO,Standard,Web browser,2023-01-24,true
+1554,Miami FL,Premium,iPhone,2024-12-13,true
+1555,Seattle WA,Standard,Web browser,2026-06-02,true
+1556,Hartford CT,Standard,Android phone,2024-04-15,true
+1557,Baltimore MD,Standard,Android phone,2025-10-13,true
+1558,Portland OR,Basic,Fire TV Stick,2025-02-14,true
+1559,Columbus OH,Basic,iPhone,2024-06-27,false
+1560,Baltimore MD,Basic,Android phone,2023-07-13,true
+1561,Chicago IL,Standard,iPad,2025-06-15,true
+1562,Chicago IL,Standard,Web browser,2025-01-04,true
+1563,Philadelphia PA,Basic,Apple TV,2026-05-13,true
+1564,St Louis MO,Premium,Apple TV,2024-12-30,true
+1565,Phoenix AZ,Standard,Web browser,2024-02-24,true
+1566,Seattle WA,Standard,Web browser,2023-12-28,true
+1567,Columbus OH,Standard,Fire TV Stick,2025-05-22,true
+1568,Miami FL,Basic,Samsung TV,2026-05-24,true
+1569,St Louis MO,Premium,Web browser,2024-02-28,true
+1570,Columbus OH,Standard,Fire TV Stick,2023-10-28,true
+1571,Boston MA,Basic,iPad,2026-04-16,true
+1572,Atlanta GA,Premium Ad-Free,Roku,2024-06-22,true
+1573,Minneapolis MN,Premium,Fire TV Stick,2026-03-31,true
+1574,Nashville TN,Premium,iPad,2024-09-12,true
+1575,New York NY,Premium,iPhone,2023-11-20,true
+1576,Los Angeles CA,Premium,iPhone,2023-07-19,true
+1577,Denver CO,Basic,iPad,2023-07-28,true
+1578,Portland OR,Standard,Apple TV,2023-05-18,true
+1579,New York NY,Standard,iPhone,2025-08-12,false
+1580,Miami FL,Basic,iPhone,2022-12-30,true
+1581,Chicago IL,Basic,Android phone,2025-02-22,true
+1582,Philadelphia PA,Basic,Apple TV,2025-01-13,true
+1583,Denver CO,Standard,Android phone,2023-04-02,true
+1584,Dallas-Ft Worth TX,Premium,Samsung TV,2025-03-30,true
+1585,Miami FL,Premium,iPhone,2026-05-02,false
+1586,Los Angeles CA,Basic,iPad,2023-07-27,true
+1587,Nashville TN,Basic,Samsung TV,2023-10-17,true
+1588,Boston MA,Standard,Android phone,2024-02-21,true
+1589,Baltimore MD,Standard,Web browser,2026-01-14,true
+1590,Providence RI,Premium,iPad,2023-12-04,true
+1591,Minneapolis MN,Premium,Web browser,2025-10-19,true
+1592,Los Angeles CA,Premium,iPhone,2024-04-03,true
+1593,Atlanta GA,Premium,Apple TV,2024-06-17,true
+1594,Providence RI,Premium Ad-Free,Web browser,2023-04-26,true
+1595,Minneapolis MN,Standard,Android phone,2022-06-08,true
+1596,Hartford CT,Basic,Fire TV Stick,2025-11-01,true
+1597,Detroit MI,Basic,Apple TV,2026-02-28,true
+1598,Minneapolis MN,Standard,Apple TV,2024-04-02,true
+1599,Nashville TN,Basic,iPad,2022-07-16,true
+1600,Minneapolis MN,Basic,Roku,2025-12-22,true
+1601,Los Angeles CA,Premium Ad-Free,Android phone,2024-07-19,true
+1602,Minneapolis MN,Basic,iPhone,2024-11-23,true
+1603,Nashville TN,Premium Ad-Free,Roku,2025-04-13,true
+1604,Los Angeles CA,Premium,iPhone,2023-10-14,true
+1605,New York NY,Standard,iPad,2025-05-19,true
+1606,Baltimore MD,Standard,Android phone,2024-07-10,true
+1607,New York NY,Basic,iPhone,2023-01-01,true
+1608,Phoenix AZ,Standard,Apple TV,2025-01-06,true
+1609,Philadelphia PA,Basic,Fire TV Stick,2026-07-26,true
+1610,New York NY,Premium Ad-Free,Roku,2022-10-30,true
+1611,Portland OR,Basic,Apple TV,2025-06-21,true
+1612,New York NY,Basic,Android phone,2023-04-25,true
+1613,Detroit MI,Standard,Roku,2023-05-11,true
+1614,Detroit MI,Standard,Web browser,2024-05-19,true
+1615,Boston MA,Standard,iPhone,2026-04-12,true
+1616,Hartford CT,Standard,Apple TV,2022-07-19,true
+1617,Portland OR,Basic,Web browser,2023-09-18,true
+1618,Denver CO,Standard,Fire TV Stick,2024-10-27,true
+1619,New York NY,Basic,Web browser,2022-12-18,true
+1620,Columbus OH,Basic,Apple TV,2023-04-01,true
+1621,Chicago IL,Basic,Samsung TV,2023-05-15,true
+1622,Providence RI,Basic,Samsung TV,2025-12-06,true
+1623,St Louis MO,Basic,Web browser,2023-12-03,true
+1624,Providence RI,Standard,Apple TV,2025-06-03,true
+1625,Phoenix AZ,Basic,Web browser,2026-04-26,true
+1626,Columbus OH,Basic,Apple TV,2025-03-12,true
+1627,Phoenix AZ,Standard,Apple TV,2026-03-17,true
+1628,Phoenix AZ,Basic,Android phone,2026-03-14,true
+1629,Atlanta GA,Standard,Android phone,2023-07-07,true
+1630,New York NY,Premium Ad-Free,Apple TV,2024-06-27,true
+1631,Phoenix AZ,Standard,Fire TV Stick,2024-12-08,true
+1632,Baltimore MD,Premium,Samsung TV,2025-10-29,true
+1633,Boston MA,Basic,iPhone,2023-04-28,true
+1634,Baltimore MD,Basic,Roku,2023-11-30,true
+1635,Dallas-Ft Worth TX,Premium,Roku,2024-02-15,false
+1636,Denver CO,Premium,Web browser,2025-11-01,true
+1637,Hartford CT,Premium,Roku,2026-02-14,true
+1638,Miami FL,Basic,Samsung TV,2026-02-14,true
+1639,Hartford CT,Premium,iPad,2026-07-20,true
+1640,Chicago IL,Standard,Apple TV,2022-06-19,true
+1641,Minneapolis MN,Basic,Samsung TV,2025-01-24,true
+1642,Boston MA,Basic,Roku,2023-10-23,true
+1643,Dallas-Ft Worth TX,Premium Ad-Free,iPad,2022-05-30,true
+1644,Phoenix AZ,Basic,Android phone,2022-08-10,true
+1645,New York NY,Premium,iPad,2025-04-09,false
+1646,Chicago IL,Standard,iPad,2024-07-15,true
+1647,Los Angeles CA,Premium,Apple TV,2024-08-27,true
+1648,Detroit MI,Standard,Roku,2026-07-07,true
+1649,Columbus OH,Premium,Apple TV,2023-05-03,true
+1650,Nashville TN,Basic,Fire TV Stick,2024-03-04,true
+1651,Hartford CT,Basic,iPhone,2025-01-19,true
+1652,Providence RI,Standard,Fire TV Stick,2024-03-29,true
+1653,Boston MA,Standard,Web browser,2023-06-23,true
+1654,Phoenix AZ,Basic,iPhone,2026-08-05,true
+1655,Hartford CT,Basic,Apple TV,2023-11-12,true
+1656,Philadelphia PA,Basic,Web browser,2022-12-07,true
+1657,Nashville TN,Basic,iPad,2023-07-08,true
+1658,Baltimore MD,Basic,Samsung TV,2023-12-23,true
+1659,Nashville TN,Premium,Fire TV Stick,2026-04-07,true
+1660,Chicago IL,Basic,Apple TV,2023-06-09,true
+1661,Miami FL,Premium Ad-Free,iPhone,2023-05-30,true
+1662,Miami FL,Premium Ad-Free,iPad,2024-07-09,true
+1663,Hartford CT,Basic,Apple TV,2024-02-20,true
+1664,Phoenix AZ,Standard,Android phone,2023-12-25,true
+1665,Denver CO,Standard,Apple TV,2026-02-18,true
+1666,Atlanta GA,Standard,Fire TV Stick,2025-07-18,true
+1667,Portland OR,Basic,Samsung TV,2023-03-26,true
+1668,Detroit MI,Basic,Fire TV Stick,2022-06-12,true
+1669,Denver CO,Basic,Samsung TV,2025-06-28,true
+1670,Minneapolis MN,Standard,Apple TV,2024-12-03,true
+1671,Portland OR,Premium Ad-Free,Apple TV,2022-09-12,true
+1672,Phoenix AZ,Standard,iPad,2025-12-15,true
+1673,Chicago IL,Standard,Apple TV,2025-07-12,false
+1674,Portland OR,Premium Ad-Free,Android phone,2026-06-01,true
+1675,Minneapolis MN,Standard,Android phone,2025-08-23,true
+1676,Columbus OH,Basic,Android phone,2023-11-27,true
+1677,New York NY,Premium,Apple TV,2025-02-24,true
+1678,Dallas-Ft Worth TX,Standard,iPad,2022-05-28,true
+1679,St Louis MO,Basic,Fire TV Stick,2022-10-20,true
+1680,Denver CO,Standard,Apple TV,2022-10-13,false
+1681,St Louis MO,Premium Ad-Free,iPad,2023-07-08,true
+1682,Providence RI,Basic,Apple TV,2023-08-15,true
+1683,Providence RI,Standard,Android phone,2024-06-14,true
+1684,Portland OR,Basic,Roku,2022-05-16,true
+1685,Atlanta GA,Basic,iPhone,2026-03-31,true
+1686,Denver CO,Basic,iPad,2023-07-13,true
+1687,Dallas-Ft Worth TX,Premium,Android phone,2026-01-19,true
+1688,Dallas-Ft Worth TX,Premium,iPhone,2025-03-10,true
+1689,St Louis MO,Basic,iPad,2025-07-21,true
+1690,Boston MA,Basic,Apple TV,2024-01-22,true
+1691,Portland OR,Basic,Samsung TV,2023-04-03,true
+1692,Baltimore MD,Basic,Roku,2026-04-24,true
+1693,Detroit MI,Standard,Android phone,2024-01-21,true
+1694,Atlanta GA,Standard,Android phone,2025-09-12,true
+1695,Hartford CT,Standard,iPad,2026-04-29,true
+1696,Detroit MI,Standard,Android phone,2024-11-07,true
+1697,Seattle WA,Standard,Fire TV Stick,2024-02-22,true
+1698,New York NY,Basic,Android phone,2025-10-14,true
+1699,Atlanta GA,Basic,iPad,2024-12-21,true
+1700,Columbus OH,Premium Ad-Free,Fire TV Stick,2022-07-14,true
+1701,Chicago IL,Premium,Samsung TV,2025-02-27,true
+1702,Hartford CT,Premium,Web browser,2022-05-08,true
+1703,Detroit MI,Premium,Samsung TV,2023-01-18,true
+1704,Hartford CT,Standard,iPad,2025-01-19,true
+1705,St Louis MO,Premium,iPhone,2024-02-29,false
+1706,Baltimore MD,Standard,Android phone,2023-08-04,true
+1707,Columbus OH,Basic,Android phone,2024-08-24,true
+1708,St Louis MO,Basic,Android phone,2024-11-22,true
+1709,Philadelphia PA,Basic,iPad,2025-03-26,true
+1710,Philadelphia PA,Basic,Web browser,2026-01-20,true
+1711,Los Angeles CA,Standard,Apple TV,2026-07-20,true
+1712,Seattle WA,Standard,Web browser,2025-03-14,true
+1713,Baltimore MD,Premium,Android phone,2023-03-20,true
+1714,Minneapolis MN,Standard,iPhone,2025-08-25,true
+1715,Miami FL,Basic,Apple TV,2025-11-17,false
+1716,Baltimore MD,Premium,Samsung TV,2025-03-28,true
+1717,Miami FL,Standard,Android phone,2024-01-25,true
+1718,Atlanta GA,Basic,Apple TV,2025-09-23,true
+1719,Dallas-Ft Worth TX,Basic,Apple TV,2025-09-14,true
+1720,Denver CO,Basic,iPad,2026-03-04,true
+1721,Boston MA,Basic,Samsung TV,2025-03-22,true
+1722,Minneapolis MN,Premium,Android phone,2025-09-19,true
+1723,Detroit MI,Premium,Roku,2023-01-23,true
+1724,Minneapolis MN,Standard,Roku,2022-09-27,true
+1725,Denver CO,Basic,iPad,2025-01-20,false
+1726,Portland OR,Premium,Fire TV Stick,2026-04-16,true
+1727,St Louis MO,Standard,iPad,2026-04-12,true
+1728,Phoenix AZ,Basic,Web browser,2025-04-02,true
+1729,Dallas-Ft Worth TX,Standard,Samsung TV,2024-08-26,true
+1730,New York NY,Standard,Web browser,2024-05-16,true
+1731,Portland OR,Standard,Samsung TV,2025-05-05,true
+1732,St Louis MO,Basic,Web browser,2025-02-14,true
+1733,Detroit MI,Standard,Fire TV Stick,2025-06-06,true
+1734,Baltimore MD,Basic,Samsung TV,2024-06-02,true
+1735,Baltimore MD,Basic,Samsung TV,2023-08-23,true
+1736,Portland OR,Basic,iPad,2026-06-21,true
+1737,Denver CO,Premium Ad-Free,Roku,2024-08-02,true
+1738,Boston MA,Basic,iPad,2023-11-08,true
+1739,Providence RI,Standard,Roku,2023-10-01,true
+1740,Philadelphia PA,Basic,Apple TV,2024-03-21,true
+1741,Dallas-Ft Worth TX,Premium,iPhone,2024-05-21,true
+1742,Minneapolis MN,Standard,Fire TV Stick,2023-09-18,true
+1743,Seattle WA,Premium,Samsung TV,2025-01-08,false
+1744,Providence RI,Basic,Web browser,2024-03-15,true
+1745,Philadelphia PA,Basic,iPad,2025-04-11,true
+1746,Columbus OH,Standard,Roku,2024-10-06,true
+1747,Columbus OH,Standard,iPhone,2026-02-13,true
+1748,Atlanta GA,Premium,iPhone,2025-02-21,true
+1749,Nashville TN,Premium,Roku,2026-01-16,true
+1750,Minneapolis MN,Standard,Android phone,2025-09-05,true
+1751,St Louis MO,Premium Ad-Free,iPhone,2024-11-04,true
+1752,Baltimore MD,Standard,Android phone,2024-06-29,true
+1753,Miami FL,Basic,Apple TV,2022-08-01,true
+1754,Atlanta GA,Standard,Apple TV,2026-07-18,true
+1755,Miami FL,Basic,Android phone,2022-10-09,true
+1756,Los Angeles CA,Premium,Android phone,2025-03-28,true
+1757,Los Angeles CA,Basic,Fire TV Stick,2023-07-11,true
+1758,Miami FL,Basic,Fire TV Stick,2023-09-22,true
+1759,Phoenix AZ,Standard,iPhone,2022-06-17,true
+1760,Phoenix AZ,Basic,iPad,2026-03-10,true
+1761,Atlanta GA,Basic,Fire TV Stick,2022-06-22,true
+1762,Dallas-Ft Worth TX,Standard,Fire TV Stick,2026-05-21,true
+1763,Providence RI,Basic,iPad,2022-11-11,true
+1764,Miami FL,Standard,Android phone,2023-11-02,true
+1765,Phoenix AZ,Basic,Web browser,2024-07-28,true
+1766,St Louis MO,Basic,iPad,2024-12-08,true
+1767,Denver CO,Basic,Web browser,2026-04-03,true
+1768,Seattle WA,Premium,Fire TV Stick,2023-03-11,true
+1769,Boston MA,Premium Ad-Free,Apple TV,2023-07-05,true
+1770,Hartford CT,Basic,Fire TV Stick,2022-08-09,true
+1771,Los Angeles CA,Premium Ad-Free,Roku,2023-07-01,true
+1772,Atlanta GA,Standard,iPad,2022-07-08,true
+1773,Atlanta GA,Standard,Android phone,2022-10-27,true
+1774,Atlanta GA,Standard,Roku,2024-10-25,true
+1775,Portland OR,Standard,Fire TV Stick,2023-08-13,true
+1776,New York NY,Premium,Fire TV Stick,2025-07-07,false
+1777,Los Angeles CA,Standard,Samsung TV,2023-03-21,true
+1778,Hartford CT,Standard,Samsung TV,2024-01-10,false
+1779,Los Angeles CA,Basic,Apple TV,2024-10-02,true
+1780,Detroit MI,Basic,Web browser,2023-12-10,true
+1781,Providence RI,Standard,Fire TV Stick,2025-06-17,true
+1782,Los Angeles CA,Basic,iPhone,2023-12-19,true
+1783,Providence RI,Basic,Samsung TV,2024-08-08,true
+1784,Columbus OH,Basic,Samsung TV,2025-04-07,true
+1785,Minneapolis MN,Basic,iPad,2022-06-09,true
+1786,Philadelphia PA,Standard,Web browser,2026-05-20,true
+1787,Hartford CT,Standard,Roku,2023-05-19,true
+1788,Boston MA,Standard,Samsung TV,2025-10-01,true
+1789,Seattle WA,Basic,Roku,2025-09-11,true
+1790,Portland OR,Standard,Samsung TV,2025-12-28,true
+1791,Phoenix AZ,Standard,iPhone,2026-03-20,true
+1792,Baltimore MD,Premium,Samsung TV,2026-02-14,true
+1793,Los Angeles CA,Standard,Apple TV,2023-01-21,true
+1794,Chicago IL,Standard,Apple TV,2022-08-26,true
+1795,Seattle WA,Standard,Apple TV,2024-02-17,true
+1796,Philadelphia PA,Premium Ad-Free,Apple TV,2026-08-07,true
+1797,Columbus OH,Premium,Apple TV,2022-12-02,true
+1798,Hartford CT,Standard,Android phone,2024-01-21,true
+1799,Seattle WA,Standard,Roku,2024-05-28,true
+1800,Denver CO,Basic,Roku,2022-07-23,true
+1801,Boston MA,Premium Ad-Free,iPhone,2024-11-19,true
+1802,Seattle WA,Basic,Android phone,2025-02-06,true
+1803,Seattle WA,Basic,Apple TV,2023-04-14,true
+1804,Chicago IL,Premium Ad-Free,Fire TV Stick,2024-05-18,true
+1805,New York NY,Standard,iPhone,2023-07-23,false
+1806,Providence RI,Basic,Samsung TV,2023-08-25,true
+1807,Providence RI,Basic,Android phone,2023-01-10,true
+1808,Seattle WA,Basic,Fire TV Stick,2025-04-14,true
+1809,Boston MA,Standard,Roku,2026-05-07,true
+1810,Columbus OH,Basic,iPhone,2024-08-04,true
+1811,Philadelphia PA,Premium Ad-Free,Samsung TV,2023-11-09,true
+1812,Detroit MI,Premium Ad-Free,Android phone,2023-02-14,true
+1813,Detroit MI,Standard,iPhone,2025-07-03,true
+1814,Seattle WA,Standard,Apple TV,2023-06-08,true
+1815,Baltimore MD,Basic,Fire TV Stick,2023-01-22,true
+1816,New York NY,Basic,Fire TV Stick,2023-02-28,true
+1817,Philadelphia PA,Premium,iPad,2023-03-01,true
+1818,Chicago IL,Basic,Fire TV Stick,2022-05-22,true
+1819,New York NY,Basic,iPhone,2023-10-19,true
+1820,Chicago IL,Basic,iPad,2025-01-20,true
+1821,Los Angeles CA,Basic,Web browser,2024-10-08,true
+1822,Portland OR,Standard,Apple TV,2023-06-05,true
+1823,Los Angeles CA,Standard,Roku,2025-08-20,true
+1824,Baltimore MD,Premium,iPad,2024-01-19,true
+1825,Portland OR,Standard,Android phone,2024-03-07,true
+1826,St Louis MO,Premium,Apple TV,2023-10-10,true
+1827,New York NY,Standard,iPhone,2024-11-01,true
+1828,Columbus OH,Premium,Fire TV Stick,2023-06-16,false
+1829,Miami FL,Standard,Android phone,2026-05-08,false
+1830,Columbus OH,Basic,Android phone,2023-06-01,true
+1831,Atlanta GA,Premium Ad-Free,Apple TV,2023-02-23,true
+1832,Columbus OH,Basic,Samsung TV,2022-10-29,false
+1833,Phoenix AZ,Basic,Apple TV,2022-08-31,true
+1834,Boston MA,Basic,Roku,2025-02-23,true
+1835,Dallas-Ft Worth TX,Standard,Fire TV Stick,2026-06-16,true
+1836,New York NY,Standard,Web browser,2023-10-31,true
+1837,St Louis MO,Standard,Samsung TV,2026-04-08,true
+1838,Los Angeles CA,Premium,Fire TV Stick,2025-06-12,true
+1839,Philadelphia PA,Basic,Roku,2023-08-15,true
+1840,Phoenix AZ,Standard,Apple TV,2024-02-01,true
+1841,Dallas-Ft Worth TX,Standard,Web browser,2024-01-13,false
+1842,Boston MA,Premium,Samsung TV,2023-05-30,false
+1843,Nashville TN,Basic,Web browser,2025-12-11,true
+1844,Nashville TN,Basic,Samsung TV,2023-03-28,true
+1845,Minneapolis MN,Standard,iPad,2024-02-14,true
+1846,Miami FL,Standard,iPad,2024-11-03,true
+1847,Dallas-Ft Worth TX,Premium,Roku,2024-08-26,true
+1848,Denver CO,Standard,Roku,2024-06-16,true
+1849,Denver CO,Premium,Web browser,2024-04-11,true
+1850,Hartford CT,Standard,Web browser,2025-03-19,false
+1851,Boston MA,Basic,Fire TV Stick,2025-09-10,true
+1852,Chicago IL,Basic,Android phone,2025-12-04,true
+1853,Seattle WA,Basic,Web browser,2025-03-08,true
+1854,Hartford CT,Basic,Web browser,2025-07-13,true
+1855,New York NY,Standard,Apple TV,2024-06-04,true
+1856,Baltimore MD,Standard,iPad,2022-09-17,true
+1857,Atlanta GA,Standard,Android phone,2026-03-11,true
+1858,Phoenix AZ,Standard,Web browser,2025-04-27,true
+1859,Denver CO,Standard,Fire TV Stick,2026-06-12,true
+1860,Minneapolis MN,Standard,iPhone,2022-06-10,true
+1861,Minneapolis MN,Basic,Roku,2023-08-17,true
+1862,Chicago IL,Standard,Apple TV,2025-08-12,true
+1863,Nashville TN,Standard,Roku,2024-11-12,true
+1864,Atlanta GA,Standard,Samsung TV,2023-07-13,true
+1865,Nashville TN,Basic,iPad,2022-07-07,true
+1866,Dallas-Ft Worth TX,Basic,Android phone,2024-03-05,true
+1867,New York NY,Standard,Apple TV,2025-06-26,true
+1868,Portland OR,Standard,Samsung TV,2023-08-23,true
+1869,Providence RI,Basic,Apple TV,2023-09-10,true
+1870,Portland OR,Standard,Android phone,2023-11-15,true
+1871,Providence RI,Premium,Apple TV,2026-06-17,true
+1872,Philadelphia PA,Basic,Roku,2023-08-08,true
+1873,Miami FL,Premium,iPhone,2026-07-28,true
+1874,St Louis MO,Basic,iPad,2022-09-28,true
+1875,Dallas-Ft Worth TX,Standard,Samsung TV,2022-11-04,true
+1876,New York NY,Standard,Fire TV Stick,2024-03-21,true
+1877,Philadelphia PA,Basic,Roku,2023-11-12,true
+1878,Baltimore MD,Premium,Web browser,2026-05-13,true
+1879,Minneapolis MN,Standard,iPad,2022-11-16,true
+1880,New York NY,Premium Ad-Free,Fire TV Stick,2025-06-27,true
+1881,Atlanta GA,Basic,Roku,2025-07-10,true
+1882,Chicago IL,Premium,Fire TV Stick,2023-08-06,true
+1883,Hartford CT,Premium,Samsung TV,2022-08-06,true
+1884,Nashville TN,Standard,iPad,2024-07-09,true
+1885,Miami FL,Basic,Fire TV Stick,2024-06-18,true
+1886,Hartford CT,Standard,iPad,2024-04-14,true
+1887,Detroit MI,Standard,Roku,2025-05-25,true
+1888,Dallas-Ft Worth TX,Premium Ad-Free,Android phone,2024-01-29,true
+1889,Boston MA,Standard,Apple TV,2022-07-02,true
+1890,Dallas-Ft Worth TX,Basic,Web browser,2025-01-01,false
+1891,Hartford CT,Basic,Samsung TV,2023-04-25,true
+1892,Philadelphia PA,Standard,Apple TV,2023-04-24,true
+1893,Baltimore MD,Premium Ad-Free,Fire TV Stick,2022-12-23,true
+1894,Minneapolis MN,Basic,iPad,2023-07-12,true
+1895,New York NY,Premium,Samsung TV,2022-09-03,true
+1896,Baltimore MD,Premium,Apple TV,2023-07-27,true
+1897,Phoenix AZ,Basic,Android phone,2022-06-08,true
+1898,Baltimore MD,Basic,iPhone,2023-07-25,true
+1899,Minneapolis MN,Standard,Android phone,2023-01-14,true
+1900,Los Angeles CA,Standard,Samsung TV,2022-10-22,true
+1901,Denver CO,Basic,Roku,2022-05-28,true
+1902,Denver CO,Premium,Roku,2024-01-31,true
+1903,Minneapolis MN,Standard,Roku,2023-08-02,true
+1904,Philadelphia PA,Premium,iPhone,2022-06-23,true
+1905,Los Angeles CA,Premium,iPhone,2025-01-05,true
+1906,Philadelphia PA,Premium,Android phone,2026-02-21,true
+1907,Chicago IL,Standard,Web browser,2022-10-31,true
+1908,Hartford CT,Basic,Fire TV Stick,2023-12-04,true
+1909,Providence RI,Standard,Web browser,2024-10-20,true
+1910,St Louis MO,Basic,Web browser,2023-07-23,true
+1911,Boston MA,Standard,iPhone,2026-07-08,true
+1912,Baltimore MD,Basic,iPhone,2024-08-04,true
+1913,Providence RI,Standard,Fire TV Stick,2025-07-05,true
+1914,Portland OR,Basic,Fire TV Stick,2025-05-30,true
+1915,Los Angeles CA,Basic,Roku,2022-06-19,true
+1916,Denver CO,Basic,Android phone,2024-04-11,true
+1917,Chicago IL,Standard,Samsung TV,2026-01-19,true
+1918,Seattle WA,Premium,Fire TV Stick,2025-01-29,true
+1919,Seattle WA,Basic,Fire TV Stick,2025-08-10,true
+1920,Denver CO,Premium,Roku,2022-09-22,true
+1921,Atlanta GA,Premium,Android phone,2025-05-25,false
+1922,Denver CO,Standard,Android phone,2025-02-11,false
+1923,Nashville TN,Standard,Android phone,2025-03-19,true
+1924,Dallas-Ft Worth TX,Standard,Roku,2025-11-24,true
+1925,Atlanta GA,Basic,Roku,2023-04-14,true
+1926,New York NY,Standard,Roku,2024-03-01,true
+1927,Atlanta GA,Basic,iPad,2024-10-07,true
+1928,New York NY,Premium,Android phone,2024-12-11,true
+1929,Hartford CT,Premium,Apple TV,2023-10-10,true
+1930,Columbus OH,Premium,Roku,2026-03-30,true
+1931,Boston MA,Standard,Apple TV,2022-08-17,true
+1932,Seattle WA,Standard,iPad,2024-03-19,true
+1933,Nashville TN,Premium Ad-Free,Fire TV Stick,2025-09-03,true
+1934,Columbus OH,Basic,iPad,2024-05-01,true
+1935,New York NY,Basic,Samsung TV,2022-12-21,true
+1936,Hartford CT,Standard,Fire TV Stick,2025-11-28,true
+1937,Atlanta GA,Basic,Web browser,2024-05-23,true
+1938,Phoenix AZ,Basic,iPhone,2024-01-27,true
+1939,Columbus OH,Basic,Android phone,2023-02-26,true
+1940,Philadelphia PA,Standard,Roku,2024-03-15,true
+1941,Hartford CT,Basic,Apple TV,2023-06-22,true
+1942,Chicago IL,Basic,Android phone,2023-04-24,true
+1943,Baltimore MD,Basic,Android phone,2022-10-21,true
+1944,Providence RI,Standard,Roku,2025-02-03,true
+1945,Atlanta GA,Premium,iPhone,2023-08-12,true
+1946,New York NY,Basic,Web browser,2025-07-31,true
+1947,Hartford CT,Standard,iPad,2023-01-03,true
+1948,St Louis MO,Premium,Fire TV Stick,2022-07-18,true
+1949,Providence RI,Basic,Web browser,2025-05-21,true
+1950,Los Angeles CA,Premium,Android phone,2024-03-25,true
+1951,St Louis MO,Standard,Roku,2023-02-06,true
+1952,Miami FL,Standard,Fire TV Stick,2026-07-17,true
+1953,Boston MA,Basic,Web browser,2023-08-11,true
+1954,Seattle WA,Basic,Fire TV Stick,2023-02-09,true
+1955,Columbus OH,Premium Ad-Free,Roku,2022-11-21,true
+1956,Dallas-Ft Worth TX,Premium,Samsung TV,2025-10-22,true
+1957,Denver CO,Premium Ad-Free,iPhone,2023-05-20,true
+1958,Denver CO,Premium,iPhone,2023-04-05,true
+1959,Detroit MI,Basic,Android phone,2026-08-24,true
+1960,Hartford CT,Premium,Web browser,2023-08-10,true
+1961,Nashville TN,Standard,iPad,2023-12-13,true
+1962,Columbus OH,Premium,Roku,2022-06-20,false
+1963,New York NY,Basic,Roku,2026-06-22,true
+1964,Nashville TN,Basic,Roku,2022-06-25,true
+1965,Nashville TN,Premium,Samsung TV,2024-03-09,true
+1966,Minneapolis MN,Premium,Apple TV,2025-06-21,true
+1967,Atlanta GA,Standard,Web browser,2024-12-24,true
+1968,Seattle WA,Basic,Apple TV,2023-05-06,true
+1969,Nashville TN,Basic,Roku,2022-05-08,true
+1970,Hartford CT,Premium Ad-Free,Web browser,2025-04-15,true
+1971,Nashville TN,Standard,Apple TV,2022-05-27,true
+1972,St Louis MO,Standard,Web browser,2023-12-08,true
+1973,Detroit MI,Standard,iPad,2025-10-29,false
+1974,Los Angeles CA,Standard,Web browser,2024-01-27,true
+1975,Phoenix AZ,Standard,iPad,2023-03-11,true
+1976,Boston MA,Standard,Fire TV Stick,2026-06-03,true
+1977,St Louis MO,Premium,Android phone,2026-04-26,true
+1978,Los Angeles CA,Premium,Samsung TV,2026-08-20,true
+1979,Boston MA,Premium Ad-Free,Android phone,2024-03-10,true
+1980,Portland OR,Standard,Android phone,2026-05-29,true
+1981,Detroit MI,Standard,iPhone,2022-08-17,true
+1982,Miami FL,Standard,Apple TV,2026-02-07,true
+1983,Boston MA,Premium,Web browser,2026-05-07,true
+1984,Portland OR,Standard,Android phone,2025-07-17,true
+1985,Miami FL,Standard,Web browser,2023-05-11,true
+1986,Portland OR,Premium,Fire TV Stick,2022-09-26,true
+1987,Nashville TN,Standard,iPad,2025-07-28,true
+1988,Philadelphia PA,Premium,Apple TV,2024-05-31,true
+1989,Philadelphia PA,Basic,Samsung TV,2023-04-24,true
+1990,St Louis MO,Standard,iPad,2023-03-18,true
+1991,Denver CO,Standard,Apple TV,2025-12-30,true
+1992,Dallas-Ft Worth TX,Basic,Apple TV,2023-01-12,true
+1993,Chicago IL,Premium,Web browser,2022-11-27,true
+1994,Miami FL,Standard,Web browser,2023-06-24,true
+1995,Portland OR,Basic,Apple TV,2024-05-17,true
+1996,Providence RI,Premium,Apple TV,2024-12-18,true
+1997,Phoenix AZ,Standard,Fire TV Stick,2022-10-23,true
+1998,Columbus OH,Premium,Roku,2022-12-03,true
+1999,Chicago IL,Standard,iPhone,2024-06-01,true
+2000,Chicago IL,Premium,Apple TV,2023-06-13,true
+2001,Baltimore MD,Standard,iPad,2024-12-05,true
+2002,Boston MA,Standard,Fire TV Stick,2023-06-11,true
+2003,Atlanta GA,Basic,Android phone,2026-04-09,true
+2004,Seattle WA,Standard,iPhone,2022-10-04,true
+2005,Portland OR,Standard,iPhone,2024-06-05,true
+2006,New York NY,Standard,Roku,2024-01-26,true
+2007,Dallas-Ft Worth TX,Standard,Samsung TV,2025-11-02,true
+2008,Hartford CT,Premium,Android phone,2024-05-15,true
+2009,Portland OR,Standard,Apple TV,2026-08-24,true
+2010,Miami FL,Basic,iPad,2022-10-22,true
+2011,Seattle WA,Premium Ad-Free,iPhone,2023-06-02,true
+2012,Atlanta GA,Standard,Apple TV,2024-09-09,true
+2013,Hartford CT,Premium Ad-Free,Roku,2023-01-16,true
+2014,St Louis MO,Premium Ad-Free,Fire TV Stick,2023-02-23,true
+2015,Miami FL,Premium,Samsung TV,2026-02-21,true
+2016,Los Angeles CA,Premium,Samsung TV,2026-06-04,true
+2017,Dallas-Ft Worth TX,Standard,iPad,2025-07-24,true
+2018,Minneapolis MN,Basic,iPad,2026-08-26,true
+2019,Minneapolis MN,Standard,Fire TV Stick,2024-03-06,true
+2020,Seattle WA,Premium,iPhone,2024-05-16,true
+2021,Los Angeles CA,Standard,Samsung TV,2024-04-30,true
+2022,Detroit MI,Premium,Roku,2026-05-04,true
+2023,Detroit MI,Basic,Android phone,2022-09-08,false
+2024,Phoenix AZ,Standard,iPhone,2022-06-08,true
+2025,Boston MA,Standard,Roku,2024-02-07,true
+2026,Seattle WA,Standard,Samsung TV,2026-08-20,true
+2027,Miami FL,Basic,Android phone,2024-12-11,true
+2028,Columbus OH,Basic,Apple TV,2023-07-21,true
+2029,Denver CO,Premium,Apple TV,2023-06-03,true
+2030,Los Angeles CA,Standard,Roku,2025-08-09,true
+2031,Phoenix AZ,Basic,Fire TV Stick,2023-02-06,true
+2032,Hartford CT,Basic,Web browser,2022-06-22,true
+2033,Boston MA,Standard,iPhone,2024-06-16,true
+2034,Detroit MI,Basic,Fire TV Stick,2025-01-03,true
+2035,Columbus OH,Standard,Samsung TV,2024-05-19,true
+2036,Nashville TN,Premium,Fire TV Stick,2026-07-16,true
+2037,Phoenix AZ,Basic,Samsung TV,2024-05-23,true
+2038,Providence RI,Standard,Fire TV Stick,2026-07-17,true
+2039,Columbus OH,Basic,iPhone,2026-07-05,true
+2040,Dallas-Ft Worth TX,Basic,iPhone,2024-04-06,true
+2041,Chicago IL,Premium,Android phone,2024-06-12,true
+2042,Baltimore MD,Standard,Samsung TV,2022-05-22,true
+2043,Minneapolis MN,Premium,Apple TV,2024-06-17,true
+2044,Minneapolis MN,Basic,Fire TV Stick,2022-06-02,true
+2045,Chicago IL,Basic,Fire TV Stick,2023-03-02,true
+2046,Columbus OH,Standard,Samsung TV,2025-03-14,true
+2047,Seattle WA,Standard,Samsung TV,2022-08-26,true
+2048,Denver CO,Premium Ad-Free,Android phone,2024-07-27,true
+2049,Portland OR,Basic,Roku,2024-01-31,true
+2050,Detroit MI,Premium,Apple TV,2026-03-23,true
+2051,Hartford CT,Premium,iPad,2025-09-27,true
+2052,Los Angeles CA,Standard,Web browser,2024-05-25,true
+2053,Atlanta GA,Standard,Web browser,2025-06-26,true
+2054,St Louis MO,Standard,Apple TV,2024-01-24,true
+2055,Minneapolis MN,Basic,Fire TV Stick,2026-04-24,true
+2056,Atlanta GA,Premium,Fire TV Stick,2025-07-28,false
+2057,Minneapolis MN,Standard,Fire TV Stick,2023-10-13,true
+2058,Minneapolis MN,Premium,Web browser,2024-01-04,true
+2059,Atlanta GA,Standard,Web browser,2022-05-27,true
+2060,Dallas-Ft Worth TX,Standard,iPad,2022-10-07,true
+2061,Baltimore MD,Standard,Android phone,2023-02-25,true
+2062,Phoenix AZ,Standard,Apple TV,2026-08-27,true
+2063,New York NY,Premium,Samsung TV,2024-01-20,false
+2064,Minneapolis MN,Basic,iPad,2025-09-01,true
+2065,Phoenix AZ,Premium Ad-Free,iPad,2025-07-03,true
+2066,Denver CO,Premium,iPhone,2025-10-01,true
+2067,Minneapolis MN,Premium,iPad,2024-09-07,true
+2068,St Louis MO,Standard,Apple TV,2026-02-14,true
+2069,Los Angeles CA,Premium,Samsung TV,2024-05-10,true
+2070,Dallas-Ft Worth TX,Basic,iPad,2025-12-09,true
+2071,Hartford CT,Premium,Samsung TV,2024-06-29,true
+2072,Miami FL,Basic,iPad,2023-12-14,true
+2073,Dallas-Ft Worth TX,Basic,Samsung TV,2025-11-18,true
+2074,Los Angeles CA,Standard,Apple TV,2026-03-19,true
+2075,Detroit MI,Basic,Fire TV Stick,2023-03-04,false
+2076,Dallas-Ft Worth TX,Standard,iPhone,2023-06-19,true
+2077,Seattle WA,Premium,Samsung TV,2025-07-11,true
+2078,Dallas-Ft Worth TX,Basic,Apple TV,2022-10-27,true
+2079,Chicago IL,Premium,Android phone,2025-09-13,true
+2080,New York NY,Basic,Roku,2022-08-25,true
+2081,Nashville TN,Premium,Roku,2026-03-03,true
+2082,Boston MA,Premium,Web browser,2023-10-20,true
+2083,Los Angeles CA,Standard,Android phone,2026-07-29,true
+2084,Detroit MI,Premium,iPhone,2025-10-21,true
+2085,New York NY,Premium,Roku,2024-11-27,true
+2086,Detroit MI,Premium,iPhone,2026-04-16,true
+2087,Minneapolis MN,Standard,Samsung TV,2024-09-05,true
+2088,Detroit MI,Standard,iPhone,2025-08-27,true
+2089,Los Angeles CA,Premium,Roku,2026-03-25,true
+2090,Providence RI,Basic,iPhone,2022-07-01,true
+2091,Baltimore MD,Premium,iPhone,2022-05-30,true
+2092,Los Angeles CA,Basic,Apple TV,2022-06-30,true
+2093,Nashville TN,Premium,Roku,2025-12-28,true
+2094,Hartford CT,Basic,Web browser,2025-01-02,true
+2095,Hartford CT,Basic,Android phone,2025-03-29,true
+2096,Portland OR,Premium Ad-Free,iPhone,2025-04-01,true
+2097,St Louis MO,Premium,iPad,2024-11-08,true
+2098,Baltimore MD,Premium,Android phone,2024-06-14,true
+2099,Portland OR,Premium Ad-Free,Fire TV Stick,2024-07-23,true
+2100,Philadelphia PA,Standard,Samsung TV,2025-05-25,true
+2101,St Louis MO,Basic,Web browser,2022-06-02,true
+2102,Detroit MI,Basic,Apple TV,2022-06-03,true
+2103,Hartford CT,Standard,Web browser,2025-03-23,true
+2104,New York NY,Basic,Roku,2025-09-13,true
+2105,Baltimore MD,Premium Ad-Free,Apple TV,2024-05-09,true
+2106,Chicago IL,Basic,Apple TV,2025-01-22,true
+2107,Portland OR,Basic,iPhone,2022-05-22,true
+2108,New York NY,Basic,Fire TV Stick,2024-10-19,true
+2109,Chicago IL,Basic,Fire TV Stick,2026-06-27,true
+2110,Chicago IL,Basic,Android phone,2026-02-12,true
+2111,Chicago IL,Standard,Apple TV,2026-05-03,true
+2112,Detroit MI,Basic,Web browser,2025-01-01,true
+2113,St Louis MO,Standard,iPad,2025-04-15,true
+2114,St Louis MO,Premium,Apple TV,2022-12-14,true
+2115,Minneapolis MN,Standard,iPhone,2022-10-21,false
+2116,Philadelphia PA,Standard,Apple TV,2026-01-19,true
+2117,Columbus OH,Standard,Apple TV,2022-07-28,false
+2118,Denver CO,Basic,Android phone,2024-02-18,true
+2119,Denver CO,Basic,Apple TV,2025-05-01,true
+2120,Minneapolis MN,Premium Ad-Free,Fire TV Stick,2024-11-24,true
+2121,Portland OR,Standard,Apple TV,2024-09-30,true
+2122,Columbus OH,Basic,Web browser,2025-12-02,true
+2123,Phoenix AZ,Standard,Apple TV,2022-11-27,true
+2124,Miami FL,Premium,Apple TV,2026-08-09,true
+2125,Minneapolis MN,Standard,Android phone,2026-05-10,true
+2126,Chicago IL,Standard,Roku,2025-06-23,true
+2127,Los Angeles CA,Premium,Apple TV,2026-01-14,true
+2128,Miami FL,Standard,Fire TV Stick,2026-05-23,true
+2129,Boston MA,Standard,Web browser,2024-12-31,true
+2130,Los Angeles CA,Basic,Web browser,2025-01-10,true
+2131,Minneapolis MN,Basic,iPad,2026-02-11,true
+2132,Columbus OH,Premium Ad-Free,Fire TV Stick,2023-02-25,true
+2133,Denver CO,Standard,iPhone,2022-11-03,true
+2134,Atlanta GA,Standard,Android phone,2023-07-18,true
+2135,Dallas-Ft Worth TX,Standard,iPad,2024-05-25,true
+2136,Detroit MI,Basic,Fire TV Stick,2022-07-24,false
+2137,Denver CO,Premium,Android phone,2025-02-21,true
+2138,Providence RI,Basic,Fire TV Stick,2024-10-23,true
+2139,Denver CO,Premium,iPhone,2026-08-05,true
+2140,Dallas-Ft Worth TX,Standard,Web browser,2023-08-06,true
+2141,Minneapolis MN,Basic,Roku,2026-04-04,true
+2142,Baltimore MD,Basic,Fire TV Stick,2023-10-12,true
+2143,Columbus OH,Premium,iPad,2023-04-10,true
+2144,Miami FL,Basic,Roku,2025-09-20,true
+2145,Atlanta GA,Basic,Android phone,2024-01-05,true
+2146,Dallas-Ft Worth TX,Premium,iPhone,2025-05-06,true
+2147,Hartford CT,Standard,Apple TV,2024-12-07,true
+2148,St Louis MO,Standard,iPad,2024-05-13,true
+2149,Nashville TN,Basic,iPad,2025-07-30,true
+2150,Baltimore MD,Premium,Apple TV,2023-03-19,true
+2151,Los Angeles CA,Basic,Roku,2024-12-13,true
+2152,Los Angeles CA,Basic,Fire TV Stick,2024-08-29,true
+2153,Baltimore MD,Basic,Roku,2023-02-18,true
+2154,Denver CO,Basic,Web browser,2025-09-03,true
+2155,Minneapolis MN,Basic,iPhone,2024-09-13,true
+2156,Seattle WA,Basic,Android phone,2022-05-12,true
+2157,Dallas-Ft Worth TX,Basic,Fire TV Stick,2024-12-05,true
+2158,Miami FL,Standard,iPad,2026-02-27,false
+2159,Nashville TN,Premium,Android phone,2025-06-05,true
+2160,Los Angeles CA,Basic,iPad,2022-07-10,true
+2161,Nashville TN,Basic,Samsung TV,2023-05-17,true
+2162,Philadelphia PA,Premium,Android phone,2023-02-27,true
+2163,Dallas-Ft Worth TX,Premium,iPhone,2025-07-24,true
+2164,St Louis MO,Standard,Samsung TV,2023-01-11,true
+2165,Columbus OH,Basic,iPhone,2024-12-15,true
+2166,St Louis MO,Standard,Apple TV,2023-03-22,true
+2167,Los Angeles CA,Basic,Web browser,2022-11-06,true
+2168,Nashville TN,Basic,Android phone,2025-10-04,true
+2169,St Louis MO,Standard,Android phone,2022-08-07,true
+2170,Columbus OH,Standard,Android phone,2023-12-03,true
+2171,Providence RI,Standard,Samsung TV,2023-07-01,true
+2172,Minneapolis MN,Standard,Web browser,2023-05-21,true
+2173,Columbus OH,Basic,Fire TV Stick,2025-12-05,true
+2174,Portland OR,Standard,iPhone,2023-06-07,true
+2175,Philadelphia PA,Premium,Roku,2025-09-26,true
+2176,Portland OR,Premium,Apple TV,2025-06-25,true
+2177,New York NY,Basic,iPhone,2026-02-25,true
+2178,Seattle WA,Standard,Samsung TV,2025-11-15,true
+2179,Miami FL,Basic,Web browser,2022-06-04,true
+2180,Seattle WA,Basic,iPhone,2025-03-28,true
+2181,Detroit MI,Premium,Samsung TV,2024-12-25,true
+2182,Philadelphia PA,Basic,Samsung TV,2024-07-31,false
+2183,Miami FL,Standard,iPhone,2023-07-29,true
+2184,Miami FL,Standard,iPad,2024-03-05,true
+2185,Miami FL,Basic,Apple TV,2024-05-03,true
+2186,Chicago IL,Basic,iPhone,2023-01-14,false
+2187,Los Angeles CA,Standard,iPhone,2024-07-06,true
+2188,Chicago IL,Premium Ad-Free,Roku,2023-05-01,true
+2189,Seattle WA,Standard,Web browser,2022-09-19,true
+2190,Phoenix AZ,Standard,iPhone,2023-09-25,true
+2191,Atlanta GA,Basic,Fire TV Stick,2026-07-04,true
+2192,Dallas-Ft Worth TX,Standard,Android phone,2025-07-08,true
+2193,Chicago IL,Basic,Android phone,2023-12-26,true
+2194,Philadelphia PA,Standard,Web browser,2024-08-02,false
+2195,Detroit MI,Premium,Roku,2025-06-05,true
+2196,Nashville TN,Standard,Samsung TV,2025-03-17,true
+2197,Chicago IL,Basic,Fire TV Stick,2026-04-27,true
+2198,Baltimore MD,Basic,iPhone,2025-08-22,true
+2199,Phoenix AZ,Basic,iPhone,2023-04-10,true
+2200,Hartford CT,Standard,Samsung TV,2026-08-12,true
+2201,Atlanta GA,Premium,Web browser,2023-01-14,true
+2202,Providence RI,Basic,iPhone,2025-03-10,true
+2203,Providence RI,Standard,Samsung TV,2023-03-01,true
+2204,Los Angeles CA,Standard,Roku,2025-07-20,true
+2205,Seattle WA,Basic,Apple TV,2023-01-27,true
+2206,Portland OR,Basic,Web browser,2024-03-08,true
+2207,New York NY,Basic,Samsung TV,2022-12-22,true
+2208,Nashville TN,Standard,Web browser,2026-05-22,true
+2209,Philadelphia PA,Standard,iPhone,2023-03-18,true
+2210,New York NY,Premium,iPhone,2025-06-27,true
+2211,Detroit MI,Premium,Samsung TV,2025-02-08,true
+2212,Portland OR,Premium,iPhone,2026-06-19,true
+2213,Miami FL,Premium Ad-Free,Roku,2022-07-13,true
+2214,New York NY,Premium,Roku,2023-11-19,true
+2215,New York NY,Premium,Samsung TV,2022-06-01,false
+2216,Atlanta GA,Premium,iPhone,2024-03-14,true
+2217,Seattle WA,Premium,iPhone,2025-12-22,true
+2218,Columbus OH,Premium,Samsung TV,2025-03-13,true
+2219,Chicago IL,Premium Ad-Free,Apple TV,2024-10-02,true
+2220,Hartford CT,Standard,Android phone,2026-01-08,false
+2221,St Louis MO,Standard,iPhone,2022-08-18,true
+2222,Hartford CT,Standard,Roku,2022-07-07,true
+2223,Providence RI,Premium,Samsung TV,2024-03-21,true
+2224,Dallas-Ft Worth TX,Standard,Android phone,2024-02-17,true
+2225,Dallas-Ft Worth TX,Premium,iPad,2023-08-13,true
+2226,Miami FL,Premium,Apple TV,2023-09-21,true
+2227,Baltimore MD,Premium Ad-Free,Web browser,2026-05-21,true
+2228,St Louis MO,Basic,Android phone,2024-05-11,true
+2229,Chicago IL,Standard,Samsung TV,2023-04-19,true
+2230,Columbus OH,Premium,Android phone,2023-03-03,true
+2231,Miami FL,Premium Ad-Free,iPad,2024-01-30,true
+2232,Boston MA,Premium,Fire TV Stick,2022-10-12,true
+2233,St Louis MO,Standard,Fire TV Stick,2024-02-14,true
+2234,New York NY,Standard,Samsung TV,2025-01-01,true
+2235,Phoenix AZ,Basic,Roku,2024-09-28,true
+2236,Portland OR,Premium Ad-Free,iPad,2023-09-03,true
+2237,Philadelphia PA,Basic,Web browser,2022-10-28,false
+2238,Chicago IL,Premium,iPhone,2025-08-30,true
+2239,Seattle WA,Premium,Web browser,2025-05-22,true
+2240,Baltimore MD,Standard,Roku,2023-11-03,true
+2241,Philadelphia PA,Basic,Android phone,2023-05-10,true
+2242,Detroit MI,Basic,Samsung TV,2024-12-06,true
+2243,Seattle WA,Premium,Apple TV,2023-11-16,true
+2244,New York NY,Standard,Apple TV,2026-08-18,true
+2245,Minneapolis MN,Basic,iPhone,2025-05-25,true
+2246,Nashville TN,Standard,Android phone,2022-07-11,true
+2247,Phoenix AZ,Basic,Fire TV Stick,2024-03-01,true
+2248,Hartford CT,Premium,iPhone,2022-11-25,true
+2249,Hartford CT,Basic,Web browser,2025-09-19,true
+2250,Dallas-Ft Worth TX,Basic,Roku,2025-05-26,true
+2251,Denver CO,Basic,Web browser,2022-06-10,true
+2252,Phoenix AZ,Standard,iPhone,2022-05-05,true
+2253,Philadelphia PA,Standard,Apple TV,2022-11-12,true
+2254,Denver CO,Premium,Android phone,2025-04-14,false
+2255,Chicago IL,Standard,iPhone,2023-03-11,true
+2256,Detroit MI,Standard,iPad,2024-09-03,true
+2257,Portland OR,Basic,Roku,2023-01-03,true
+2258,Detroit MI,Basic,Roku,2022-12-23,true
+2259,Providence RI,Premium,Android phone,2024-10-10,true
+2260,Columbus OH,Basic,Apple TV,2025-05-04,true
+2261,Providence RI,Premium Ad-Free,Fire TV Stick,2022-06-10,true
+2262,Columbus OH,Basic,Samsung TV,2024-09-16,false
+2263,Providence RI,Basic,Android phone,2024-10-15,true
+2264,Denver CO,Basic,Fire TV Stick,2023-10-12,true
+2265,New York NY,Basic,Web browser,2022-08-10,true
+2266,Boston MA,Premium,Samsung TV,2026-02-03,true
+2267,Detroit MI,Standard,Fire TV Stick,2022-05-26,true
+2268,Minneapolis MN,Basic,Roku,2024-10-30,true
+2269,New York NY,Standard,iPad,2026-07-19,true
+2270,Columbus OH,Standard,Roku,2025-04-27,true
+2271,Los Angeles CA,Premium Ad-Free,Samsung TV,2024-08-28,true
+2272,Los Angeles CA,Premium Ad-Free,Android phone,2023-09-24,true
+2273,Chicago IL,Standard,iPhone,2024-03-17,true
+2274,Seattle WA,Premium,Apple TV,2026-01-26,true
+2275,Hartford CT,Premium,Roku,2024-07-18,true
+2276,Dallas-Ft Worth TX,Standard,Android phone,2025-08-26,true
+2277,Philadelphia PA,Standard,Samsung TV,2025-06-29,true
+2278,Boston MA,Basic,Roku,2023-08-01,true
+2279,Atlanta GA,Premium,Fire TV Stick,2023-03-08,true
+2280,Detroit MI,Premium Ad-Free,iPhone,2025-12-25,true
+2281,Portland OR,Basic,Fire TV Stick,2024-01-20,true
+2282,Atlanta GA,Premium,Samsung TV,2024-10-31,true
+2283,Los Angeles CA,Premium Ad-Free,Roku,2025-03-15,true
+2284,Portland OR,Basic,iPad,2023-07-29,true
+2285,Detroit MI,Standard,Android phone,2025-07-31,true
+2286,Nashville TN,Premium,iPad,2023-05-07,true
+2287,St Louis MO,Premium Ad-Free,Roku,2024-12-03,true
+2288,Nashville TN,Basic,Samsung TV,2026-04-01,true
+2289,St Louis MO,Standard,Apple TV,2023-03-26,true
+2290,Dallas-Ft Worth TX,Standard,iPhone,2022-12-21,true
+2291,Atlanta GA,Basic,iPad,2024-03-22,true
+2292,Los Angeles CA,Basic,Fire TV Stick,2023-07-12,true
+2293,Philadelphia PA,Basic,iPad,2026-01-07,false
+2294,Minneapolis MN,Basic,iPhone,2025-03-10,false
+2295,Minneapolis MN,Standard,iPad,2025-02-22,true
+2296,Nashville TN,Standard,Roku,2023-05-10,true
+2297,Hartford CT,Standard,Web browser,2025-02-18,false
+2298,Seattle WA,Premium,Samsung TV,2023-07-05,true
+2299,Philadelphia PA,Standard,Apple TV,2025-05-01,false
+2300,Baltimore MD,Basic,Fire TV Stick,2024-01-22,true
+2301,Chicago IL,Basic,Web browser,2025-10-01,false
+2302,New York NY,Basic,Web browser,2024-03-29,true
+2303,Phoenix AZ,Basic,Fire TV Stick,2026-04-23,true
+2304,Baltimore MD,Basic,Samsung TV,2023-06-25,true
+2305,St Louis MO,Basic,Android phone,2026-07-14,true
+2306,Boston MA,Basic,iPhone,2022-05-03,true
+2307,Los Angeles CA,Standard,Fire TV Stick,2023-01-11,true
+2308,Hartford CT,Standard,Apple TV,2024-02-26,false
+2309,Los Angeles CA,Premium Ad-Free,Apple TV,2022-09-21,true
+2310,Denver CO,Premium,Apple TV,2023-02-28,true
+2311,Chicago IL,Standard,Web browser,2026-01-15,true
+2312,Boston MA,Basic,Fire TV Stick,2023-06-10,true
+2313,Denver CO,Standard,Android phone,2025-01-09,true
+2314,Boston MA,Basic,Web browser,2022-12-15,false
+2315,Philadelphia PA,Standard,iPad,2022-12-03,true
+2316,Providence RI,Standard,iPad,2022-07-12,true
+2317,Boston MA,Standard,Fire TV Stick,2024-09-15,false
+2318,Dallas-Ft Worth TX,Basic,Fire TV Stick,2025-10-27,false
+2319,Baltimore MD,Standard,iPad,2026-02-12,true
+2320,Portland OR,Premium,Android phone,2025-12-10,true
+2321,Boston MA,Premium,Android phone,2022-05-14,true
+2322,Providence RI,Standard,Samsung TV,2024-02-14,true
+2323,Los Angeles CA,Standard,iPhone,2025-02-19,true
+2324,Detroit MI,Basic,Roku,2024-09-18,true
+2325,Minneapolis MN,Premium,Apple TV,2025-11-28,true
+2326,Nashville TN,Standard,iPhone,2024-03-10,false
+2327,Los Angeles CA,Basic,Fire TV Stick,2024-10-25,true
+2328,Hartford CT,Basic,Fire TV Stick,2023-03-17,true
+2329,Providence RI,Premium Ad-Free,Roku,2026-07-26,true
+2330,New York NY,Standard,Fire TV Stick,2022-08-17,true
+2331,Boston MA,Standard,Web browser,2026-05-25,true
+2332,Baltimore MD,Standard,Android phone,2024-11-07,true
+2333,Chicago IL,Standard,Web browser,2025-03-08,true
+2334,Nashville TN,Standard,Apple TV,2023-07-21,true
+2335,Phoenix AZ,Basic,iPhone,2023-10-24,true
+2336,Denver CO,Standard,Web browser,2025-10-22,false
+2337,Seattle WA,Standard,Apple TV,2024-07-14,true
+2338,Nashville TN,Basic,Android phone,2024-05-06,true
+2339,Providence RI,Premium,Android phone,2024-08-26,true
+2340,Boston MA,Basic,iPad,2026-07-25,true
+2341,Dallas-Ft Worth TX,Standard,Web browser,2025-11-20,true
+2342,Atlanta GA,Standard,iPhone,2024-06-24,true
+2343,Denver CO,Standard,iPhone,2025-07-13,true
+2344,Minneapolis MN,Standard,iPad,2024-04-19,true
+2345,Phoenix AZ,Premium Ad-Free,Android phone,2025-12-13,true
+2346,Chicago IL,Standard,Apple TV,2023-06-23,true
+2347,Los Angeles CA,Premium,Android phone,2025-11-04,true
+2348,Portland OR,Standard,iPhone,2023-11-06,true
+2349,Philadelphia PA,Basic,Fire TV Stick,2023-01-15,true
+2350,Denver CO,Basic,iPhone,2025-02-08,false
+2351,Denver CO,Standard,iPhone,2026-01-20,true
+2352,Portland OR,Basic,Web browser,2026-08-19,true
+2353,Minneapolis MN,Standard,iPhone,2025-02-05,true
+2354,Seattle WA,Standard,Fire TV Stick,2026-02-27,true
+2355,Los Angeles CA,Standard,Web browser,2022-11-04,true
+2356,Atlanta GA,Basic,iPhone,2022-06-13,true
+2357,Dallas-Ft Worth TX,Premium,Apple TV,2022-06-01,true
+2358,Philadelphia PA,Standard,iPad,2022-09-01,true
+2359,Miami FL,Standard,Samsung TV,2024-02-13,true
+2360,Philadelphia PA,Basic,Apple TV,2025-04-02,true
+2361,Miami FL,Standard,iPad,2024-09-22,true
+2362,Portland OR,Basic,iPad,2025-07-16,true
+2363,Columbus OH,Standard,iPhone,2023-01-09,false
+2364,New York NY,Standard,Apple TV,2024-10-08,true
+2365,Portland OR,Premium Ad-Free,iPad,2024-12-28,false
+2366,Boston MA,Basic,Fire TV Stick,2023-09-03,true
+2367,Los Angeles CA,Standard,Android phone,2025-01-15,false
+2368,Hartford CT,Basic,iPhone,2025-02-11,true
+2369,Hartford CT,Standard,iPad,2025-09-03,true
+2370,Hartford CT,Standard,Samsung TV,2026-05-14,true
+2371,Providence RI,Standard,iPad,2026-06-29,false
+2372,Nashville TN,Basic,Roku,2024-11-30,true
+2373,Boston MA,Basic,iPad,2022-05-09,true
+2374,Atlanta GA,Basic,Roku,2025-07-13,true
+2375,Detroit MI,Premium Ad-Free,Android phone,2023-11-20,true
+2376,Columbus OH,Standard,Fire TV Stick,2025-04-02,true
+2377,Baltimore MD,Basic,Web browser,2025-05-07,true
+2378,New York NY,Premium Ad-Free,iPad,2025-12-14,true
+2379,Columbus OH,Basic,Roku,2024-03-21,true
+2380,Detroit MI,Standard,Web browser,2023-10-23,true
+2381,Hartford CT,Standard,Apple TV,2025-02-21,true
+2382,Dallas-Ft Worth TX,Premium,iPhone,2024-05-18,true
+2383,St Louis MO,Standard,Roku,2024-08-06,true
+2384,Atlanta GA,Standard,Roku,2025-06-27,true
+2385,Hartford CT,Premium Ad-Free,Fire TV Stick,2023-09-01,true
+2386,Baltimore MD,Basic,iPhone,2024-04-05,true
+2387,Columbus OH,Premium Ad-Free,iPhone,2026-05-16,true
+2388,Columbus OH,Premium,iPad,2024-07-11,true
+2389,Columbus OH,Premium,Fire TV Stick,2024-12-21,false
+2390,Baltimore MD,Basic,Android phone,2023-03-20,true
+2391,Seattle WA,Basic,Roku,2025-05-01,true
+2392,Hartford CT,Standard,Apple TV,2022-07-10,true
+2393,Miami FL,Standard,Fire TV Stick,2023-12-31,false
+2394,Philadelphia PA,Standard,Roku,2026-02-03,true
+2395,Seattle WA,Premium,iPhone,2024-11-29,true
+2396,Detroit MI,Standard,Web browser,2022-11-01,true
+2397,St Louis MO,Basic,Android phone,2025-07-22,true
+2398,Chicago IL,Standard,iPad,2023-08-11,true
+2399,Chicago IL,Basic,iPhone,2023-04-09,true
+2400,Minneapolis MN,Basic,Roku,2023-08-30,true
+2401,Providence RI,Basic,Apple TV,2026-04-08,true
+2402,Phoenix AZ,Premium,iPad,2025-01-14,true
+2403,Minneapolis MN,Standard,Roku,2025-02-24,true
+2404,Phoenix AZ,Standard,Roku,2025-03-03,true
+2405,Atlanta GA,Standard,iPad,2022-11-09,true
+2406,Nashville TN,Standard,Roku,2026-08-20,true
+2407,Atlanta GA,Premium,Web browser,2024-04-29,true
+2408,Minneapolis MN,Premium,iPad,2022-05-30,true
+2409,Seattle WA,Standard,Android phone,2022-11-14,true
+2410,Providence RI,Premium,iPhone,2024-01-13,true
+2411,Denver CO,Standard,Roku,2022-05-05,true
+2412,Providence RI,Standard,Samsung TV,2024-12-01,true
+2413,St Louis MO,Premium,iPad,2024-01-06,true
+2414,Miami FL,Standard,Web browser,2024-04-21,true
+2415,Atlanta GA,Standard,Samsung TV,2026-06-15,true
+2416,Seattle WA,Basic,iPad,2026-06-25,true
+2417,Miami FL,Standard,iPad,2022-10-11,true
+2418,Chicago IL,Standard,Roku,2025-11-27,true
+2419,Chicago IL,Standard,iPhone,2025-02-14,true
+2420,Dallas-Ft Worth TX,Standard,iPhone,2023-12-18,true
+2421,Chicago IL,Basic,iPhone,2024-03-02,true
+2422,Portland OR,Premium,iPad,2024-06-07,true
+2423,New York NY,Standard,Web browser,2022-06-03,true
+2424,Nashville TN,Premium,iPhone,2023-04-03,false
+2425,Los Angeles CA,Basic,Apple TV,2022-08-01,true
+2426,Phoenix AZ,Standard,Web browser,2023-10-23,true
+2427,Hartford CT,Standard,Web browser,2022-06-03,true
+2428,Atlanta GA,Premium,Android phone,2024-01-21,false
+2429,Portland OR,Basic,Android phone,2024-04-25,true
+2430,Chicago IL,Premium,Roku,2023-02-17,true
+2431,New York NY,Standard,Samsung TV,2022-11-25,true
+2432,Denver CO,Standard,Fire TV Stick,2026-05-13,true
+2433,Hartford CT,Standard,iPhone,2022-09-20,true
+2434,Los Angeles CA,Basic,iPad,2023-09-02,true
+2435,Seattle WA,Standard,Fire TV Stick,2022-10-10,true
+2436,Phoenix AZ,Basic,Web browser,2023-07-25,true
+2437,Miami FL,Standard,Fire TV Stick,2022-08-25,true
+2438,Detroit MI,Standard,Roku,2025-06-20,true
+2439,Nashville TN,Standard,Web browser,2025-11-05,true
+2440,Boston MA,Basic,Roku,2025-10-23,true
+2441,Atlanta GA,Basic,Android phone,2025-07-26,true
+2442,Providence RI,Basic,iPad,2025-09-25,true
+2443,Providence RI,Basic,Apple TV,2024-09-30,true
+2444,Philadelphia PA,Standard,Roku,2025-10-19,true
+2445,Phoenix AZ,Basic,Apple TV,2025-12-22,true
+2446,Baltimore MD,Premium,Roku,2024-05-23,false
+2447,Portland OR,Basic,Android phone,2023-03-24,true
+2448,Miami FL,Basic,Web browser,2026-01-26,true
+2449,Portland OR,Premium,Web browser,2024-06-12,true
+2450,Hartford CT,Basic,iPad,2023-10-22,true
+2451,Nashville TN,Standard,iPad,2023-08-10,false
+2452,Baltimore MD,Premium Ad-Free,Web browser,2026-03-15,true
+2453,Boston MA,Premium Ad-Free,iPad,2023-06-26,true
+2454,Seattle WA,Standard,Android phone,2026-07-17,true
+2455,Nashville TN,Basic,Web browser,2025-08-19,true
+2456,Seattle WA,Standard,Apple TV,2025-04-11,true
+2457,Nashville TN,Premium Ad-Free,Samsung TV,2022-12-20,true
+2458,St Louis MO,Premium Ad-Free,Web browser,2025-10-29,true
+2459,Seattle WA,Basic,Apple TV,2023-04-10,true
+2460,Boston MA,Standard,Apple TV,2022-05-19,true
+2461,Los Angeles CA,Basic,Fire TV Stick,2022-07-04,true
+2462,Philadelphia PA,Basic,Apple TV,2025-05-07,true
+2463,Seattle WA,Standard,iPhone,2026-03-30,true
+2464,Phoenix AZ,Basic,Web browser,2025-09-12,true
+2465,Seattle WA,Standard,Fire TV Stick,2023-05-02,false
+2466,Hartford CT,Basic,Android phone,2025-10-22,false
+2467,Los Angeles CA,Standard,iPad,2023-11-12,true
+2468,Detroit MI,Basic,Web browser,2025-01-15,true
+2469,Providence RI,Standard,iPad,2023-05-05,true
+2470,Philadelphia PA,Basic,Fire TV Stick,2024-01-14,true
+2471,Baltimore MD,Premium Ad-Free,Samsung TV,2024-02-15,true
+2472,Boston MA,Basic,Web browser,2023-04-11,true
+2473,Dallas-Ft Worth TX,Standard,Web browser,2022-07-12,true
+2474,Philadelphia PA,Basic,iPhone,2025-01-29,true
+2475,New York NY,Basic,Web browser,2024-05-15,true
+2476,Dallas-Ft Worth TX,Basic,Android phone,2023-12-13,true
+2477,Denver CO,Basic,Roku,2023-02-05,true
+2478,Hartford CT,Basic,Web browser,2024-07-28,true
+2479,Boston MA,Standard,Fire TV Stick,2025-01-14,true
+2480,New York NY,Standard,Samsung TV,2022-12-30,true
+2481,Detroit MI,Basic,Fire TV Stick,2022-07-14,true
+2482,Baltimore MD,Standard,Android phone,2024-03-12,false
+2483,Hartford CT,Standard,Roku,2026-03-18,true
+2484,Los Angeles CA,Basic,Android phone,2025-05-27,true
+2485,Los Angeles CA,Standard,iPad,2024-08-27,true
+2486,Atlanta GA,Basic,iPad,2023-08-13,true
+2487,Philadelphia PA,Basic,Apple TV,2023-10-05,true
+2488,Boston MA,Standard,Web browser,2023-02-10,true
+2489,Denver CO,Premium Ad-Free,Apple TV,2026-07-12,true
+2490,Atlanta GA,Premium Ad-Free,Android phone,2024-08-23,true
+2491,Los Angeles CA,Premium Ad-Free,iPhone,2023-08-17,true
+2492,Chicago IL,Standard,Roku,2022-05-22,true
+2493,St Louis MO,Basic,Roku,2026-01-16,true
+2494,Miami FL,Basic,Fire TV Stick,2022-11-09,true
+2495,Dallas-Ft Worth TX,Basic,Web browser,2026-08-16,true
+2496,Philadelphia PA,Basic,Web browser,2025-10-21,true
+2497,Nashville TN,Basic,Samsung TV,2022-12-29,true
+2498,Baltimore MD,Standard,Web browser,2023-04-03,true
+2499,Providence RI,Basic,Roku,2022-06-14,true
+2500,St Louis MO,Basic,Web browser,2024-01-22,true
+2501,Detroit MI,Standard,Fire TV Stick,2023-12-29,true
+2502,Boston MA,Standard,Roku,2024-05-05,true
+2503,Portland OR,Premium,iPad,2024-06-11,true
+2504,New York NY,Basic,Samsung TV,2024-06-07,false
+2505,Boston MA,Standard,Apple TV,2025-05-23,true
+2506,New York NY,Basic,iPad,2022-12-19,true
+2507,Seattle WA,Standard,Apple TV,2025-02-11,true
+2508,Miami FL,Basic,iPad,2024-01-06,true
+2509,Dallas-Ft Worth TX,Basic,Fire TV Stick,2023-10-06,true
+2510,New York NY,Standard,Roku,2024-05-01,true
+2511,Hartford CT,Basic,Apple TV,2024-01-05,true
+2512,Baltimore MD,Basic,iPhone,2026-06-12,true
+2513,Columbus OH,Premium,Fire TV Stick,2025-04-16,false
+2514,Portland OR,Basic,Fire TV Stick,2024-09-19,true
+2515,New York NY,Standard,Android phone,2024-12-14,true
+2516,Nashville TN,Standard,Samsung TV,2022-09-24,true
+2517,Detroit MI,Basic,Samsung TV,2022-10-11,true
+2518,Denver CO,Standard,Fire TV Stick,2023-07-31,true
+2519,New York NY,Basic,Roku,2025-02-18,true
+2520,Columbus OH,Premium,Roku,2026-06-09,true
+2521,Dallas-Ft Worth TX,Basic,Android phone,2023-05-23,true
+2522,Providence RI,Basic,Roku,2022-11-01,true
+2523,Philadelphia PA,Basic,Fire TV Stick,2024-07-16,true
+2524,Dallas-Ft Worth TX,Premium,Web browser,2023-01-30,true
+2525,Boston MA,Premium,Apple TV,2022-08-19,true
+2526,Los Angeles CA,Premium Ad-Free,Android phone,2024-04-17,true
+2527,Seattle WA,Standard,Apple TV,2025-10-01,true
+2528,St Louis MO,Standard,Web browser,2026-07-24,true
+2529,Boston MA,Standard,iPad,2023-05-21,true
+2530,Phoenix AZ,Premium,Samsung TV,2024-03-23,true
+2531,St Louis MO,Standard,Android phone,2025-12-29,true
+2532,Nashville TN,Standard,Samsung TV,2026-06-03,true
+2533,St Louis MO,Standard,Web browser,2022-06-19,true
+2534,Hartford CT,Standard,Apple TV,2025-04-09,true
+2535,Nashville TN,Basic,iPad,2025-03-30,true
+2536,Columbus OH,Standard,iPhone,2023-12-09,true
+2537,Los Angeles CA,Basic,Android phone,2025-01-30,true
+2538,Seattle WA,Premium,Apple TV,2022-09-16,true
+2539,Denver CO,Standard,iPad,2023-09-18,true
+2540,Seattle WA,Premium,Android phone,2025-02-09,true
+2541,Chicago IL,Standard,iPad,2025-07-03,false
+2542,Columbus OH,Premium,iPad,2022-12-09,true
+2543,Columbus OH,Basic,Fire TV Stick,2024-02-06,true
+2544,Atlanta GA,Premium,Web browser,2022-09-07,true
+2545,Nashville TN,Standard,iPad,2025-03-01,true
+2546,Atlanta GA,Basic,Fire TV Stick,2026-07-26,true
+2547,Portland OR,Basic,Web browser,2022-10-08,true
+2548,Phoenix AZ,Basic,iPhone,2025-08-15,true
+2549,Seattle WA,Standard,Apple TV,2023-01-01,true
+2550,New York NY,Standard,Fire TV Stick,2023-08-03,true
+2551,Detroit MI,Premium Ad-Free,Apple TV,2025-08-27,false
+2552,Los Angeles CA,Standard,Roku,2023-05-21,false
+2553,Philadelphia PA,Standard,Android phone,2026-04-22,true
+2554,Hartford CT,Standard,Android phone,2024-12-16,true
+2555,Columbus OH,Premium,Android phone,2025-02-11,true
+2556,New York NY,Premium,iPhone,2023-10-26,true
+2557,Portland OR,Basic,Apple TV,2024-05-06,false
+2558,Baltimore MD,Premium Ad-Free,Android phone,2024-01-04,true
+2559,Providence RI,Standard,iPad,2024-08-06,true
+2560,Phoenix AZ,Premium,Roku,2023-06-17,true
+2561,Phoenix AZ,Premium Ad-Free,Samsung TV,2025-12-19,true
+2562,Atlanta GA,Standard,Web browser,2023-07-20,true
+2563,Detroit MI,Basic,iPad,2026-06-10,true
+2564,Dallas-Ft Worth TX,Standard,Web browser,2026-04-15,true
+2565,Dallas-Ft Worth TX,Basic,Fire TV Stick,2023-07-12,true
+2566,Dallas-Ft Worth TX,Premium,Samsung TV,2025-12-21,true
+2567,Nashville TN,Basic,Fire TV Stick,2023-04-30,true
+2568,Miami FL,Standard,iPad,2026-01-31,true
+2569,Atlanta GA,Premium,iPhone,2026-01-09,true
+2570,St Louis MO,Basic,Fire TV Stick,2022-08-16,true
+2571,Nashville TN,Standard,Roku,2025-11-21,true
+2572,St Louis MO,Standard,Android phone,2022-09-15,true
+2573,Minneapolis MN,Standard,iPad,2025-02-24,true
+2574,Atlanta GA,Basic,Web browser,2023-03-18,true
+2575,Portland OR,Basic,Web browser,2022-08-05,true
+2576,Los Angeles CA,Standard,iPad,2026-02-25,true
+2577,Chicago IL,Standard,iPad,2025-03-24,true
+2578,Seattle WA,Standard,iPad,2024-03-04,true
+2579,Columbus OH,Basic,Web browser,2022-11-30,true
+2580,Phoenix AZ,Standard,Samsung TV,2025-11-06,true
+2581,Atlanta GA,Standard,iPad,2025-11-06,true
+2582,Seattle WA,Basic,iPad,2025-01-23,true
+2583,Chicago IL,Premium,Roku,2025-10-09,true
+2584,Detroit MI,Basic,Android phone,2025-07-02,true
+2585,Atlanta GA,Standard,Apple TV,2026-02-04,true
+2586,Phoenix AZ,Premium,Fire TV Stick,2023-01-27,true
+2587,Atlanta GA,Standard,Fire TV Stick,2023-03-19,true
+2588,Los Angeles CA,Standard,Roku,2026-01-12,true
+2589,Columbus OH,Basic,Web browser,2024-05-02,true
+2590,Los Angeles CA,Basic,iPad,2023-11-12,true
+2591,Boston MA,Basic,Roku,2023-12-11,true
+2592,Atlanta GA,Premium,Android phone,2022-05-27,true
+2593,Denver CO,Premium,Android phone,2023-11-19,true
+2594,Boston MA,Basic,iPhone,2023-09-08,true
+2595,Los Angeles CA,Basic,iPhone,2026-07-08,true
+2596,Hartford CT,Basic,Web browser,2026-04-25,true
+2597,Denver CO,Standard,iPhone,2023-12-25,false
+2598,Minneapolis MN,Standard,Android phone,2022-09-24,true
+2599,Columbus OH,Standard,iPhone,2024-12-06,true
+2600,Atlanta GA,Premium,Samsung TV,2023-11-16,true
+2601,Baltimore MD,Basic,Web browser,2025-10-01,true
+2602,Philadelphia PA,Standard,Samsung TV,2024-09-07,true
+2603,Portland OR,Standard,iPad,2023-05-29,true
+2604,Phoenix AZ,Basic,iPhone,2023-10-21,true
+2605,Portland OR,Premium,Android phone,2026-03-01,true
+2606,Portland OR,Basic,iPad,2022-11-09,true
+2607,Denver CO,Standard,Android phone,2022-08-25,true
+2608,Chicago IL,Premium,iPhone,2024-08-05,true
+2609,Denver CO,Premium,iPhone,2025-03-08,true
+2610,Nashville TN,Standard,iPhone,2024-05-11,true
+2611,Columbus OH,Basic,Apple TV,2023-03-11,true
+2612,St Louis MO,Premium,Android phone,2024-09-13,true
+2613,Hartford CT,Premium,Web browser,2026-07-12,true
+2614,Phoenix AZ,Standard,Android phone,2026-05-06,true
+2615,New York NY,Premium,iPad,2023-02-23,false
+2616,Detroit MI,Basic,iPad,2023-04-03,true
+2617,Columbus OH,Standard,Apple TV,2023-04-27,true
+2618,Boston MA,Premium,Roku,2026-02-10,true
+2619,Detroit MI,Basic,Apple TV,2025-12-02,true
+2620,St Louis MO,Standard,iPad,2024-12-13,true
+2621,Nashville TN,Premium Ad-Free,iPad,2025-08-29,true
+2622,Atlanta GA,Premium,iPhone,2024-12-25,true
+2623,New York NY,Premium,iPad,2024-03-29,true
+2624,St Louis MO,Standard,Roku,2025-06-12,true
+2625,St Louis MO,Premium Ad-Free,Android phone,2026-02-14,true
+2626,Phoenix AZ,Basic,Android phone,2024-12-01,true
+2627,Columbus OH,Standard,iPhone,2023-07-14,false
+2628,Providence RI,Standard,Android phone,2023-12-26,true
+2629,Miami FL,Premium,Samsung TV,2025-04-08,true
+2630,Providence RI,Premium,iPhone,2025-04-24,true
+2631,St Louis MO,Premium,iPhone,2024-02-18,true
+2632,Detroit MI,Standard,iPad,2025-11-29,true
+2633,St Louis MO,Standard,Fire TV Stick,2023-01-19,true
+2634,Phoenix AZ,Standard,Apple TV,2022-11-24,true
+2635,Boston MA,Standard,Samsung TV,2026-07-19,true
+2636,Providence RI,Basic,Fire TV Stick,2022-06-17,true
+2637,Los Angeles CA,Standard,Apple TV,2026-07-22,true
+2638,Minneapolis MN,Premium,Apple TV,2024-09-03,true
+2639,Hartford CT,Standard,Apple TV,2023-10-09,true
+2640,Baltimore MD,Premium,Samsung TV,2025-03-30,false
+2641,Philadelphia PA,Standard,iPhone,2025-10-11,false
+2642,Seattle WA,Standard,Android phone,2026-06-14,true
+2643,Philadelphia PA,Basic,Apple TV,2023-07-06,true
+2644,Seattle WA,Standard,iPad,2026-07-01,true
+2645,Seattle WA,Standard,Samsung TV,2024-07-24,true
+2646,Providence RI,Basic,Android phone,2024-12-16,true
+2647,Phoenix AZ,Basic,Roku,2022-06-22,false
+2648,Portland OR,Standard,Fire TV Stick,2022-08-20,false
+2649,St Louis MO,Standard,Samsung TV,2023-02-14,true
+2650,Los Angeles CA,Standard,Apple TV,2023-07-01,true
+2651,Baltimore MD,Basic,Samsung TV,2024-04-23,true
+2652,Baltimore MD,Standard,Fire TV Stick,2025-02-23,true
+2653,Columbus OH,Standard,Samsung TV,2025-12-08,false
+2654,Atlanta GA,Standard,Android phone,2022-06-21,true
+2655,Baltimore MD,Standard,Android phone,2024-12-28,true
+2656,Phoenix AZ,Basic,Fire TV Stick,2024-10-20,true
+2657,Boston MA,Premium,Apple TV,2026-01-17,true
+2658,Chicago IL,Basic,iPhone,2025-06-17,true
+2659,Detroit MI,Standard,iPhone,2023-11-30,true
+2660,Hartford CT,Basic,iPad,2024-10-24,true
+2661,Dallas-Ft Worth TX,Standard,Samsung TV,2024-02-15,true
+2662,Portland OR,Basic,Android phone,2025-09-28,true
+2663,New York NY,Premium,Web browser,2026-04-21,true
+2664,Seattle WA,Standard,Apple TV,2022-10-29,true
+2665,Philadelphia PA,Standard,iPad,2024-10-15,true
+2666,Denver CO,Basic,Apple TV,2025-02-04,true
+2667,Philadelphia PA,Basic,Apple TV,2025-06-02,true
+2668,Columbus OH,Standard,Android phone,2023-10-24,true
+2669,Boston MA,Standard,iPhone,2024-03-22,true
+2670,Columbus OH,Standard,iPhone,2024-12-22,true
+2671,Portland OR,Premium Ad-Free,Fire TV Stick,2022-08-19,true
+2672,Baltimore MD,Standard,Roku,2022-10-04,true
+2673,Baltimore MD,Premium Ad-Free,Web browser,2025-10-19,true
+2674,Hartford CT,Basic,iPad,2023-11-18,true
+2675,St Louis MO,Premium,Web browser,2022-06-20,true
+2676,Phoenix AZ,Standard,iPhone,2024-07-18,true
+2677,Columbus OH,Standard,Web browser,2026-07-12,true
+2678,Baltimore MD,Premium Ad-Free,Samsung TV,2026-02-01,true
+2679,Phoenix AZ,Standard,Roku,2023-10-09,true
+2680,Atlanta GA,Premium,Fire TV Stick,2022-10-03,true
+2681,New York NY,Premium,Apple TV,2026-02-07,true
+2682,New York NY,Basic,Samsung TV,2024-04-17,true
+2683,Atlanta GA,Standard,Web browser,2024-07-04,true
+2684,Nashville TN,Standard,Apple TV,2025-06-04,false
+2685,Denver CO,Premium,iPhone,2023-12-04,false
+2686,Seattle WA,Premium,Apple TV,2022-11-10,true
+2687,Philadelphia PA,Basic,Android phone,2025-08-15,true
+2688,Phoenix AZ,Basic,iPhone,2026-06-03,true
+2689,Miami FL,Basic,Fire TV Stick,2025-02-07,true
+2690,Columbus OH,Standard,Samsung TV,2025-04-19,true
+2691,Minneapolis MN,Basic,Roku,2023-07-07,true
+2692,Miami FL,Premium,Web browser,2024-05-02,true
+2693,St Louis MO,Standard,Android phone,2026-07-31,true
+2694,Dallas-Ft Worth TX,Premium,Web browser,2025-03-10,true
+2695,St Louis MO,Basic,Web browser,2023-06-24,false
+2696,Atlanta GA,Standard,Fire TV Stick,2024-08-05,true
+2697,New York NY,Basic,Android phone,2024-03-22,true
+2698,Dallas-Ft Worth TX,Premium,Roku,2025-07-07,true
+2699,New York NY,Basic,Web browser,2025-04-11,true
+2700,New York NY,Basic,iPad,2026-02-04,true
+2701,Baltimore MD,Basic,Android phone,2026-04-22,true
+2702,Portland OR,Premium,Web browser,2026-07-01,true
+2703,Philadelphia PA,Basic,iPad,2023-12-16,true
+2704,Nashville TN,Standard,iPad,2025-12-22,true
+2705,Boston MA,Premium,Roku,2024-03-05,true
+2706,Chicago IL,Premium,Roku,2022-07-15,true
+2707,Minneapolis MN,Basic,Web browser,2023-08-23,true
+2708,Los Angeles CA,Basic,Apple TV,2024-03-02,true
+2709,Minneapolis MN,Standard,Samsung TV,2026-02-25,true
+2710,Baltimore MD,Basic,Roku,2024-07-17,true
+2711,Boston MA,Standard,iPhone,2022-10-20,false
+2712,Providence RI,Standard,iPad,2024-12-29,true
+2713,St Louis MO,Standard,iPad,2023-01-31,false
+2714,Denver CO,Basic,iPhone,2023-08-05,true
+2715,Denver CO,Standard,Android phone,2025-07-03,true
+2716,Seattle WA,Basic,iPhone,2026-01-17,true
+2717,Dallas-Ft Worth TX,Standard,Samsung TV,2026-08-02,true
+2718,Detroit MI,Basic,iPhone,2025-06-18,false
+2719,Phoenix AZ,Premium Ad-Free,Web browser,2025-03-21,false
+2720,Hartford CT,Standard,Apple TV,2023-10-27,true
+2721,Miami FL,Basic,Samsung TV,2024-03-07,true
+2722,Detroit MI,Basic,iPhone,2024-08-02,true
+2723,New York NY,Basic,iPhone,2023-07-13,true
+2724,Atlanta GA,Basic,Roku,2023-04-30,true
+2725,Portland OR,Basic,Apple TV,2023-07-28,true
+2726,Miami FL,Premium,Android phone,2022-10-11,true
+2727,New York NY,Standard,Android phone,2025-02-06,true
+2728,Providence RI,Basic,Android phone,2023-02-05,true
+2729,Phoenix AZ,Standard,Web browser,2024-11-02,true
+2730,Seattle WA,Basic,Android phone,2025-11-10,true
+2731,Columbus OH,Premium Ad-Free,iPhone,2026-01-10,true
+2732,Denver CO,Basic,Apple TV,2026-04-06,true
+2733,St Louis MO,Premium,Apple TV,2022-07-11,true
+2734,Philadelphia PA,Premium,iPad,2025-12-04,true
+2735,Dallas-Ft Worth TX,Basic,Samsung TV,2023-01-17,true
+2736,New York NY,Basic,Android phone,2023-04-09,true
+2737,Phoenix AZ,Standard,Roku,2024-10-03,true
+2738,Hartford CT,Premium,Fire TV Stick,2022-09-15,true
+2739,Seattle WA,Standard,Fire TV Stick,2022-09-23,true
+2740,Los Angeles CA,Standard,Fire TV Stick,2022-08-27,true
+2741,Hartford CT,Premium,iPhone,2024-07-04,true
+2742,Boston MA,Premium,Android phone,2025-05-14,false
+2743,Denver CO,Standard,iPhone,2026-06-20,true
+2744,St Louis MO,Standard,Apple TV,2023-01-09,true
+2745,Hartford CT,Standard,iPhone,2022-11-18,true
+2746,Dallas-Ft Worth TX,Basic,Roku,2024-05-03,true
+2747,Philadelphia PA,Premium,Samsung TV,2026-05-08,false
+2748,Nashville TN,Basic,Fire TV Stick,2023-02-05,true
+2749,Dallas-Ft Worth TX,Basic,Roku,2025-05-14,false
+2750,Columbus OH,Premium,Fire TV Stick,2024-04-14,true
+2751,Philadelphia PA,Standard,Roku,2023-10-22,true
+2752,Boston MA,Basic,Samsung TV,2026-01-10,true
+2753,Phoenix AZ,Basic,iPhone,2026-05-21,true
+2754,Detroit MI,Standard,iPhone,2026-04-25,true
+2755,Columbus OH,Premium,Samsung TV,2022-07-05,true
+2756,Baltimore MD,Basic,Fire TV Stick,2022-07-08,true
+2757,Baltimore MD,Basic,Roku,2024-10-23,true
+2758,Miami FL,Standard,Android phone,2024-10-25,true
+2759,Atlanta GA,Premium Ad-Free,Web browser,2024-11-24,true
+2760,Dallas-Ft Worth TX,Basic,Apple TV,2025-02-21,true
+2761,New York NY,Premium Ad-Free,Fire TV Stick,2024-04-21,true
+2762,Dallas-Ft Worth TX,Premium,Apple TV,2025-02-12,true
+2763,Atlanta GA,Basic,Fire TV Stick,2023-12-29,true
+2764,Providence RI,Premium,Fire TV Stick,2025-01-07,true
+2765,Philadelphia PA,Standard,Samsung TV,2023-12-07,true
+2766,Denver CO,Standard,iPad,2022-07-27,true
+2767,Atlanta GA,Standard,Android phone,2025-10-07,true
+2768,Columbus OH,Premium,Web browser,2026-05-21,true
+2769,Seattle WA,Premium,Apple TV,2024-05-18,true
+2770,Columbus OH,Premium,Samsung TV,2026-02-21,true
+2771,Detroit MI,Premium Ad-Free,Samsung TV,2025-08-28,true
+2772,Providence RI,Standard,Roku,2023-03-30,true
+2773,Philadelphia PA,Premium,Samsung TV,2024-11-06,true
+2774,Minneapolis MN,Premium,Apple TV,2024-04-12,true
+2775,Denver CO,Basic,Samsung TV,2023-04-20,true
+2776,Los Angeles CA,Basic,Fire TV Stick,2026-02-06,true
+2777,Denver CO,Standard,Android phone,2024-08-02,true
+2778,St Louis MO,Premium,iPad,2026-07-05,true
+2779,Atlanta GA,Basic,Web browser,2024-07-01,false
+2780,Providence RI,Standard,Roku,2025-09-08,true
+2781,Los Angeles CA,Basic,Roku,2022-09-19,true
+2782,St Louis MO,Standard,Web browser,2025-07-12,true
+2783,Portland OR,Standard,iPad,2025-10-16,true
+2784,Nashville TN,Basic,iPhone,2026-08-06,true
+2785,St Louis MO,Premium,Apple TV,2026-01-30,true
+2786,New York NY,Basic,iPhone,2025-09-21,true
+2787,Chicago IL,Premium,iPhone,2025-09-02,true
+2788,Boston MA,Basic,iPad,2023-06-19,true
+2789,Providence RI,Premium Ad-Free,iPhone,2022-10-26,true
+2790,Nashville TN,Standard,Roku,2022-12-16,true
+2791,St Louis MO,Basic,Android phone,2022-07-09,true
+2792,Hartford CT,Basic,iPad,2022-10-09,true
+2793,Minneapolis MN,Basic,Apple TV,2024-09-08,true
+2794,Denver CO,Standard,Roku,2024-12-20,true
+2795,Boston MA,Premium,Fire TV Stick,2023-11-07,true
+2796,St Louis MO,Standard,iPad,2025-04-11,true
+2797,Baltimore MD,Standard,Samsung TV,2024-01-18,true
+2798,Phoenix AZ,Standard,iPhone,2022-05-02,true
+2799,Minneapolis MN,Standard,Web browser,2025-10-19,true
+2800,Atlanta GA,Standard,Roku,2023-05-01,true
+2801,Portland OR,Standard,Fire TV Stick,2022-08-11,true
+2802,Dallas-Ft Worth TX,Standard,iPad,2024-05-01,true
+2803,Columbus OH,Premium Ad-Free,iPhone,2025-02-12,true
+2804,Boston MA,Standard,Roku,2025-07-22,true
+2805,Hartford CT,Basic,Android phone,2025-12-06,true
+2806,Columbus OH,Basic,Fire TV Stick,2025-04-08,true
+2807,Chicago IL,Standard,iPad,2023-06-06,true
+2808,Los Angeles CA,Standard,iPad,2024-06-05,true
+2809,Portland OR,Premium Ad-Free,iPad,2025-09-13,true
+2810,Hartford CT,Standard,Samsung TV,2024-04-24,true
+2811,Denver CO,Standard,Apple TV,2023-02-27,false
+2812,Chicago IL,Premium,Web browser,2026-08-07,true
+2813,Hartford CT,Basic,iPhone,2026-07-27,true
+2814,Columbus OH,Premium,Android phone,2022-07-05,true
+2815,Hartford CT,Basic,Fire TV Stick,2023-06-03,true
+2816,Boston MA,Standard,iPhone,2024-03-02,true
+2817,Detroit MI,Premium Ad-Free,iPhone,2022-09-27,true
+2818,Baltimore MD,Premium,Apple TV,2024-02-10,true
+2819,New York NY,Premium,iPad,2024-05-28,true
+2820,Minneapolis MN,Standard,Fire TV Stick,2025-09-28,true
+2821,Denver CO,Premium,Android phone,2023-02-25,true
+2822,Nashville TN,Standard,Web browser,2023-05-08,true
+2823,New York NY,Standard,iPhone,2025-05-18,true
+2824,Columbus OH,Basic,Roku,2023-06-21,true
+2825,Miami FL,Basic,iPhone,2023-07-07,true
+2826,Nashville TN,Standard,iPhone,2026-03-31,false
+2827,Atlanta GA,Basic,iPhone,2025-12-18,true
+2828,St Louis MO,Premium,Apple TV,2024-01-31,true
+2829,Miami FL,Premium,Android phone,2023-12-17,true
+2830,New York NY,Premium,Apple TV,2023-10-24,true
+2831,St Louis MO,Basic,iPhone,2025-01-16,true
+2832,Portland OR,Premium Ad-Free,iPhone,2023-01-16,true
+2833,Los Angeles CA,Basic,Android phone,2024-09-23,true
+2834,Denver CO,Standard,iPad,2025-10-07,false
+2835,Atlanta GA,Premium,Web browser,2026-02-28,true
+2836,Denver CO,Basic,iPad,2022-11-11,true
+2837,Columbus OH,Basic,iPad,2023-08-07,true
+2838,Baltimore MD,Basic,iPad,2024-08-29,true
+2839,Philadelphia PA,Standard,Fire TV Stick,2025-10-02,true
+2840,Columbus OH,Premium,Apple TV,2026-03-29,true
+2841,Dallas-Ft Worth TX,Basic,iPhone,2025-12-30,true
+2842,Minneapolis MN,Basic,Samsung TV,2026-03-15,true
+2843,Portland OR,Standard,Android phone,2024-05-14,false
+2844,Seattle WA,Basic,Roku,2025-10-20,true
+2845,Seattle WA,Premium,Fire TV Stick,2026-02-08,true
+2846,Seattle WA,Premium Ad-Free,Android phone,2025-06-08,true
+2847,Baltimore MD,Premium,iPad,2023-08-19,true
+2848,Atlanta GA,Premium,Apple TV,2024-07-05,true
+2849,Chicago IL,Standard,Apple TV,2025-12-29,true
+2850,Atlanta GA,Premium,iPhone,2023-06-02,true
+2851,Hartford CT,Basic,Samsung TV,2024-07-16,true
+2852,Atlanta GA,Basic,Fire TV Stick,2025-11-06,true
+2853,New York NY,Standard,iPhone,2023-09-01,true
+2854,Boston MA,Basic,iPad,2022-05-13,true
+2855,Minneapolis MN,Premium,Android phone,2024-04-27,true
+2856,Boston MA,Standard,iPad,2025-12-16,true
+2857,Phoenix AZ,Premium Ad-Free,Android phone,2025-04-26,true
+2858,Portland OR,Basic,Web browser,2024-01-24,true
+2859,Minneapolis MN,Standard,Fire TV Stick,2022-05-02,true
+2860,Dallas-Ft Worth TX,Premium,Roku,2022-08-22,true
+2861,Hartford CT,Basic,Roku,2022-08-15,true
+2862,St Louis MO,Standard,Web browser,2023-01-21,true
+2863,Nashville TN,Standard,Android phone,2024-03-03,true
+2864,Miami FL,Premium Ad-Free,Fire TV Stick,2023-11-09,true
+2865,Boston MA,Premium,iPad,2023-06-26,true
+2866,Providence RI,Basic,Apple TV,2023-07-25,true
+2867,Los Angeles CA,Standard,iPhone,2023-11-23,true
+2868,Hartford CT,Standard,Fire TV Stick,2026-01-28,true
+2869,Baltimore MD,Basic,Roku,2022-11-07,true
+2870,Philadelphia PA,Standard,Apple TV,2026-08-13,true
+2871,Chicago IL,Basic,Fire TV Stick,2024-10-24,true
+2872,Columbus OH,Basic,iPhone,2024-10-12,false
+2873,Nashville TN,Standard,Roku,2022-05-08,true
+2874,Philadelphia PA,Basic,Fire TV Stick,2026-04-09,true
+2875,Atlanta GA,Standard,iPhone,2024-08-07,true
+2876,Denver CO,Basic,Samsung TV,2025-02-09,true
+2877,Detroit MI,Premium,Android phone,2026-03-27,true
+2878,St Louis MO,Basic,Android phone,2025-09-09,true
+2879,Baltimore MD,Premium,Web browser,2024-10-31,true
+2880,Columbus OH,Basic,iPad,2022-09-11,false
+2881,Providence RI,Standard,Fire TV Stick,2024-12-23,true
+2882,Philadelphia PA,Basic,Android phone,2022-11-07,true
+2883,Phoenix AZ,Basic,Android phone,2023-06-26,false
+2884,Providence RI,Standard,iPhone,2023-02-12,true
+2885,Atlanta GA,Premium,iPad,2022-12-19,true
+2886,Hartford CT,Premium,Fire TV Stick,2023-07-27,true
+2887,St Louis MO,Basic,Samsung TV,2023-06-27,true
+2888,Boston MA,Basic,iPad,2025-12-28,true
+2889,New York NY,Premium,Web browser,2023-07-23,true
+2890,Hartford CT,Standard,Roku,2026-06-13,true
+2891,New York NY,Basic,Samsung TV,2023-06-20,true
+2892,Phoenix AZ,Premium,Apple TV,2023-10-30,true
+2893,Atlanta GA,Standard,Fire TV Stick,2023-05-21,true
+2894,St Louis MO,Standard,Roku,2023-11-18,true
+2895,Chicago IL,Standard,iPhone,2025-01-23,true
+2896,Denver CO,Standard,Android phone,2025-01-22,true
+2897,Detroit MI,Basic,iPhone,2024-01-30,false
+2898,Miami FL,Premium,Apple TV,2024-08-12,true
+2899,Portland OR,Basic,iPad,2025-03-08,true
+2900,Philadelphia PA,Premium,Android phone,2024-07-17,true
+2901,Denver CO,Premium,Web browser,2024-05-03,true
+2902,Nashville TN,Premium,Apple TV,2025-08-14,true
+2903,Baltimore MD,Basic,Fire TV Stick,2023-11-24,true
+2904,Miami FL,Basic,Samsung TV,2025-04-19,true
+2905,Detroit MI,Standard,iPhone,2025-07-01,true
+2906,Baltimore MD,Standard,Samsung TV,2024-11-05,true
+2907,Miami FL,Premium,iPad,2026-03-18,true
+2908,St Louis MO,Standard,Roku,2024-01-18,true
+2909,New York NY,Premium,iPhone,2023-06-27,true
+2910,Los Angeles CA,Basic,Samsung TV,2022-07-10,true
+2911,New York NY,Standard,Fire TV Stick,2025-06-06,true
+2912,Boston MA,Basic,Android phone,2024-04-30,false
+2913,Seattle WA,Premium,iPad,2024-06-24,true
+2914,Philadelphia PA,Basic,iPhone,2023-06-30,true
+2915,Dallas-Ft Worth TX,Basic,Roku,2023-12-15,true
+2916,Dallas-Ft Worth TX,Premium,Roku,2023-03-02,true
+2917,Miami FL,Standard,Samsung TV,2022-12-23,true
+2918,St Louis MO,Basic,Android phone,2026-03-02,true
+2919,Nashville TN,Basic,Apple TV,2025-02-14,false
+2920,Atlanta GA,Standard,Apple TV,2023-11-01,true
+2921,Los Angeles CA,Basic,iPad,2024-04-21,true
+2922,Portland OR,Basic,Roku,2024-07-28,true
+2923,New York NY,Standard,Roku,2025-11-28,true
+2924,Denver CO,Basic,Fire TV Stick,2024-03-07,true
+2925,Dallas-Ft Worth TX,Standard,Web browser,2023-06-15,true
+2926,Hartford CT,Standard,Samsung TV,2026-06-29,true
+2927,Miami FL,Basic,Fire TV Stick,2024-02-06,true
+2928,Los Angeles CA,Basic,Apple TV,2022-09-27,true
+2929,Hartford CT,Basic,Web browser,2024-03-05,true
+2930,Detroit MI,Basic,Android phone,2022-07-15,true
+2931,Hartford CT,Basic,Fire TV Stick,2025-02-17,false
+2932,Detroit MI,Premium,Fire TV Stick,2026-08-23,true
+2933,Hartford CT,Premium,Roku,2023-09-16,true
+2934,Dallas-Ft Worth TX,Standard,iPad,2025-09-26,true
+2935,Nashville TN,Standard,Fire TV Stick,2026-08-13,true
+2936,Philadelphia PA,Standard,Apple TV,2025-11-17,true
+2937,Portland OR,Premium,Apple TV,2022-08-14,true
+2938,Minneapolis MN,Basic,iPhone,2023-04-12,true
+2939,St Louis MO,Basic,iPhone,2025-06-20,true
+2940,Hartford CT,Basic,iPad,2024-01-27,true
+2941,Minneapolis MN,Basic,Apple TV,2025-03-10,true
+2942,St Louis MO,Basic,Samsung TV,2025-11-21,true
+2943,Portland OR,Premium,Samsung TV,2022-05-20,true
+2944,Hartford CT,Premium,Roku,2023-02-19,true
+2945,Nashville TN,Basic,Android phone,2025-01-31,true
+2946,New York NY,Standard,iPhone,2025-02-16,false
+2947,Phoenix AZ,Standard,Samsung TV,2023-02-17,true
+2948,Seattle WA,Standard,Web browser,2024-08-30,true
+2949,Denver CO,Standard,Fire TV Stick,2025-01-10,false
+2950,Denver CO,Basic,Web browser,2024-12-25,true
+2951,Providence RI,Premium,Android phone,2024-09-22,true
+2952,Denver CO,Premium Ad-Free,Fire TV Stick,2024-05-27,true
+2953,St Louis MO,Standard,Android phone,2026-06-26,true
+2954,Dallas-Ft Worth TX,Standard,iPad,2024-07-31,true
+2955,Chicago IL,Standard,Apple TV,2024-10-02,true
+2956,Columbus OH,Basic,Apple TV,2025-06-21,true
+2957,Boston MA,Basic,iPad,2025-02-13,true
+2958,Seattle WA,Standard,Fire TV Stick,2024-10-27,true
+2959,Denver CO,Basic,Roku,2025-01-27,true
+2960,Seattle WA,Premium,Android phone,2022-09-23,true
+2961,St Louis MO,Standard,Web browser,2024-05-15,true
+2962,Dallas-Ft Worth TX,Standard,iPhone,2024-06-25,true
+2963,Columbus OH,Basic,Fire TV Stick,2025-07-09,false
+2964,Boston MA,Premium Ad-Free,iPhone,2022-09-11,true
+2965,Minneapolis MN,Basic,Apple TV,2026-07-23,true
+2966,Phoenix AZ,Basic,iPad,2024-04-11,true
+2967,Philadelphia PA,Basic,iPhone,2025-12-05,true
+2968,Philadelphia PA,Standard,Apple TV,2023-05-02,true
+2969,Minneapolis MN,Premium Ad-Free,iPhone,2025-01-08,true
+2970,Miami FL,Basic,Android phone,2025-05-22,true
+2971,Miami FL,Premium,Android phone,2026-05-29,true
+2972,Boston MA,Basic,Apple TV,2023-03-29,true
+2973,Phoenix AZ,Standard,iPhone,2024-12-10,true
+2974,Columbus OH,Basic,Roku,2025-07-07,true
+2975,Providence RI,Standard,Samsung TV,2023-01-03,true
+2976,Seattle WA,Standard,Samsung TV,2026-07-29,true
+2977,Seattle WA,Standard,iPhone,2024-08-18,true
+2978,Baltimore MD,Basic,Web browser,2025-12-18,true
+2979,Chicago IL,Premium,Web browser,2026-02-09,true
+2980,Seattle WA,Premium Ad-Free,Samsung TV,2026-07-25,true
+2981,Minneapolis MN,Standard,Android phone,2025-11-06,true
+2982,Boston MA,Standard,Roku,2022-07-24,false
+2983,Nashville TN,Premium,Samsung TV,2024-09-24,true
+2984,Nashville TN,Basic,Android phone,2022-05-02,true
+2985,Minneapolis MN,Premium,Android phone,2025-07-02,true
+2986,Miami FL,Basic,Web browser,2023-05-12,true
+2987,Minneapolis MN,Premium,Samsung TV,2026-04-09,true
+2988,Portland OR,Basic,Web browser,2026-03-11,true
+2989,St Louis MO,Basic,Web browser,2026-08-03,true
+2990,Dallas-Ft Worth TX,Standard,iPhone,2022-10-08,true
+2991,Seattle WA,Standard,Roku,2023-10-02,true
+2992,Miami FL,Premium,Samsung TV,2023-06-10,true
+2993,Hartford CT,Premium Ad-Free,iPad,2022-08-24,true
+2994,Baltimore MD,Basic,iPhone,2025-03-22,true
+2995,Portland OR,Basic,Web browser,2023-07-14,true
+2996,Miami FL,Standard,iPad,2024-06-26,true
+2997,Los Angeles CA,Standard,Roku,2024-04-23,true
+2998,Los Angeles CA,Standard,iPad,2023-10-18,true
+2999,Dallas-Ft Worth TX,Premium,Apple TV,2024-08-16,true
+3000,Detroit MI,Premium,iPad,2026-07-22,true
