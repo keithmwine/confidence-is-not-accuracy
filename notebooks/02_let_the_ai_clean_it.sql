@@ -31,11 +31,17 @@
 -- MAGIC > `workspace.media_lab.bronze_content`, casting every column to a sensible type.
 -- MAGIC > It came from a CSV so all of them are currently strings.
 -- MAGIC
--- MAGIC Put what it gives you in the next cell and run it.
+-- MAGIC Two prompts, so you get two statements. Put each one in its own cell below and
+-- MAGIC run them.
 
 -- COMMAND ----------
 
--- Your generated SQL goes here.
+-- Your generated SQL for silver_viewing_sessions goes here.
+
+
+-- COMMAND ----------
+
+-- Your generated SQL for silver_content goes here.
 
 
 -- COMMAND ----------
